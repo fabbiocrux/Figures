@@ -1,0 +1,2304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="2020.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   version="1.1"
+   id="svg4881"
+   viewBox="0 0 651.79544 348.69128"
+   height="98.408432mm"
+   width="183.95116mm">
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="125"
+     inkscape:window-x="1280"
+     inkscape:window-height="855"
+     inkscape:window-width="1436"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="195.66809"
+     inkscape:cx="390.82921"
+     inkscape:zoom="0.92748466"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <defs
+     id="defs4883">
+    <marker
+       inkscape:stockid="DiamondL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DiamondL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6266"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyDiamondSstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyDiamondSstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6308"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7945"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotL">
+      <path
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path7943"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6248"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7644"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path7642"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6854"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6852"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path6190"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-71.237396,71.237396,71.237396,71.237396,609.2539,29.314888)"
+       spreadMethod="pad"
+       id="linearGradient6547">
+      <stop
+         style="stop-opacity:1;stop-color:#ff7c86"
+         offset="0"
+         id="stop6541" />
+      <stop
+         style="stop-opacity:1;stop-color:#ff7c86"
+         offset="0.09451804"
+         id="stop6543" />
+      <stop
+         style="stop-opacity:1;stop-color:#ff2729"
+         offset="1"
+         id="stop6545" />
+    </linearGradient>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-48.847576,-97.695175,-97.695175,48.847576,730.03516,160.18359)"
+       spreadMethod="pad"
+       id="linearGradient6539">
+      <stop
+         style="stop-opacity:1;stop-color:#90ffff"
+         offset="0"
+         id="stop6531" />
+      <stop
+         style="stop-opacity:1;stop-color:#007ad3"
+         offset="0.05623185"
+         id="stop6533" />
+      <stop
+         style="stop-opacity:1;stop-color:#007ad3"
+         offset="0.994624"
+         id="stop6535" />
+      <stop
+         style="stop-opacity:1;stop-color:#007ad3"
+         offset="1"
+         id="stop6537" />
+    </linearGradient>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6485"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6483"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6475"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6473"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6465"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6463"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker9509-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path9511-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker9509-0-03"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path9511-1-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker9509-0-03-2-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path9511-1-4-6-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker9509-0-03-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path9511-1-4-8" />
+    </marker>
+    <linearGradient
+       id="linearGradient1702"
+       spreadMethod="pad"
+       gradientTransform="matrix(97.879218,-45.152091,42.794988,103.2703,125.43194,859.49674)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0">
+      <stop
+         id="stop1698"
+         offset="0"
+         style="stop-opacity:1;stop-color:#ffc000" />
+      <stop
+         id="stop1700"
+         offset="1"
+         style="stop-opacity:1;stop-color:#ff9000" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1682"
+       spreadMethod="pad"
+       gradientTransform="matrix(177.44531,77.583069,77.583069,-177.44531,147.27002,409.21875)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0">
+      <stop
+         id="stop1676"
+         offset="0"
+         style="stop-opacity:1;stop-color:#ffffab" />
+      <stop
+         id="stop1678"
+         offset="0.35565765"
+         style="stop-opacity:1;stop-color:#ffffab" />
+      <stop
+         id="stop1680"
+         offset="1"
+         style="stop-opacity:1;stop-color:#ffe300" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1682-3"
+       spreadMethod="pad"
+       gradientTransform="matrix(177.44531,77.583069,77.583069,-177.44531,147.27002,409.21875)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0">
+      <stop
+         id="stop1676-1"
+         offset="0"
+         style="stop-opacity:1;stop-color:#ffffab" />
+      <stop
+         id="stop1678-9"
+         offset="0.35565765"
+         style="stop-opacity:1;stop-color:#ffffab" />
+      <stop
+         id="stop1680-3"
+         offset="1"
+         style="stop-opacity:1;stop-color:#ffe300" />
+    </linearGradient>
+    <path
+       d="m 129.01293,852.73636 3.04453,3.82664 c 11.82617,-30.63268 37.94999,-53.03411 69.00414,-58.8182 v 0 l 2.58569,-4.94408 c -33.51899,4.97491 -61.52995,28.25697 -74.63436,59.93564"
+       style="fill:none;stroke:none;stroke-width:1.25"
+       id="path4079-0"
+       inkscape:connector-curvature="0" />
+    <linearGradient
+       id="linearGradient1682-0"
+       spreadMethod="pad"
+       gradientTransform="matrix(177.44531,77.583069,77.583069,-177.44531,147.27002,409.21875)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0">
+      <stop
+         id="stop1676-0"
+         offset="0"
+         style="stop-opacity:1;stop-color:#ffffab" />
+      <stop
+         id="stop1678-3"
+         offset="0.35565765"
+         style="stop-opacity:1;stop-color:#ffffab" />
+      <stop
+         id="stop1680-2"
+         offset="1"
+         style="stop-opacity:1;stop-color:#ffe300" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1682-06"
+       spreadMethod="pad"
+       gradientTransform="matrix(177.44531,77.583069,77.583069,-177.44531,147.27002,409.21875)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0">
+      <stop
+         id="stop1676-7"
+         offset="0"
+         style="stop-opacity:1;stop-color:#ffffab" />
+      <stop
+         id="stop1678-0"
+         offset="0.35565765"
+         style="stop-opacity:1;stop-color:#ffffab" />
+      <stop
+         id="stop1680-7"
+         offset="1"
+         style="stop-opacity:1;stop-color:#ffe300" />
+    </linearGradient>
+    <path
+       d="m 129.01293,852.73636 3.04453,3.82664 c 11.82617,-30.63268 37.94999,-53.03411 69.00414,-58.8182 v 0 l 2.58569,-4.94408 c -33.51899,4.97491 -61.52995,28.25697 -74.63436,59.93564"
+       style="fill:none;stroke:none;stroke-width:1.25"
+       id="path4079-3"
+       inkscape:connector-curvature="0" />
+    <linearGradient
+       id="linearGradient1682-06-8"
+       spreadMethod="pad"
+       gradientTransform="matrix(177.44531,77.583069,77.583069,-177.44531,147.27002,409.21875)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0">
+      <stop
+         id="stop1676-7-4"
+         offset="0"
+         style="stop-opacity:1;stop-color:#ffffab" />
+      <stop
+         id="stop1678-0-5"
+         offset="0.35565765"
+         style="stop-opacity:1;stop-color:#ffffab" />
+      <stop
+         id="stop1680-7-2"
+         offset="1"
+         style="stop-opacity:1;stop-color:#ffe300" />
+    </linearGradient>
+    <path
+       d="m 129.01293,852.73636 3.04453,3.82664 c 11.82617,-30.63268 37.94999,-53.03411 69.00414,-58.8182 v 0 l 2.58569,-4.94408 c -33.51899,4.97491 -61.52995,28.25697 -74.63436,59.93564"
+       style="fill:none;stroke:none;stroke-width:1.25"
+       id="path4079-3-9"
+       inkscape:connector-curvature="0" />
+    <linearGradient
+       id="linearGradient2308"
+       spreadMethod="pad"
+       gradientTransform="matrix(-71.237396,71.237396,71.237396,71.237396,609.2539,29.314888)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0">
+      <stop
+         id="stop2302"
+         offset="0"
+         style="stop-opacity:1;stop-color:#ff7c86" />
+      <stop
+         id="stop2304"
+         offset="0.1473397"
+         style="stop-opacity:1;stop-color:#ff7c86" />
+      <stop
+         id="stop2306"
+         offset="1"
+         style="stop-opacity:1;stop-color:#ff2729" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2286"
+       spreadMethod="pad"
+       gradientTransform="matrix(57.157227,0,0,-57.157227,583.36328,95.658917)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0">
+      <stop
+         id="stop2280"
+         offset="0"
+         style="stop-opacity:1;stop-color:#ff2c57" />
+      <stop
+         id="stop2282"
+         offset="0.66879343"
+         style="stop-opacity:1;stop-color:#ff2013" />
+      <stop
+         id="stop2284"
+         offset="1"
+         style="stop-opacity:1;stop-color:#ff2013" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2264"
+       spreadMethod="pad"
+       gradientTransform="matrix(95.288086,0,0,-95.288086,609.50879,167.56641)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0">
+      <stop
+         id="stop2260"
+         offset="0"
+         style="stop-opacity:1;stop-color:#ffc000" />
+      <stop
+         id="stop2262"
+         offset="1"
+         style="stop-opacity:1;stop-color:#ff9000" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2244"
+       spreadMethod="pad"
+       gradientTransform="matrix(147.57454,0,0,-147.57454,585.68945,179.3418)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0">
+      <stop
+         id="stop2238"
+         offset="0"
+         style="stop-opacity:1;stop-color:#ffffab" />
+      <stop
+         id="stop2240"
+         offset="0.86820629"
+         style="stop-opacity:1;stop-color:#ffe300" />
+      <stop
+         id="stop2242"
+         offset="1"
+         style="stop-opacity:1;stop-color:#ffe300" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2222"
+       spreadMethod="pad"
+       gradientTransform="matrix(-48.847576,-97.695175,-97.695175,48.847576,730.03516,160.18359)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0">
+      <stop
+         id="stop2214"
+         offset="0"
+         style="stop-opacity:1;stop-color:#90ffff" />
+      <stop
+         id="stop2216"
+         offset="0.48232613"
+         style="stop-opacity:1;stop-color:#007ad3" />
+      <stop
+         id="stop2218"
+         offset="0.994624"
+         style="stop-opacity:1;stop-color:#007ad3" />
+      <stop
+         id="stop2220"
+         offset="1"
+         style="stop-opacity:1;stop-color:#007ad3" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2198"
+       spreadMethod="pad"
+       gradientTransform="matrix(-48.847706,-97.695435,-97.695435,48.847706,720.45898,164.97168)"
+       gradientUnits="userSpaceOnUse"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0">
+      <stop
+         id="stop2192"
+         offset="0"
+         style="stop-opacity:1;stop-color:#188bff" />
+      <stop
+         id="stop2194"
+         offset="0.48493313"
+         style="stop-opacity:1;stop-color:#001d88" />
+      <stop
+         id="stop2196"
+         offset="1"
+         style="stop-opacity:1;stop-color:#001d88" />
+    </linearGradient>
+    <linearGradient
+       spreadMethod="pad"
+       y2="0"
+       x2="1"
+       y1="0"
+       x1="0"
+       gradientTransform="matrix(57.157227,0,0,-57.157227,498.52956,157.86431)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4603"
+       xlink:href="#linearGradient2286"
+       inkscape:collect="always" />
+    <marker
+       style="overflow:visible"
+       id="marker9509-0J"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="marker9509-0J">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4717" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker9509-0J-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="marker9509-0J">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4717-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker9509-0J-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="marker9509-0J">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4717-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker9509-0J-7-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="marker9509-0J">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4717-5-7" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2286"
+       id="linearGradient5316"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(57.157227,0,0,-57.157227,583.36328,95.658917)"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       spreadMethod="pad" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 946.29694,693.84623 c 52.8318,-61.45688 116.61596,-45.27474 156.68516,1.04959"
+       id="path5325-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <marker
+       style="overflow:visible"
+       id="marker9509-0J-7-0-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="marker9509-0J">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4717-5-7-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker9509-0J-7-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="marker9509-0J">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4717-5-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker9509-0J-9-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="marker9509-0J">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4717-3-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker9509-0J-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="marker9509-0J">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4717-1" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6539"
+       id="linearGradient6066"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-48.847576,-97.695175,-97.695175,48.847576,730.03516,160.18359)"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1702"
+       id="linearGradient6068"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(147.57454,0,0,-147.57454,585.68945,179.3418)"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       spreadMethod="pad" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6547"
+       id="linearGradient6070"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-71.237396,71.237396,71.237396,71.237396,609.2539,29.314888)"
+       x1="-0.12922062"
+       y1="0.031886622"
+       x2="1"
+       y2="0"
+       spreadMethod="pad" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 946.29694,693.84623 c 52.8318,-61.45688 116.61596,-45.27474 156.68516,1.04959"
+       id="path5325-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 946.29694,693.84623 c 52.8318,-61.45688 116.61596,-45.27474 156.68516,1.04959"
+       id="path5325-1-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1750.4135,759.18845 c -39.9352,70.5218 -3.1095,125.05767 54.0467,147.07247"
+       id="path5325-8-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <marker
+       style="overflow:visible"
+       id="marker9509-0J-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="marker9509-0J">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#e6e6e6;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4717-13" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6854-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6852-7" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata4886">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-1767.1926,-844.33301)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
+    <rect
+       y="844.80176"
+       x="1795.0378"
+       height="247.98878"
+       width="623.48145"
+       id="rect5853"
+       style="opacity:1;vector-effect:none;fill:#f7f7f7;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.93749982;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/fabio/Desktop/ICE.png"
+       inkscape:export-xdpi="207.12019"
+       inkscape:export-ydpi="207.12019" />
+    <g
+       transform="translate(-10.032684,-4.5930647e-5)"
+       id="g6110">
+      <rect
+         style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:4.49999999, 4.49999999;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect10134"
+         width="278.5"
+         height="180.27803"
+         x="505.56381"
+         y="419.66837"
+         ry="14.129885"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         inkscape:export-xdpi="250"
+         inkscape:export-ydpi="250" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="485.6055"
+         y="411.01883"
+         id="text10142"
+         transform="scale(0.99664102,1.0033703)"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         inkscape:export-xdpi="250"
+         inkscape:export-ydpi="250"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+           id="tspan10144"
+           sodipodi:role="line"
+           x="485.6055"
+           y="411.01883">Evaluation</tspan></text>
+      <g
+         id="g11052"
+         transform="translate(1305.1622,-916.58812)">
+        <g
+           id="g10116"
+           transform="translate(-1598.3581,404.56993)">
+          <rect
+             style="fill:#bfbb8e;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect10118"
+             width="238.5"
+             height="33.5"
+             x="818.7597"
+             y="939.32111"
+             ry="7.693738" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+             x="824.0946"
+             y="962.78986"
+             id="text10120"><tspan
+               style="font-size:16.25px;line-height:1.25"
+               sodipodi:role="line"
+               id="tspan10122"
+               x="824.0946"
+               y="962.78986"><tspan
+                 id="tspan11218"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'">6.</tspan><tspan
+                 id="tspan6252"
+                 style="font-size:20px"> Evaluation of the models</tspan></tspan></text>
+        </g>
+        <g
+           transform="translate(-1598.3581,454.56993)"
+           id="g10124">
+          <rect
+             ry="7.693738"
+             y="941.19672"
+             x="818.7597"
+             height="33.5"
+             width="238.5"
+             id="rect10126"
+             style="fill:#bfbb8e;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text10128"
+             y="963.01996"
+             x="825.12756"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+             xml:space="preserve"><tspan
+               style="font-size:16.25px;line-height:1.25"
+               y="963.01996"
+               x="825.12756"
+               id="tspan10130"
+               sodipodi:role="line"><tspan
+                 id="tspan11212"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'">7.</tspan><tspan
+                 id="tspan6254"
+                 style="font-size:20px"> Drawing conclusions</tspan></tspan></text>
+        </g>
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-03-2-9)"
+           d="m -656.33265,1380.4306 v 14.3642"
+           id="path6061-3-1-5"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+      </g>
+    </g>
+    <g
+       transform="translate(646.33607,-174.87441)"
+       id="g6892">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="-782.16913"
+         y="806.13165"
+         id="text2985-2-8"
+         transform="scale(0.99664102,1.0033703)"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         inkscape:export-xdpi="250"
+         inkscape:export-ydpi="250"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+           id="tspan7809-4-6"
+           sodipodi:role="line"
+           x="-782.16913"
+           y="806.13165">Planning</tspan></text>
+    </g>
+    <g
+       transform="translate(-430.11452,126.66625)"
+       id="g6005">
+      <rect
+         ry="9.9903765"
+         y="956.38629"
+         x="730.17706"
+         height="43.5"
+         width="238.5"
+         id="rect6007"
+         style="fill:#ccebf2;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text6009"
+         y="974.9234"
+         x="748.55426"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="974.9234"
+           x="748.55426"
+           id="tspan6011"
+           sodipodi:role="line"
+           style="font-size:16.25px;line-height:1"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+             id="tspan11260">2.</tspan><tspan
+             style="font-size:20px;line-height:100%"
+             id="tspan6150"> Additive manufacturing </tspan></tspan><tspan
+           y="994.9234"
+           x="748.55426"
+           sodipodi:role="line"
+           id="tspan6152"
+           style="font-size:20px;line-height:100%">    chain</tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6061"
+       d="m 27.633707,685.9348 v 14.36425"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0)" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6061-3"
+       d="m -205.86072,740.91465 v 14.36424"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-03)" />
+    <rect
+       inkscape:export-ydpi="250"
+       inkscape:export-xdpi="250"
+       inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+       ry="22.923819"
+       y="724.1239"
+       x="45.057457"
+       height="292.47665"
+       width="425.06577"
+       id="rect3007-3-16"
+       style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:4.50000002, 4.50000002;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       transform="translate(1876.3907,-243.4033)"
+       id="g4686">
+      <g
+         transform="translate(-2027.2406,7.5368849)"
+         id="g6013">
+        <text
+           id="text6017"
+           y="962.75018"
+           x="737.29657"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="962.75018"
+             x="737.29657"
+             id="tspan6019"
+             sodipodi:role="line"
+             style="font-size:16.25px;line-height:1.25"><tspan
+   id="tspan11254"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'">A.</tspan> CAD Model</tspan></text>
+      </g>
+      <g
+         id="g4646"
+         transform="translate(-2027.2406,27.536885)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="737.29657"
+           y="962.75018"
+           id="text4648"><tspan
+             sodipodi:role="line"
+             id="tspan4650"
+             x="737.29657"
+             y="962.75018"
+             style="font-size:16.25px;line-height:1.25"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+   id="tspan4652">B.</tspan> Definition of AM Technology</tspan></text>
+      </g>
+      <g
+         transform="translate(-2027.2406,47.536885)"
+         id="g4654">
+        <text
+           id="text4656"
+           y="962.75018"
+           x="737.29657"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="962.75018"
+             x="737.29657"
+             id="tspan4658"
+             sodipodi:role="line"
+             style="font-size:16.25px;line-height:1.25"><tspan
+   id="tspan4660"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'">C.</tspan> Material</tspan></text>
+      </g>
+      <g
+         id="g4662"
+         transform="translate(-2027.2406,67.536885)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="737.29657"
+           y="962.75018"
+           id="text4664"><tspan
+             sodipodi:role="line"
+             id="tspan4666"
+             x="737.29657"
+             y="962.75018"
+             style="font-size:16.25px;line-height:1.25"> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+   id="tspan4668" /></tspan></text>
+      </g>
+      <g
+         transform="translate(-2027.2406,87.536885)"
+         id="g4670" />
+    </g>
+    <rect
+       ry="0"
+       y="380.01535"
+       x="-324.56827"
+       height="100"
+       width="100"
+       id="rect5704"
+       style="opacity:1;fill:#f4b5cd;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ccebf2;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5706"
+       width="100"
+       height="100"
+       x="-324.56827"
+       y="260.01535"
+       ry="0" />
+    <rect
+       ry="0"
+       y="500.01535"
+       x="-324.56827"
+       height="100"
+       width="100"
+       id="rect5708"
+       style="opacity:1;fill:#bfbb8e;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="174.52791"
+       y="411.01874"
+       id="text10138"
+       transform="scale(0.99664102,1.0033703)"
+       inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="250"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+         id="tspan10140"
+         sodipodi:role="line"
+         x="174.52791"
+         y="411.01874">Fabrication</tspan></text>
+    <g
+       transform="translate(-602.98657,-512.01825)"
+       id="g6021">
+      <rect
+         ry="7.6937385"
+         y="942.1463"
+         x="818.5177"
+         height="33.5"
+         width="238.5"
+         id="rect6023"
+         style="fill:#f4b5cd;fill-opacity:1;stroke:#000000;stroke-width:1.50000012;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text6025"
+         y="962.96674"
+         x="825.3551"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-size:16.25px;line-height:1.25"
+           id="tspan3813"
+           y="962.96674"
+           x="825.3551"
+           sodipodi:role="line"><tspan
+             id="tspan11248"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'">3.</tspan><tspan
+             id="tspan6148"
+             style="font-size:20px"> Design of Experiments</tspan></tspan></text>
+    </g>
+    <g
+       transform="translate(-607.24432,-460.47374)"
+       id="g6037">
+      <rect
+         ry="7.7931986"
+         y="941.7132"
+         x="818.7597"
+         height="33.933071"
+         width="246.53149"
+         id="rect6039"
+         style="fill:#f4b5cd;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text6041"
+         y="962.77002"
+         x="825.87573"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-size:16.25px;line-height:1.25"
+           y="962.77002"
+           x="825.87573"
+           id="tspan6043"
+           sodipodi:role="line"><tspan
+             id="tspan11236"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'">4.</tspan><tspan
+             id="tspan6250"
+             style="font-size:20px"> Fabrication of the models</tspan></tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6061-3-3"
+       d="m 334.78113,465.96588 v 14.28984"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:4.50000002, 4.50000002;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3007-3-16-2"
+       width="278.5"
+       height="180.27803"
+       x="195.53113"
+       y="419.66837"
+       ry="14.129883"
+       inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="250" />
+    <g
+       id="g968"
+       transform="translate(-860.38944,106.65346)">
+      <rect
+         style="fill:#ccebf2;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect956"
+         width="238.5"
+         height="43.5"
+         x="730.17706"
+         y="956.38629"
+         ry="9.9903765" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="748.55426"
+         y="974.9234"
+         id="text966"><tspan
+           style="font-size:16.25px;line-height:1"
+           sodipodi:role="line"
+           id="tspan962"
+           x="748.55426"
+           y="974.9234"><tspan
+             id="tspan958"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'">2.</tspan><tspan
+             id="tspan960"
+             style="font-size:20px;line-height:100%"> Additive manufacturing </tspan></tspan><tspan
+           style="font-size:20px;line-height:100%"
+           id="tspan964"
+           sodipodi:role="line"
+           x="748.55426"
+           y="994.9234">    chain</tspan></text>
+    </g>
+    <rect
+       ry="18.199368"
+       y="858.33624"
+       x="447.061"
+       height="79.243515"
+       width="129.85916"
+       id="rect996"
+       style="fill:#ccebf2;fill-opacity:1;stroke:#000000;stroke-width:1.49999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="m 129.01293,852.73636 3.04453,3.82664 c 11.82617,-30.63268 37.94999,-53.03411 69.00414,-58.8182 v 0 l 2.58569,-4.94408 c -33.51899,4.97491 -61.52995,28.25697 -74.63436,59.93564"
+       style="fill:none;stroke:none;stroke-width:1.25"
+       id="path4079"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(-1.79445e-7,1.875)"
+       id="g4180">
+      <g
+         style="stroke-width:2.20616937"
+         transform="matrix(0.55160562,0,0,-0.58198748,37.072963,1080.4667)"
+         id="g1664">
+        <g
+           style="stroke-width:2.20616937"
+           id="g1666">
+          <g
+             style="stroke-width:2.20616937"
+             id="g1672">
+            <g
+               style="stroke-width:2.20616937"
+               id="g1674">
+              <path
+                 sodipodi:nodetypes="cccccccccc"
+                 d="m 132.137,390.665 35.639,6.397 18.934,-22.555 c 7.164,16.389 17.371,31.473 30.4,44.501 v 0 c 22.639,22.64 51.451,36.849 82.634,41.114 v 0 L 324.6965,499.74988 297.513,516.902 C 222.942,508.729 159.343,459.46 132.137,390.665"
+                 style="fill:url(#linearGradient1682);stroke:none;stroke-width:2.20616937"
+                 id="path1684"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <text
+         id="text966-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         xml:space="preserve"><textPath
+           xlink:href="#path4079"
+           id="textPath4083"
+           style="font-size:10.00000095px;line-height:100%;stroke-width:1">      Process of Creation</textPath></text>
+    </g>
+    <g
+       id="g4180-3"
+       transform="rotate(90,272.60835,940.66126)">
+      <g
+         style="stroke-width:2.20616937"
+         transform="matrix(0.55160562,0,0,-0.58198748,37.072963,1080.4667)"
+         id="g1664-2">
+        <g
+           style="stroke-width:2.20616937"
+           id="g1666-1">
+          <g
+             style="stroke-width:2.20616937"
+             id="g1672-4">
+            <g
+               style="stroke-width:2.20616937"
+               id="g1674-0">
+              <path
+                 sodipodi:nodetypes="cccccccccc"
+                 d="m 132.137,390.665 35.639,6.397 18.934,-22.555 c 7.164,16.389 17.371,31.473 30.4,44.501 v 0 c 22.639,22.64 51.451,36.849 82.634,41.114 v 0 L 324.6965,499.74988 297.513,516.902 C 222.942,508.729 159.343,459.46 132.137,390.665"
+                 style="fill:url(#linearGradient1682-06);stroke:none;stroke-width:2.20616937"
+                 id="path1684-0"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <text
+         id="text966-7-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         xml:space="preserve"><textPath
+           xlink:href="#path4079-3"
+           id="textPath4083-7"
+           style="font-size:10.00000095px;line-height:100%;stroke-width:1">          Process of Use</textPath></text>
+    </g>
+    <g
+       id="g4180-3-0"
+       transform="rotate(-141.75597,244.2909,869.63979)">
+      <g
+         style="stroke-width:2.20616937"
+         transform="matrix(0.55160562,0,0,-0.58198748,37.072963,1080.4667)"
+         id="g1664-2-9">
+        <g
+           style="stroke-width:2.20616937"
+           id="g1666-1-8">
+          <g
+             style="stroke-width:2.20616937"
+             id="g1672-4-0">
+            <g
+               style="stroke-width:2.20616937"
+               id="g1674-0-5">
+              <path
+                 sodipodi:nodetypes="cccccccccc"
+                 d="m 132.137,390.665 35.639,6.397 18.934,-22.555 c 7.164,16.389 17.371,31.473 30.4,44.501 v 0 c 22.639,22.64 51.451,36.849 82.634,41.114 v 0 L 324.6965,499.74988 297.513,516.902 C 222.942,508.729 159.343,459.46 132.137,390.665"
+                 style="fill:url(#linearGradient1682-06-8);stroke:none;stroke-width:2.20616937"
+                 id="path1684-0-3"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <text
+         id="text966-7-8-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         xml:space="preserve"><textPath
+           xlink:href="#path4079-3-9"
+           id="textPath4083-7-5"
+           style="font-size:10.00000095px;line-height:100%;stroke-width:1">          Process of Use</textPath></text>
+    </g>
+    <g
+       id="g2180"
+       transform="matrix(-0.78699857,0.97115049,0.97115049,0.78699857,1126.3281,217.02354)">
+      <g
+         id="g2182">
+        <g
+           id="g2188">
+          <g
+             id="g2190">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2200"
+               style="fill:url(#linearGradient2198);stroke:none"
+               d="m 703.451,158.5 c 4.196,-7.37 6.606,-15.891 6.606,-24.978 v 0 c 0,-25.662 -19.12,-46.848 -43.887,-50.125 v 0 l -1.058,-2.375 c 26.476,2.822 47.169,25.288 47.169,52.5 v 0 c 0,9.066 -2.299,17.604 -6.34,25.065 v 0 z" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g2202"
+       transform="matrix(-0.78699857,0.97115049,0.97115049,0.78699857,1401.0832,141.83246)">
+      <g
+         id="g2204">
+        <g
+           id="g2210">
+          <g
+             id="g2212">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2224"
+               style="fill:url(#linearGradient2222);stroke:none"
+               d="m 716.083,158.945 -9.019,-0.318 c 3.973,-7.5 6.234,-16.042 6.234,-25.105 v 0 c 0,-27.936 -21.398,-50.963 -48.662,-53.57 v 0 l -3.496,-7.844 8.512,-11.657 c 35.934,4.96 63.611,35.775 63.611,73.071 v 0 c 0,13.722 -3.758,26.559 -10.28,37.563 v 0 z" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g2226"
+       transform="matrix(-0.78699857,0.97115049,0.97115049,0.78699857,1497.8801,140.85668)">
+      <g
+         id="g2228">
+        <g
+           id="g2234">
+          <g
+             id="g2236">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2246"
+               style="fill:url(#linearGradient2244);stroke:none"
+               d="m 588.895,155.074 12.796,3.393 7.017,-7.094 c 7.381,20.928 27.345,35.973 50.768,35.973 v 0 c 19.799,0 37.125,-10.755 46.472,-26.721 v 0 l 8.926,0.314 6.89,12.121 c -13.095,20.581 -36.087,34.25 -62.288,34.25 v 0 c -33.253,0 -61.359,-22 -70.581,-52.236" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g2248"
+       transform="matrix(-0.78699857,0.97115049,0.97115049,0.78699857,1126.3281,217.02354)">
+      <g
+         id="g2250">
+        <g
+           id="g2256">
+          <g
+             id="g2258">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2266"
+               style="fill:url(#linearGradient2264);stroke:none"
+               d="m 609.509,150.565 1.741,-1.762 c 6.479,20.465 25.616,35.3 48.226,35.3 v 0 c 18.015,0 33.821,-9.427 42.78,-23.609 v 0 l 2.541,0.09 c -9.234,15.407 -26.09,25.744 -45.321,25.744 v 0 c -23.153,0 -42.862,-14.986 -49.967,-35.763" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g2276"
+       style="stroke-width:0.68980807"
+       transform="matrix(-1.140895,1.4078561,1.4078561,1.140895,1800.3775,-496.26965)">
+      <g
+         id="g2278"
+         style="stroke-width:0.68980807">
+        <path
+           inkscape:connector-curvature="0"
+           id="path2288"
+           style="fill:url(#linearGradient5316);stroke:none;stroke-width:0.68980807"
+           d="m 583.36338,114.63404 c 0,-29.116006 23.688,-52.805006 52.805,-52.805006 v 0 c 1.117,0 2.224,0.047 3.324,0.116 v 0 l 1.028,2.307 c -1.436,-0.121 -2.886,-0.199 -4.352,-0.199 v 0 c -27.936,0 -50.582,22.648 -50.582,50.581006 v 0 c 0,4.511 0.599,8.881 1.708,13.043 v 0 l -1.791,1.81 c -1.384,-4.715 -2.14,-9.695 -2.14,-14.853" />
+      </g>
+    </g>
+    <g
+       id="g4357-3"
+       transform="translate(685.85837,-695.77316)">
+      <g
+         id="g978">
+        <rect
+           ry="18.199368"
+           y="944.5979"
+           x="730.58966"
+           height="79.243515"
+           width="129.85916"
+           id="rect4365-6"
+           style="fill:#ccebf2;fill-opacity:1;stroke:#000000;stroke-width:1.49999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text4361-9"
+           y="980.07782"
+           x="757.90417"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:start;text-anchor:start"
+             y="980.07782"
+             x="757.90417"
+             sodipodi:role="line"
+             id="tspan970">Data </tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:start;text-anchor:start"
+             y="1000.3903"
+             x="757.90417"
+             sodipodi:role="line"
+             id="tspan6665">Gathering</tspan></text>
+      </g>
+    </g>
+    <rect
+       y="654.63794"
+       x="801.42535"
+       height="323.07764"
+       width="482.80396"
+       id="rect4570"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#e6e6e6;stroke-width:1.77165329;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       transform="matrix(-0.78699857,0.97115049,0.97115049,0.78699857,1444.7899,-120.59414)"
+       id="g4601">
+      <g
+         id="g4599">
+        <g
+           id="g4597">
+          <g
+             id="g4595">
+            <path
+               d="m 498.52966,176.83943 c 0,-29.116 23.688,-52.805 52.805,-52.805 v 0 c 1.117,0 2.224,0.047 3.324,0.116 v 0 l 1.028,2.307 c -1.436,-0.121 -2.886,-0.199 -4.352,-0.199 v 0 c -27.936,0 -50.582,22.648 -50.582,50.581 v 0 c 0,4.511 0.599,8.881 1.708,13.043 v 0 l -1.791,1.81 c -1.384,-4.715 -2.14,-9.695 -2.14,-14.853"
+               style="fill:url(#linearGradient4603);stroke:none"
+               id="path4593"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4605"
+       d="m 1129.4702,750.7166 48.7752,99.18589"
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:#666666;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0J)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#f7f7f7;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5306"
+       width="149.41704"
+       height="44.810913"
+       x="870.41718"
+       y="878.7312" />
+    <text
+       id="text1002"
+       y="897.07281"
+       x="936.31793"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle"
+         y="897.07281"
+         x="936.31793"
+         sodipodi:role="line"
+         id="tspan1000">Innovation</tspan><tspan
+         id="tspan1010"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle"
+         y="917.38531"
+         x="936.31793"
+         sodipodi:role="line">Outcomes</tspan></text>
+    <g
+       id="g2290"
+       transform="matrix(-0.78699857,0.97115049,0.97115049,0.78699857,1450.8211,119.05588)">
+      <g
+         id="g2292">
+        <g
+           id="g2298">
+          <g
+             id="g2300">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2310"
+               style="fill:url(#linearGradient2308);stroke:none"
+               d="m 541.63376,115.02108 c -1.66,-6.147 -2.56,-12.604 -2.56,-19.275003 v 0 c 0,-40.751009 33.035,-73.786009 73.787,-73.786009 v 0 c 2.658,0 5.283,0.146 7.87,0.421 v 0 l -8.546,11.703 3.529,7.916 c -0.945,-0.049 -1.896,-0.076 -2.853,-0.076 v 0 c -29.679,0 -53.823,24.145 -53.823,53.822009 v 0 c 0,5.454003 0.822,10.718003 2.337,15.684003 v 0 l -6.917,6.993 z" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect
+       ry="7.8621664"
+       y="776.52307"
+       x="1101.2791"
+       height="36.451862"
+       width="106.49662"
+       id="rect4654"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.87500024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text6017-1"
+       y="792.10345"
+       x="1121.5117"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         y="792.10345"
+         x="1121.5117"
+         id="tspan6019-6"
+         sodipodi:role="line"
+         style="font-size:16.25px;line-height:1;stroke-width:1">Process of </tspan><tspan
+         id="tspan4656"
+         y="808.35345"
+         x="1121.5117"
+         sodipodi:role="line"
+         style="font-size:16.25px;line-height:1;stroke-width:1">Creation</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4605-4"
+       d="m 1091.5713,961.76568 -99.68488,0.58062"
+       style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#666666;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0J-9)"
+       sodipodi:nodetypes="cc" />
+    <rect
+       ry="13.437242"
+       y="923.54211"
+       x="1019.8343"
+       height="62.299934"
+       width="62.021488"
+       id="rect4654-7"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text6017-1-9"
+       y="941.69391"
+       x="1050.7417"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         y="941.69391"
+         x="1052.7729"
+         id="tspan6019-6-8"
+         sodipodi:role="line"
+         style="font-size:16.25px;line-height:1;text-align:center;text-anchor:middle;stroke-width:1">Process </tspan><tspan
+         y="957.94391"
+         x="1052.7729"
+         sodipodi:role="line"
+         style="font-size:16.25px;line-height:1;text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan5184">of </tspan><tspan
+         id="tspan4656-0"
+         y="974.19391"
+         x="1050.7417"
+         sodipodi:role="line"
+         style="font-size:16.25px;line-height:1;text-align:center;text-anchor:middle;stroke-width:1">Use</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4605-8"
+       d="m 953.0674,840.44216 48.7752,-99.1859"
+       style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0J-7)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.87500048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5186"
+       width="83.624863"
+       height="28.589697"
+       x="940.05786"
+       y="776.52307"
+       ry="6.1664052" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="942.27582"
+       y="794.62665"
+       id="text5192"><tspan
+         style="font-size:16.25px;line-height:1;stroke-width:1"
+         sodipodi:role="line"
+         x="942.27582"
+         y="794.62665"
+         id="tspan5190">Evaluation</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4605-8-6"
+       d="m 950.79468,840.64779 227.45072,9.2547"
+       style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#666666;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0J-7-0)"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.87500024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5186-4"
+       width="106.49662"
+       height="36.451862"
+       x="1002.5195"
+       y="831.27344"
+       ry="7.8621669" />
+    <text
+       id="text6017-1-2"
+       y="853.0368"
+       x="1022.2539"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         id="tspan4656-07"
+         y="853.0368"
+         x="1022.2539"
+         sodipodi:role="line"
+         style="font-size:16.25px;line-height:1;stroke-width:1">Adaptation</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 946.29694,693.84623 c 52.8318,-61.45688 116.61596,-45.27474 156.68516,1.04959"
+       id="path5325"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1750.4135,759.18845 c -39.9352,70.5218 -3.1095,125.05767 54.0467,147.07247"
+       id="path5325-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text4361-9-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"
+       x="37.166603"
+       y="35.737118"
+       transform="translate(38.564582,61.344391)"><textPath
+         xlink:href="#path5325"
+         startOffset="50%"
+         id="textPath5342"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.50000191px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1">Strategic Intention</textPath></text>
+    <rect
+       inkscape:export-ydpi="207.12019"
+       inkscape:export-xdpi="207.12019"
+       inkscape:export-filename="/Users/fabio/Desktop/ICE.png"
+       ry="6.4970078"
+       y="1009.8976"
+       x="1795.0378"
+       height="82.892944"
+       width="621.4234"
+       id="rect3007-3-16-0"
+       style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:1.49999988;stroke-miterlimit:4;stroke-dasharray:4.50000011, 4.50000011;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       id="text986"
+       y="896.91943"
+       x="1188.6575"><tspan
+         id="tspan984"
+         sodipodi:role="line"
+         x="1188.6575"
+         y="896.91943"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle">Physical</tspan><tspan
+         id="tspan994"
+         sodipodi:role="line"
+         x="1188.6575"
+         y="917.23193"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle">Embodiment</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#f7f7f7;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5876"
+       width="104.94191"
+       height="44.810913"
+       x="1021.0455"
+       y="553.75671" />
+    <text
+       id="text4361-9-2"
+       y="572.69482"
+       x="1073.3588"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1"
+         y="572.69482"
+         x="1075.4218"
+         id="tspan4363-2-3"
+         sodipodi:role="line">Strategic </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1"
+         y="593.00732"
+         x="1073.3588"
+         sodipodi:role="line"
+         id="tspan970-9">Intention</tspan></text>
+    <g
+       id="g2226-1"
+       transform="matrix(-0.78699857,0.97115052,0.97115052,0.78699857,2114.4014,-99.05491)">
+      <g
+         id="g2228-0">
+        <g
+           id="g2234-3">
+          <g
+             id="g2236-7" />
+        </g>
+      </g>
+    </g>
+    <text
+       id="text4361-9-4-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       xml:space="preserve"
+       x="-900.04736"
+       y="-640.28796"
+       transform="matrix(0.93749999,0,0,0.93749999,1536.0469,457.43985)"><textPath
+         xlink:href="#path5325-3"
+         startOffset="50%"
+         id="textPath5342-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333588px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.06666672">Strategic Intention</textPath></text>
+    <text
+       id="text4361-9-4-96"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"
+       x="-1051.5394"
+       y="-215.54526"
+       transform="rotate(-18.82686,336.67734,-2531.7798)"><textPath
+         xlink:href="#path5325-1"
+         startOffset="50%"
+         id="textPath5342-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.50000191px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;fill:#333333;stroke-width:1">Physical Embodiment</textPath></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6137"
+       d="m 1550.3145,858.24669 c 39.9352,70.5218 3.1095,125.05767 -54.0467,147.07251"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       id="g6636">
+      <g
+         transform="matrix(-0.78699857,0.97115052,0.97115052,0.78699857,2017.6045,-98.079128)"
+         id="g2202-8">
+        <g
+           id="g2204-4">
+          <g
+             id="g2210-4">
+            <g
+               id="g2212-9" />
+          </g>
+        </g>
+      </g>
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-03-2-9)"
+         d="m 1745.9915,548.30503 48.7752,61.68589"
+         id="path4605-3"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(0,18.75)"
+         id="g6584">
+        <rect
+           ry="7.8621669"
+           y="536.63989"
+           x="1718.6575"
+           height="36.451862"
+           width="106.49662"
+           id="rect4654-3"
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.87500024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text6017-1-99"
+           y="552.19189"
+           x="1738.0331"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           xml:space="preserve"><tspan
+             y="552.19189"
+             x="1738.0331"
+             id="tspan6019-6-9"
+             sodipodi:role="line"
+             style="font-size:16.25px;line-height:1;stroke-width:1">Process of </tspan><tspan
+             id="tspan4656-6"
+             y="568.44189"
+             x="1738.0331"
+             sodipodi:role="line"
+             style="font-size:16.25px;line-height:1;stroke-width:1">Creation</tspan></text>
+      </g>
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-03-2-9)"
+         d="m 1708.0926,721.85411 -99.6849,0.58062"
+         id="path4605-4-1"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-1.79445e-7,5.625)"
+         id="g6591">
+        <rect
+           ry="13.437243"
+           y="683.63055"
+           x="1636.3556"
+           height="62.299934"
+           width="62.021492"
+           id="rect4654-7-7"
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text6017-1-9-3"
+           y="701.78235"
+           x="1667.2631"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           xml:space="preserve"><tspan
+             y="701.78235"
+             x="1669.2943"
+             id="tspan6019-6-8-9"
+             sodipodi:role="line"
+             style="font-size:16.25px;line-height:1;text-align:center;text-anchor:middle;stroke-width:1">Process </tspan><tspan
+             y="718.03235"
+             x="1669.2943"
+             sodipodi:role="line"
+             style="font-size:16.25px;line-height:1;text-align:center;text-anchor:middle;stroke-width:1"
+             id="tspan5184-8">of </tspan><tspan
+             id="tspan4656-0-4"
+             y="734.28235"
+             x="1667.2631"
+             sodipodi:role="line"
+             style="font-size:16.25px;line-height:1;text-align:center;text-anchor:middle;stroke-width:1">Use</tspan></text>
+      </g>
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-03-2-9)"
+         d="m 1569.5887,600.53059 49.0658,-62.53864"
+         id="path4605-8-0"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(-18.75,7.5)"
+         id="g6573">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.8750006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5186-6"
+           width="69.979095"
+           height="21.514109"
+           x="1556.5792"
+           y="555.36151"
+           ry="4.6402979" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           x="1558.7971"
+           y="573.46509"
+           id="text5192-3"><tspan
+             style="font-size:16.25px;line-height:1;stroke-width:1"
+             sodipodi:role="line"
+             x="1558.7971"
+             y="573.46509"
+             id="tspan5190-4">Evaluation</tspan></text>
+      </g>
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-03-2-9)"
+         d="m 1567.316,600.73622 227.4507,9.2547"
+         id="path4605-8-6-6"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g6578">
+        <rect
+           style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.87500012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5186-4-9"
+           width="96.388634"
+           height="29.376274"
+           x="1624.0947"
+           y="594.89966"
+           ry="6.3360596" />
+        <text
+           id="text6017-1-2-7"
+           y="613.12524"
+           x="1638.7753"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           xml:space="preserve"><tspan
+             id="tspan4656-07-4"
+             y="613.12524"
+             x="1638.7753"
+             sodipodi:role="line"
+             style="font-size:16.25px;line-height:1;stroke-width:1">Adaptation</tspan></text>
+      </g>
+      <g
+         transform="translate(0,37.5)"
+         id="g6556">
+        <g
+           id="g2290-4"
+           transform="matrix(-0.78699857,0.97115052,0.97115052,0.78699857,2067.3423,-120.85571)">
+          <g
+             id="g2292-8">
+            <g
+               id="g2298-1">
+              <g
+                 id="g2300-2">
+                <path
+                   inkscape:connector-curvature="0"
+                   id="path2310-8"
+                   style="fill:url(#linearGradient6070);stroke:none"
+                   d="m 541.63376,115.02108 c -1.66,-6.147 -2.56,-12.604 -2.56,-19.275003 v 0 c 0,-40.751009 33.035,-73.786009 73.787,-73.786009 v 0 c 2.658,0 5.283,0.146 7.87,0.421 v 0 l -8.546,11.703 3.529,7.916 c -0.945,-0.049 -1.896,-0.076 -2.853,-0.076 v 0 c -29.679,0 -53.823,24.145 -53.823,53.822009 v 0 c 0,5.454003 0.822,10.718003 2.337,15.684003 v 0 l -6.917,6.993 z" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <text
+           id="text4361-9-4-96-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+           xml:space="preserve"
+           x="-2149.3616"
+           y="-917.62292"
+           transform="matrix(0.93749999,0,0,0.93749999,718.71131,-141.69545)"><textPath
+             xlink:href="#path5325-1-0"
+             startOffset="50%"
+             id="textPath5342-7-7"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333588px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.06666672">Strategic Intention</textPath></text>
+      </g>
+      <g
+         id="g6562">
+        <path
+           transform="matrix(-0.78699857,0.97115052,0.97115052,0.78699857,2114.4014,-99.054915)"
+           inkscape:connector-curvature="0"
+           id="path2246-4"
+           style="fill:url(#linearGradient6068);fill-opacity:1;stroke:none"
+           d="m 588.895,155.074 12.796,3.393 7.017,-7.094 c 7.381,20.928 27.345,35.973 50.768,35.973 v 0 c 19.799,0 37.125,-10.755 46.472,-26.721 v 0 l 8.926,0.314 6.89,12.121 c -13.095,20.581 -36.087,34.25 -62.288,34.25 v 0 c -33.253,0 -61.359,-22 -70.581,-52.236" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1"
+           id="text986-3"
+           x="454.85928"
+           y="-70.75589"
+           transform="rotate(-122.0768,1723.9704,756.32406)"><textPath
+             xlink:href="#path5325-8"
+             startOffset="50%"
+             id="textPath6139"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.50000191px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1">Physical Embodiment</textPath></text>
+      </g>
+      <g
+         id="g6568">
+        <path
+           transform="matrix(-0.78699857,0.97115052,0.97115052,0.78699857,2017.6045,-98.079127)"
+           inkscape:connector-curvature="0"
+           id="path2224-8"
+           style="fill:url(#linearGradient6066);stroke:none"
+           d="m 716.083,158.945 -9.019,-0.318 c 3.973,-7.5 6.234,-16.042 6.234,-25.105 v 0 c 0,-27.936 -21.398,-50.963 -48.662,-53.57 v 0 l -3.496,-7.844 8.512,-11.657 c 35.934,4.96 63.611,35.775 63.611,73.071 v 0 c 0,13.722 -3.758,26.559 -10.28,37.563 v 0 z" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+           id="text986-3-4"
+           x="-1639.6931"
+           y="-1216.041"
+           transform="rotate(-0.57750001,-15026.076,19428.557)"><textPath
+             xlink:href="#path5325-8-6"
+             startOffset="50%"
+             id="textPath6139-5"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.50000191px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1">Innovation Outcomes</textPath></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       id="text986-8"
+       y="825.00488"
+       x="1799.47"><tspan
+         id="tspan994-7"
+         sodipodi:role="line"
+         x="1799.47"
+         y="825.00488"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:start;text-anchor:start;stroke-width:1">Framework of  </tspan><tspan
+         sodipodi:role="line"
+         x="1799.47"
+         y="841.25488"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:start;text-anchor:start;stroke-width:1"
+         id="tspan6661">Innovation spaces</tspan></text>
+    <rect
+       style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:1.49999988;stroke-miterlimit:4;stroke-dasharray:4.50000004, 4.50000004;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6667"
+       width="309.27246"
+       height="279.67416"
+       x="1598.0049"
+       y="53.490761"
+       ry="21.920383"
+       inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="250" />
+    <ellipse
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.93750006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:5.62500005, 5.62500005;stroke-dashoffset:0;stroke-opacity:1"
+       id="path6669"
+       cx="1678.0731"
+       cy="628.58051"
+       rx="191.51398"
+       ry="150.08612" />
+    <g
+       id="g6742"
+       inkscape:export-filename="/Users/fabio/Desktop/ICE.png"
+       inkscape:export-xdpi="207.12019"
+       inkscape:export-ydpi="207.12019">
+      <rect
+         ry="18.199368"
+         y="906.26093"
+         x="1804.4602"
+         height="79.243515"
+         width="129.85916"
+         id="rect980"
+         style="fill:#ccebf2;fill-opacity:1;stroke:#000000;stroke-width:1.49999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text5312"
+         y="941.74084"
+         x="1869.2748"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1"
+           y="941.74084"
+           x="1871.3378"
+           id="tspan5308"
+           sodipodi:role="line">Strategic </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1"
+           y="962.05334"
+           x="1869.2748"
+           sodipodi:role="line"
+           id="tspan5310">Intention</tspan></text>
+    </g>
+    <g
+       id="g6748"
+       transform="translate(244.05758,-115.23102)"
+       inkscape:export-filename="/Users/fabio/Desktop/ICE.png"
+       inkscape:export-xdpi="207.12019"
+       inkscape:export-ydpi="207.12019">
+      <rect
+         ry="18.199368"
+         y="1023.0045"
+         x="1804.4602"
+         height="79.243515"
+         width="129.85918"
+         id="rect980-9"
+         style="fill:#ccebf2;fill-opacity:1;stroke:#000000;stroke-width:1.49999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text5312-6"
+         y="1058.4844"
+         x="1869.2748"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1"
+           y="1058.4844"
+           x="1869.2748"
+           sodipodi:role="line"
+           id="tspan5310-1">Physical</tspan><tspan
+           id="tspan6718"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1"
+           y="1078.7969"
+           x="1869.2748"
+           sodipodi:role="line">Embodiment</tspan></text>
+    </g>
+    <g
+       id="g6736"
+       transform="translate(115.13056,-4.0431935)"
+       inkscape:export-filename="/Users/fabio/Desktop/ICE.png"
+       inkscape:export-xdpi="207.12019"
+       inkscape:export-ydpi="207.12019">
+      <rect
+         style="fill:#ccebf2;fill-opacity:1;stroke:#000000;stroke-width:1.49999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6720"
+         width="129.85918"
+         height="79.243515"
+         x="2159.2505"
+         y="914.84906"
+         ry="18.199368" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="2224.0649"
+         y="950.32892"
+         id="text6726"><tspan
+           sodipodi:role="line"
+           x="2224.0649"
+           y="950.32892"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1"
+           id="tspan6724">Innovation</tspan><tspan
+           id="tspan6730"
+           sodipodi:role="line"
+           x="2224.0649"
+           y="970.64142"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1">Outcomes</tspan></text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4605-80"
+       d="m 1938.1871,952.24646 h 109.4231"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/fabio/Desktop/ICE.png"
+       inkscape:export-xdpi="207.12019"
+       inkscape:export-ydpi="207.12019" />
+    <text
+       id="text6017-1-0"
+       y="933.88214"
+       x="1949.4338"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/fabio/Desktop/ICE.png"
+       inkscape:export-xdpi="207.12019"
+       inkscape:export-ydpi="207.12019"><tspan
+         y="933.88214"
+         x="1949.4338"
+         id="tspan6019-6-94"
+         sodipodi:role="line"
+         style="font-size:16.25px;line-height:1;stroke-width:1">Process of </tspan><tspan
+         id="tspan4656-2"
+         y="950.13214"
+         x="1949.4338"
+         sodipodi:role="line"
+         style="font-size:16.25px;line-height:1;stroke-width:1">Creation</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6854)"
+       d="m 2181.9371,952.24646 h 90.4408"
+       id="path6844"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/fabio/Desktop/ICE.png"
+       inkscape:export-xdpi="207.12019"
+       inkscape:export-ydpi="207.12019" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="2193.1838"
+       y="933.88214"
+       id="text6850"
+       inkscape:export-filename="/Users/fabio/Desktop/ICE.png"
+       inkscape:export-xdpi="207.12019"
+       inkscape:export-ydpi="207.12019"><tspan
+         style="font-size:16.25px;line-height:1;stroke-width:1"
+         sodipodi:role="line"
+         id="tspan6846"
+         x="2193.1838"
+         y="933.88214">Process of </tspan><tspan
+         style="font-size:16.25px;line-height:1;stroke-width:1"
+         sodipodi:role="line"
+         x="2193.1838"
+         y="950.13214"
+         id="tspan6848">Use</tspan></text>
+    <path
+       sodipodi:nodetypes="cccc"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6854-9)"
+       d="m 2346.6414,990.23098 v 56.48112 h -239.0451 v -56.48112"
+       id="path6844-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/fabio/Desktop/ICE.png"
+       inkscape:export-xdpi="207.12019"
+       inkscape:export-ydpi="207.12019" />
+    <ellipse
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.93750012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path7006"
+       cx="2225.8325"
+       cy="1050.089"
+       rx="41.71875"
+       ry="32.34375"
+       inkscape:export-filename="/Users/fabio/Desktop/ICE.png"
+       inkscape:export-xdpi="207.12019"
+       inkscape:export-ydpi="207.12019" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="2190.2817"
+       y="1054.1356"
+       id="text6850-4"
+       inkscape:export-filename="/Users/fabio/Desktop/ICE.png"
+       inkscape:export-xdpi="207.12019"
+       inkscape:export-ydpi="207.12019"><tspan
+         style="font-size:16.25px;line-height:1;stroke-width:1"
+         sodipodi:role="line"
+         x="2190.2817"
+         y="1054.1356"
+         id="tspan6848-2">Adaptation</tspan><tspan
+         style="font-size:16.25px;line-height:1;stroke-width:1"
+         sodipodi:role="line"
+         x="2190.2817"
+         y="1061.0125"
+         id="tspan7031" /></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path7640"
+       d="m 2106.6414,990.23098 v 56.48112 h -239.0451 v -56.48112"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7644)"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/Users/fabio/Desktop/ICE.png"
+       inkscape:export-xdpi="207.12019"
+       inkscape:export-ydpi="207.12019" />
+    <ellipse
+       ry="32.34375"
+       rx="41.71875"
+       cy="1050.089"
+       cx="1982.0825"
+       id="ellipse7626"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.93750012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/Users/fabio/Desktop/ICE.png"
+       inkscape:export-xdpi="207.12019"
+       inkscape:export-ydpi="207.12019" />
+    <text
+       id="text7632"
+       y="1054.1356"
+       x="1946.5317"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/fabio/Desktop/ICE.png"
+       inkscape:export-xdpi="207.12019"
+       inkscape:export-ydpi="207.12019"><tspan
+         id="tspan7630"
+         y="1054.1356"
+         x="1946.5317"
+         sodipodi:role="line"
+         style="font-size:16.25px;line-height:1;stroke-width:1">Evaluation</tspan></text>
+    <text
+       transform="rotate(-90)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       id="text7834"
+       y="1776.6409"
+       x="-1094.0485"
+       inkscape:export-filename="/Users/fabio/Desktop/ICE.png"
+       inkscape:export-xdpi="207.12019"
+       inkscape:export-ydpi="207.12019"><tspan
+         id="tspan7832"
+         sodipodi:role="line"
+         x="-1094.0485"
+         y="1776.6409"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.50000191px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:start;text-anchor:start;stroke-width:1">Operational</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       id="text986-8-2"
+       y="863.80609"
+       x="2160.5908"
+       inkscape:export-filename="/Users/fabio/Desktop/ICE.png"
+       inkscape:export-xdpi="207.12019"
+       inkscape:export-ydpi="207.12019"><tspan
+         sodipodi:role="line"
+         x="2160.5908"
+         y="863.80609"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;line-height:1;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face Bold';text-align:start;text-anchor:start;stroke-width:1"
+         id="tspan6661-3">Global / Regional / Local Context</tspan></text>
+    <g
+       id="g8151"
+       transform="translate(0,206.25)"
+       inkscape:export-filename="/Users/fabio/Desktop/ICE.png"
+       inkscape:export-xdpi="207.12019"
+       inkscape:export-ydpi="207.12019">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="1869.2748"
+         y="941.74084"
+         id="text8149"><tspan
+           id="tspan8147"
+           sodipodi:role="line"
+           x="1869.2748"
+           y="941.74084"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1">Data</tspan><tspan
+           sodipodi:role="line"
+           x="1869.2748"
+           y="962.05334"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1"
+           id="tspan8155">Gathering</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.75px;line-height:0.60000002;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1947.9287"
+       y="1140.4628"
+       id="text8159"
+       inkscape:export-filename="/Users/fabio/Desktop/ICE.png"
+       inkscape:export-xdpi="207.12019"
+       inkscape:export-ydpi="207.12019"><tspan
+         sodipodi:role="line"
+         id="tspan8157"
+         x="1947.9287"
+         y="1140.4628"
+         style="font-size:11.25px;stroke-width:0.9375px">- Documents of the project</tspan><tspan
+         sodipodi:role="line"
+         x="1947.9287"
+         y="1151.8274"
+         style="font-size:11.25px;stroke-width:0.9375px"
+         id="tspan8161">- Prototypes made</tspan><tspan
+         sodipodi:role="line"
+         x="1947.9287"
+         y="1163.192"
+         style="font-size:11.25px;stroke-width:0.9375px"
+         id="tspan8163">- Participa observation</tspan><tspan
+         sodipodi:role="line"
+         x="1947.9287"
+         y="1174.5568"
+         style="font-size:11.25px;stroke-width:0.9375px"
+         id="tspan8165">- Technical reports</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.8125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1937.8206,1125.3008 v 67.7235"
+       id="path8167"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/fabio/Desktop/ICE.png"
+       inkscape:export-xdpi="207.12019"
+       inkscape:export-ydpi="207.12019" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.8125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8169"
+       width="109.35558"
+       height="60.753105"
+       x="1813.1624"
+       y="1126.7468"
+       ry="0"
+       inkscape:export-filename="/Users/fabio/Desktop/ICE.png"
+       inkscape:export-xdpi="207.12019"
+       inkscape:export-ydpi="207.12019" />
+  </g>
+</svg>

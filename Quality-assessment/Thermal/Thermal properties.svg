@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg14628"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Documento nuevo 44">
+  <defs
+     id="defs14630">
+    <marker
+       style="overflow:visible"
+       id="marker7582"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path7584" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7618"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path7620" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker14650"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path14652" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker14654"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path14656" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker14658"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path14660" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker14662"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path14664" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker14666"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path14668" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker14670"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path14672" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7582-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path7584-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker7618-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path7620-5" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="877.49836"
+     inkscape:cy="1185.0337"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="944"
+     inkscape:window-height="1122"
+     inkscape:window-x="960"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata14633">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="translate(8454.0148,-9878.4698)"
+       id="g9885"
+       inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Presentations PPT\Séminaire recherche Mayo 07\figuras\Thermal properties\3Dp.png"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299">
+      <g
+         transform="translate(-458.73024,-313.75118)"
+         id="g9251">
+        <g
+           transform="translate(-8811.2275,9275.8706)"
+           id="g6550-1">
+          <path
+             sodipodi:nodetypes="cccccccccccc"
+             inkscape:connector-curvature="0"
+             id="path5123-18"
+             d="m 976.81607,1166.9452 7.0625,19.981 c 2.5558,4.1916 8.1647,6.8522 12.6116,8.0313 l 0,-28.0123 -10.0181,0 z m 37.53103,0 -10.4563,0 0,28.0435 c 4.8439,-1.2841 10.7443,-4.3923 12.8003,-9.3125 l 7,-18.731 z"
+             style="fill:#800000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0.80000001;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <path
+             sodipodi:nodetypes="cccccssssssccccccc"
+             inkscape:connector-curvature="0"
+             transform="translate(0,308.2677)"
+             id="path6389-4"
+             d="m 989.375,844.28125 0.0312,26.81247 6,8.78128 c 0.003,5.8967 0.0108,5.7908 0.0138,11.6875 l 0,4.09375 c 0.42363,-0.23188 0.84969,-0.61779 1.17367,-0.71875 0.64464,-0.20088 1.0884,-0.15979 1.4375,0.0312 0.3491,0.19104 0.59592,0.52283 0.78125,0.9375 0.18533,0.41467 0.31542,0.90499 0.46875,1.375 0.15333,0.47001 0.34065,0.92418 0.59375,1.28125 0.25308,0.35707 0.57788,0.61165 1.06248,0.6875 0.4846,0.0758 1.1208,-0.0326 1.9687,-0.40625 0.5242,-0.66061 0.9817,-1.25989 1.3915,-2.11287 l 0,-5.23088 c -10e-4,-5.8753 0.139,-5.7498 0.1397,-11.625 l 6,-8.78123 0.031,-26.81252 c -9.0938,9.10692 -13.52205,-9.10584 -21.0933,5e-5 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <text
+             xml:space="preserve"
+             style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Sans Bold"
+             x="962.64648"
+             y="1154.0713"
+             id="text5179-0-9"
+             sodipodi:linespacing="125%"
+             inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Materials in Opens Source 3D Printing\State of art\Figures\1.png"
+             inkscape:export-xdpi="299.9845"
+             inkscape:export-ydpi="299.9845"><tspan
+               style="font-size:6px"
+               sodipodi:role="line"
+               id="tspan5181-1-6"
+               x="962.64648"
+               y="1154.0713">Nozzle</tspan></text>
+          <path
+             sodipodi:nodetypes="cccc"
+             inkscape:connector-curvature="0"
+             id="rect6979"
+             d="m 962.26636,1166.5278 47.97074,0 m -20.8763,12.7153 -27.09444,0"
+             style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.80000001;stroke-opacity:1;stroke-dasharray:0.9, 0.9;stroke-dashoffset:0" />
+          <text
+             xml:space="preserve"
+             style="font-size:3.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Sans Bold"
+             x="956.32434"
+             y="1172.651"
+             id="text5179-0-9-3"
+             sodipodi:linespacing="125%"
+             inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Materials in Opens Source 3D Printing\State of art\Figures\1.png"
+             inkscape:export-xdpi="299.9845"
+             inkscape:export-ydpi="299.9845"><tspan
+               style="font-size:3.5px"
+               sodipodi:role="line"
+               id="tspan5181-1-6-7"
+               x="956.32434"
+               y="1172.651">I</tspan></text>
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.80000001;stroke-opacity:1;stroke-dasharray:0.9, 0.9;stroke-dashoffset:0"
+             d="m 962.26636,1188.1178 42.28424,0"
+             id="path7008"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <g
+             id="g8361">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#marker7582);marker-mid:none;marker-end:url(#marker7618)"
+               d="m 969.1439,1166.8406 0,12.2619"
+               id="path7010-0"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cc" />
+            <text
+               inkscape:export-ydpi="299.9845"
+               inkscape:export-xdpi="299.9845"
+               inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Materials in Opens Source 3D Printing\State of art\Figures\1.png"
+               sodipodi:linespacing="125%"
+               id="text5179-0-9-3-8"
+               y="1173.3773"
+               x="964.17938"
+               style="font-size:3px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Sans"
+               xml:space="preserve"><tspan
+                 y="1173.3773"
+                 x="964.17938"
+                 id="tspan5181-1-6-7-8"
+                 sodipodi:role="line"
+                 style="font-size:3px;font-weight:normal;-inkscape-font-specification:Sans">L<tspan
+   id="tspan8374"
+   style="font-size:65.00091553%;font-weight:normal;baseline-shift:sub;-inkscape-font-specification:Sans">1</tspan></tspan></text>
+          </g>
+          <g
+             transform="translate(0,12.788674)"
+             id="g8366">
+            <path
+               sodipodi:nodetypes="cc"
+               inkscape:connector-curvature="0"
+               id="path8368"
+               d="m 969.1439,1175.4786 0,6.2619"
+               style="fill:none;stroke:#000000;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#marker7582);marker-mid:none;marker-end:url(#marker7618)" />
+            <text
+               xml:space="preserve"
+               style="font-size:3px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Sans"
+               x="964.17938"
+               y="1179.2241"
+               id="text8370"
+               sodipodi:linespacing="125%"
+               inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Materials in Opens Source 3D Printing\State of art\Figures\1.png"
+               inkscape:export-xdpi="299.9845"
+               inkscape:export-ydpi="299.9845"><tspan
+                 style="font-size:3px;font-weight:normal;-inkscape-font-specification:Sans"
+                 sodipodi:role="line"
+                 id="tspan8372"
+                 x="964.17938"
+                 y="1179.2241">L<tspan
+   id="tspan8376"
+   style="font-size:65.00091553%;font-weight:normal;baseline-shift:sub;-inkscape-font-specification:Sans">2</tspan></tspan></text>
+          </g>
+          <g
+             transform="translate(30.346731,-31.068019)"
+             id="g11958">
+            <text
+               xml:space="preserve"
+               style="font-size:3px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Sans"
+               x="968.71429"
+               y="1176.7133"
+               id="text11962"
+               sodipodi:linespacing="125%"
+               inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Materials in Opens Source 3D Printing\State of art\Figures\1.png"
+               inkscape:export-xdpi="299.9845"
+               inkscape:export-ydpi="299.9845"><tspan
+                 style="font-size:3px;font-weight:normal;baseline-shift:sub;-inkscape-font-specification:Sans"
+                 sodipodi:role="line"
+                 id="tspan11964"
+                 x="968.71429"
+                 y="1176.7133">D<tspan
+   id="tspan12044"
+   style="font-size:65.00091553%;baseline-shift:sub">1</tspan></tspan></text>
+          </g>
+          <g
+             id="g12017">
+            <path
+               transform="translate(30.346731,-30.34673)"
+               style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#marker7582);marker-mid:none;marker-end:url(#marker7618)"
+               d="m 980.04122,1177.7383 -20.84795,0"
+               id="path11960"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cc" />
+            <path
+               sodipodi:nodetypes="cc"
+               inkscape:connector-curvature="0"
+               id="path7008-2"
+               d="m 989.33946,1146.6296 0,17.754"
+               style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.80000001;stroke-opacity:1;stroke-dasharray:0.9, 0.9;stroke-dashoffset:0" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.80000001;stroke-opacity:1;stroke-dasharray:0.9, 0.9;stroke-dashoffset:0"
+               d="m 1010.6179,1146.6296 0,17.754"
+               id="path11986"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cc" />
+          </g>
+          <g
+             id="g12030">
+            <g
+               id="g11996"
+               transform="translate(0,76)">
+              <g
+                 id="g11998"
+                 transform="translate(30.346731,-30.346731)">
+                <text
+                   inkscape:export-ydpi="299.9845"
+                   inkscape:export-xdpi="299.9845"
+                   inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Materials in Opens Source 3D Printing\State of art\Figures\1.png"
+                   sodipodi:linespacing="125%"
+                   id="text12002"
+                   y="1165.2101"
+                   x="968.03864"
+                   style="font-size:3px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Sans"
+                   xml:space="preserve"><tspan
+                     y="1165.2101"
+                     x="968.03864"
+                     id="tspan12004"
+                     sodipodi:role="line"
+                     style="font-size:3px;font-weight:normal;baseline-shift:sub;-inkscape-font-specification:Sans">D<tspan
+   id="tspan12041"
+   style="font-size:65.00091553%;baseline-shift:sub">2</tspan></tspan></text>
+              </g>
+            </g>
+            <g
+               id="g12022"
+               transform="translate(0,76)">
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#marker7582);marker-mid:none;marker-end:url(#marker7618)"
+                 d="m 1004.1626,1137.3916 -8.6226,0"
+                 id="path12024"
+                 inkscape:connector-curvature="0"
+                 sodipodi:nodetypes="cc" />
+              <path
+                 sodipodi:nodetypes="cc"
+                 inkscape:connector-curvature="0"
+                 id="path12026"
+                 d="m 995.33946,1120.6296 0,17.754"
+                 style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.80000001;stroke-opacity:1;stroke-dasharray:0.9, 0.9;stroke-dashoffset:0" />
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.80000001;stroke-opacity:1;stroke-dasharray:0.9, 0.9;stroke-dashoffset:0"
+                 d="m 1004.3946,1120.6296 0,17.754"
+                 id="path12028"
+                 inkscape:connector-curvature="0"
+                 sodipodi:nodetypes="cc" />
+            </g>
+          </g>
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#marker7582-9);marker-mid:none;marker-end:url(#marker7618-3)"
+             d="m 1007.4819,1183.5671 c -3.9853,-1.752 -9.93765,-1.774 -14.62258,0"
+             id="path12024-9"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <text
+             transform="translate(0,308.2677)"
+             sodipodi:linespacing="125%"
+             id="text5248"
+             y="885.828"
+             x="1025.8549"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Script MT Bold;-inkscape-font-specification:Script MT Bold"
+             xml:space="preserve"><tspan
+               y="885.828"
+               x="1025.8549"
+               id="tspan5250"
+               sodipodi:role="line" /></text>
+          <text
+             inkscape:export-ydpi="299.9845"
+             inkscape:export-xdpi="299.9845"
+             inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Materials in Opens Source 3D Printing\State of art\Figures\1.png"
+             sodipodi:linespacing="125%"
+             id="text5179-0-9-3-8-1"
+             y="1180.7698"
+             x="998.88684"
+             style="font-size:3px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Sans"
+             xml:space="preserve"><tspan
+               y="1180.7698"
+               x="998.88684"
+               id="tspan5181-1-6-7-8-7"
+               sodipodi:role="line"
+               style="font-size:3px;font-weight:normal;-inkscape-font-specification:Sans">β</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:3.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Sans Bold"
+             x="956.32434"
+             y="1185.0085"
+             id="text5179-0-9-3-0"
+             sodipodi:linespacing="125%"
+             inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Materials in Opens Source 3D Printing\State of art\Figures\1.png"
+             inkscape:export-xdpi="299.9845"
+             inkscape:export-ydpi="299.9845"><tspan
+               style="font-size:3.5px"
+               sodipodi:role="line"
+               id="tspan5181-1-6-7-9"
+               x="956.32434"
+               y="1185.0085">II</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:3.5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Sans Bold"
+             x="956.32434"
+             y="1192.1149"
+             id="text5179-0-9-3-4"
+             sodipodi:linespacing="125%"
+             inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Materials in Opens Source 3D Printing\State of art\Figures\1.png"
+             inkscape:export-xdpi="299.9845"
+             inkscape:export-ydpi="299.9845"><tspan
+               style="font-size:3.5px"
+               sodipodi:role="line"
+               id="tspan5181-1-6-7-88"
+               x="956.32434"
+               y="1192.1149">III</tspan></text>
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path5306"
+             d="m 962.26636,1194.6746 42.28424,0"
+             style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.80000001;stroke-opacity:1;stroke-dasharray:0.9, 0.9;stroke-dashoffset:0" />
+        </g>
+        <g
+           id="g7058"
+           transform="matrix(0.77858841,0,0,0.57178606,-8611.2629,9788.4358)">
+          <path
+             style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+             d="m 1016.7213,1199.6683 -0.01,16.8005 1.4414,0 -0.049,-16.8005 c -0.6453,0.6397 -0.8906,-1.0148 -1.3862,0 z"
+             id="path7010-7"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.93352766pt;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+             d="m 1014.9229,1214.3157 c 0.9514,2.215 1.977,6.9225 2.5937,6.9062 0.6658,0.036 1.6383,-4.5979 2.4376,-6.9062 l -5.0311,0 z"
+             id="path7064"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccc" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Sans Bold"
+           x="-7834.1108"
+           y="10479.733"
+           id="text5179-0-9-1"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Materials in Opens Source 3D Printing\State of art\Figures\1.png"
+           inkscape:export-xdpi="299.9845"
+           inkscape:export-ydpi="299.9845"><tspan
+             style="font-size:3px;font-weight:normal;-inkscape-font-specification:Georgia"
+             sodipodi:role="line"
+             id="tspan5181-1-6-1"
+             x="-7834.1108"
+             y="10479.733">Material</tspan></text>
+      </g>
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path9433"
+         d="m -8232.619,10112.312 0,46 51.0758,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path9687"
+         d="m -8225.1639,10114.374 c 6.0254,21.457 19.0996,33.095 36.9586,38.069"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text9689"
+         y="10168.496"
+         x="-8216.5986"
+         style="font-size:5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         xml:space="preserve"><tspan
+           y="10168.496"
+           x="-8216.5986"
+           id="tspan9691"
+           sodipodi:role="line">Nozzle Temperature </tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text9693"
+         y="10109.139"
+         x="-8243.5645"
+         style="font-size:5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         xml:space="preserve"><tspan
+           y="10109.139"
+           x="-8243.5645"
+           id="tspan9695"
+           sodipodi:role="line">Force</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path9697"
+         d="m -8228.9707,10138.404 47.2689,0"
+         style="fill:#0000ff;stroke:#f60000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.5, 1;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text9689-8"
+         y="10123.029"
+         x="-8214.1934"
+         style="font-size:5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         xml:space="preserve"><tspan
+           y="10123.029"
+           x="-8214.1934"
+           id="tspan9691-1"
+           sodipodi:role="line">No extrusion</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text9720"
+         y="10148.793"
+         x="-8179.6396"
+         style="font-size:5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         xml:space="preserve"><tspan
+           y="10148.793"
+           x="-8179.6396"
+           id="tspan9722"
+           sodipodi:role="line">Extrusion</tspan></text>
+      <path
+         style="fill:#0000ff;stroke:#f60000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.5, 1;stroke-dashoffset:0"
+         d="m -8228.9707,10138.404 47.2689,0"
+         id="path9811"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path9813"
+         d="m -8211.9983,10139.029 0,19.529"
+         style="fill:#0000ff;stroke:#f60000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.5, 0.99999999;stroke-dashoffset:0" />
+      <text
+         inkscape:export-ydpi="299.9845"
+         inkscape:export-xdpi="299.9845"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Materials in Opens Source 3D Printing\State of art\Figures\1.png"
+         sodipodi:linespacing="125%"
+         id="text5179-0-9-0"
+         y="10183.106"
+         x="-8293.0723"
+         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Georgia;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="10183.106"
+           x="-8293.0723"
+           id="tspan5181-1-6-18"
+           sodipodi:role="line"
+           style="font-size:6px">Thermal properties in 3DP</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         x="-8215.2529"
+         y="10162.439"
+         id="text9881"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan9883"
+           x="-8215.2529"
+           y="10162.439">Tg</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Rockwell;-inkscape-font-specification:Rockwell"
+       x="28.57143"
+       y="118.07647"
+       id="text14936"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan14938"
+         x="28.57143"
+         y="118.07647">Thermal properties </tspan></text>
+  </g>
+</svg>

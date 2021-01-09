@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg17272"
+   version="1.1"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="Structuration-Thesis.svg">
+  <defs
+     id="defs17274">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter8569"
+       x="-0.015470384"
+       width="1.0309408"
+       y="-0.053493965"
+       height="1.106988">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.0539705"
+         id="feGaussianBlur8571" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9896"
+       id="linearGradient9894"
+       x1="-4506.5674"
+       y1="1351.9954"
+       x2="-4500.0229"
+       y2="1585.0062"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient9896"
+       inkscape:collect="always">
+      <stop
+         id="stop9898"
+         offset="0"
+         style="stop-color:#ececec;stop-opacity:1;" />
+      <stop
+         id="stop9900"
+         offset="1"
+         style="stop-color:#e3eef9;stop-opacity:1" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter8491"
+       x="-0.023999998"
+       width="1.048"
+       y="-0.024"
+       height="1.048">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5433073"
+         id="feGaussianBlur8493" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7406"
+       id="linearGradient7772"
+       x1="-2854.1599"
+       y1="2261.8411"
+       x2="-2595.6389"
+       y2="2477.8208"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1319.1377,-13.883691)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7406">
+      <stop
+         style="stop-color:#8ccfcf;stop-opacity:1;"
+         offset="0"
+         id="stop7408" />
+      <stop
+         style="stop-color:#0088aa;stop-opacity:1"
+         offset="1"
+         id="stop7410" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter8180"
+       x="-0.024"
+       width="1.048"
+       y="-0.024"
+       height="1.048">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.834646"
+         id="feGaussianBlur8182" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8164"
+       id="linearGradient8170"
+       x1="-2724.8994"
+       y1="2252.0239"
+       x2="-2726.5356"
+       y2="2489.2742"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1319.1377,-13.883691)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8164">
+      <stop
+         style="stop-color:#ececec;stop-opacity:1;"
+         offset="0"
+         id="stop8166" />
+      <stop
+         style="stop-color:#a0a4ad;stop-opacity:1"
+         offset="1"
+         id="stop8168" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8204"
+       id="linearGradient8210"
+       x1="-2715.8245"
+       y1="2431.511"
+       x2="-2731.4089"
+       y2="2285.8882"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1319.1377,-13.883691)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8204">
+      <stop
+         style="stop-color:#f2f2f2;stop-opacity:1;"
+         offset="0"
+         id="stop8206" />
+      <stop
+         id="stop8212"
+         offset="0.76537466"
+         style="stop-color:#f2f2f2;stop-opacity:0.23137255;" />
+      <stop
+         style="stop-color:#999999;stop-opacity:1"
+         offset="1"
+         id="stop8208" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter8200"
+       x="-0.024"
+       width="1.048"
+       y="-0.024"
+       height="1.048">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.7716537"
+         id="feGaussianBlur8202" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9902"
+       id="linearGradient9908"
+       x1="-4566.4741"
+       y1="1333.3765"
+       x2="-4565.5967"
+       y2="1593.3298"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9902">
+      <stop
+         style="stop-color:#ececec;stop-opacity:1"
+         offset="0"
+         id="stop9904" />
+      <stop
+         style="stop-color:#ffe8c7;stop-opacity:1"
+         offset="1"
+         id="stop9906" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter8491-3"
+       x="-0.023999998"
+       width="1.048"
+       y="-0.024"
+       height="1.048">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5433073"
+         id="feGaussianBlur8493-4" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7766"
+       id="linearGradient9301"
+       x1="-4246.5015"
+       y1="4005.8059"
+       x2="-3892.1707"
+       y2="4005.8059"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(397.99907,-1193.9974)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7766">
+      <stop
+         style="stop-color:#ff6600;stop-opacity:1;"
+         offset="0"
+         id="stop7768" />
+      <stop
+         style="stop-color:#ffb685;stop-opacity:1"
+         offset="1"
+         id="stop7770" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter8180-56"
+       x="-0.024"
+       width="1.048"
+       y="-0.024"
+       height="1.048">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.834646"
+         id="feGaussianBlur8182-72" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8164"
+       id="linearGradient8170-3"
+       x1="-2724.8994"
+       y1="2252.0239"
+       x2="-2726.5356"
+       y2="2489.2742"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-948.53823,449.0185)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8204"
+       id="linearGradient8210-9"
+       x1="-2715.8245"
+       y1="2431.511"
+       x2="-2731.4089"
+       y2="2285.8882"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-948.53823,449.0185)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter8200-7"
+       x="-0.024"
+       width="1.048"
+       y="-0.024"
+       height="1.048">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.7716537"
+         id="feGaussianBlur8202-0" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9910"
+       id="linearGradient9916"
+       x1="-4522.8706"
+       y1="1591.574"
+       x2="-4522.8706"
+       y2="1328.0403"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9910">
+      <stop
+         style="stop-color:#eaffe9;stop-opacity:1"
+         offset="0"
+         id="stop9912" />
+      <stop
+         style="stop-color:#ececec;stop-opacity:1"
+         offset="1"
+         id="stop9914" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter8491-2"
+       x="-0.023999998"
+       width="1.048"
+       y="-0.024"
+       height="1.048">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5433073"
+         id="feGaussianBlur8493-1" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7400"
+       id="linearGradient7772-4"
+       x1="-2854.1599"
+       y1="2261.8411"
+       x2="-2595.6389"
+       y2="2477.8208"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-569.26811,909.25461)" />
+    <linearGradient
+       id="linearGradient7400"
+       inkscape:collect="always">
+      <stop
+         id="stop7402"
+         offset="0"
+         style="stop-color:#217844;stop-opacity:1" />
+      <stop
+         id="stop7404"
+         offset="1"
+         style="stop-color:#5fd38d;stop-opacity:1" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter8180-5"
+       x="-0.024"
+       width="1.048"
+       y="-0.024"
+       height="1.048">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.834646"
+         id="feGaussianBlur8182-9" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8164"
+       id="linearGradient8170-7"
+       x1="-2724.8994"
+       y1="2252.0239"
+       x2="-2726.5356"
+       y2="2489.2742"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-569.26811,909.25461)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8204"
+       id="linearGradient8210-5"
+       x1="-2715.8245"
+       y1="2431.511"
+       x2="-2731.4089"
+       y2="2285.8882"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-569.26811,909.25461)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter8200-5"
+       x="-0.024"
+       width="1.048"
+       y="-0.024"
+       height="1.048">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.7716537"
+         id="feGaussianBlur8202-4" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="90.08797"
+     inkscape:cy="787.18986"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1436"
+     inkscape:window-height="855"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata17277">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="translate(3050.1537,-2652.3818)"
+       style="display:inline"
+       id="g17280">
+      <g
+         transform="translate(544.93481,-4.2283442e-4)"
+         id="g9635">
+        <g
+           id="g9349"
+           transform="matrix(1,0,0,1.2499212,907.9079,517.27769)">
+          <rect
+             style="opacity:0.79100001;fill:#0d0b34;fill-opacity:1;stroke:#000000;stroke-width:0.31693304;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter8569)"
+             id="rect8563"
+             width="939.18347"
+             height="271.61063"
+             x="-4980.1147"
+             y="1334.4225"
+             ry="51.212524" />
+          <rect
+             ry="51.212524"
+             y="1326.1503"
+             x="-4987.6128"
+             height="271.61063"
+             width="939.18347"
+             id="rect8561"
+             style="opacity:1;fill:url(#linearGradient9894);fill-opacity:1;stroke:none;stroke-width:3.12519717;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-3822.2417"
+           y="2376.1372"
+           id="text8245"><tspan
+             sodipodi:role="line"
+             id="tspan8247"
+             x="-3822.2417"
+             y="2376.1372"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.25000381px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Sustainainability in AM</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.75800003;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-4047.9055"
+           y="2138.5505"
+           id="text8214"><tspan
+             sodipodi:role="line"
+             id="tspan8216"
+             x="-4047.9055"
+             y="2138.5505"
+             style="font-size:62.50000763px;line-height:1.25"> State of the Art</tspan></text>
+        <g
+           id="g9498">
+          <ellipse
+             style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter8491)"
+             id="ellipse8461"
+             cx="-4039.9363"
+             cy="2348.9062"
+             rx="177.16537"
+             ry="177.16536" />
+          <ellipse
+             ry="177.16536"
+             rx="177.16537"
+             cy="2348.9062"
+             cx="-4041.9363"
+             id="path51200"
+             style="opacity:1;fill:url(#linearGradient7772);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.27843137" />
+          <circle
+             cy="2354.9062"
+             cx="-4041.9363"
+             id="circle8172"
+             style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.27843137;filter:url(#filter8180)"
+             r="141.7323" />
+          <circle
+             r="141.7323"
+             style="opacity:1;fill:url(#linearGradient8170);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.27843137"
+             id="ellipse6560"
+             cx="-4041.9363"
+             cy="2348.9062" />
+          <circle
+             r="88.582687"
+             cy="2348.9062"
+             cx="-4041.9363"
+             id="circle7752"
+             style="opacity:1;fill:url(#linearGradient8210);fill-opacity:1;stroke:#ffffff;stroke-width:3.12519717;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter8200)" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.75800003;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="-4066.7014"
+             y="2389.6855"
+             id="text8449"><tspan
+               sodipodi:role="line"
+               id="tspan8451"
+               x="-4066.7014"
+               y="2389.6855"
+               style="font-size:112.50000763px;line-height:1.25">I</tspan></text>
+        </g>
+        <text
+           id="text8495"
+           y="2245.5286"
+           x="-3858.2417"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.25000381px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             y="2245.5286"
+             x="-3858.2417"
+             id="tspan8497"
+             sodipodi:role="line">Additive Manufacturing (AM) context</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.25000381px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             y="2290.8411"
+             x="-3858.2417"
+             sodipodi:role="line"
+             id="tspan8499"> </tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-3848.2417"
+           y="2441.5286"
+           id="text8501"><tspan
+             sodipodi:role="line"
+             id="tspan8503"
+             x="-3848.2417"
+             y="2441.5286"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.25000381px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Recycling in AM</tspan><tspan
+             id="tspan8505"
+             sodipodi:role="line"
+             x="-3848.2417"
+             y="2486.8411"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.25000381px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"> </tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-3839.5125"
+           y="2310.7825"
+           id="text8762"><tspan
+             id="tspan8766"
+             sodipodi:role="line"
+             x="-3839.5125"
+             y="2310.7825"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.25000381px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Open-source (OS) AM</tspan></text>
+        <text
+           id="text9565"
+           y="2501.5286"
+           x="-3408.2417"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             y="2501.5286"
+             x="-3408.2417"
+             sodipodi:role="line"
+             id="tspan9569">Chapter 1</tspan></text>
+      </g>
+      <g
+         id="g9801">
+        <g
+           transform="matrix(1,0,0,1.2417452,1815.543,990.59779)"
+           id="g9492">
+          <rect
+             ry="51.212524"
+             y="1334.4225"
+             x="-4980.1147"
+             height="271.61063"
+             width="939.18347"
+             id="rect9494"
+             style="opacity:0.79100001;fill:#372310;fill-opacity:1;stroke:#000000;stroke-width:0.31797472;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter8569)" />
+          <rect
+             style="opacity:1;fill:url(#linearGradient9908);fill-opacity:1;stroke:none;stroke-width:3.12519717;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect9496"
+             width="939.18347"
+             height="271.61063"
+             x="-4987.6128"
+             y="1326.1503"
+             ry="51.212524" />
+        </g>
+        <g
+           id="g9526"
+           transform="translate(469.63513,0.14249815)">
+          <ellipse
+             style="display:inline;opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter8491-3)"
+             id="ellipse8461-09"
+             cx="-3669.3369"
+             cy="2811.8086"
+             rx="177.16537"
+             ry="177.16536" />
+          <ellipse
+             ry="177.16536"
+             rx="177.16537"
+             cy="2811.8086"
+             cx="-3671.3369"
+             id="path51200-4"
+             style="display:inline;opacity:1;fill:url(#linearGradient9301);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.27843137" />
+          <circle
+             cy="2817.8086"
+             cx="-3671.3369"
+             id="circle8172-8"
+             style="display:inline;opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.27843137;filter:url(#filter8180-56)"
+             r="141.7323" />
+          <circle
+             r="141.7323"
+             style="display:inline;opacity:1;fill:url(#linearGradient8170-3);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.27843137"
+             id="ellipse6560-3"
+             cx="-3671.3369"
+             cy="2811.8086" />
+          <circle
+             r="88.582687"
+             cy="2811.8086"
+             cx="-3671.3369"
+             id="circle7752-9"
+             style="display:inline;opacity:1;fill:url(#linearGradient8210-9);fill-opacity:1;stroke:#ffffff;stroke-width:3.12519717;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter8200-7)" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.75800003;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="-3715.1997"
+             y="2850.7827"
+             id="text8449-4"><tspan
+               sodipodi:role="line"
+               id="tspan8451-8"
+               x="-3715.1997"
+               y="2850.7827"
+               style="font-size:112.50000763px;line-height:1.25">II</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.75800003;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-3160.291"
+           y="2617.6182"
+           id="text8214-2"><tspan
+             sodipodi:role="line"
+             id="tspan8216-2"
+             x="-3160.291"
+             y="2617.6182"
+             style="font-size:62.50000763px;line-height:1.25">Towards a standard protocol</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-2538.6067"
+           y="2961.6711"
+           id="text9573"><tspan
+             id="tspan9575"
+             sodipodi:role="line"
+             x="-2538.6067"
+             y="2961.6711"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Chapter 2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-2998.1797"
+           y="2803.5037"
+           id="text8245-6"><tspan
+             sodipodi:role="line"
+             id="tspan8247-5"
+             x="-2998.1797"
+             y="2803.5037"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.25000381px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1">Experimental Protocol for Open-Source AM</tspan></text>
+        <text
+           id="text8495-2"
+           y="2717.5496"
+           x="-3006.1797"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.25000381px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+             y="2717.5496"
+             x="-3006.1797"
+             id="tspan8497-1"
+             sodipodi:role="line">Benchmarking in AM</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.25000381px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+             y="2762.8621"
+             x="-3006.1797"
+             sodipodi:role="line"
+             id="tspan8499-1"> </tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-3007.0403"
+           y="2889.5496"
+           id="text8501-7"><tspan
+             id="tspan8505-4"
+             sodipodi:role="line"
+             x="-3007.0403"
+             y="2889.5496"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.25000381px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1">Case study: FoldaRap</tspan></text>
+      </g>
+      <g
+         id="g9825">
+        <g
+           id="g9577"
+           transform="matrix(1,0,0,1.2417452,2003.9079,1454.4552)">
+          <rect
+             style="opacity:0.79100001;fill:#717171;fill-opacity:1;stroke:#000000;stroke-width:0.31797472;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter8569)"
+             id="rect9579"
+             width="939.18347"
+             height="271.61063"
+             x="-5000.1147"
+             y="1334.4225"
+             ry="51.212524" />
+          <rect
+             ry="51.212524"
+             y="1326.1503"
+             x="-5007.6128"
+             height="271.61063"
+             width="939.18347"
+             id="rect9581"
+             style="opacity:1;fill:url(#linearGradient9916);fill-opacity:1;stroke:none;stroke-width:3.12519717;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-2712.3721"
+           y="3349.2756"
+           id="text8245-8"><tspan
+             sodipodi:role="line"
+             id="tspan8247-1"
+             x="-2712.3721"
+             y="3349.2756"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.25000381px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Case study: Polylactid Acid (PLA)</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.75800003;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-2686.0359"
+           y="3077.689"
+           id="text8214-6"><tspan
+             sodipodi:role="line"
+             id="tspan8216-7"
+             x="-2686.0359"
+             y="3077.689"
+             style="font-size:62.50000763px;line-height:1.25">Green Fablab...</tspan></text>
+        <g
+           id="g9556"
+           transform="translate(380,-8.9975564e-5)">
+          <ellipse
+             style="display:inline;opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter8491-2)"
+             id="ellipse8461-0"
+             cx="-3290.0667"
+             cy="3272.0447"
+             rx="177.16537"
+             ry="177.16536" />
+          <ellipse
+             ry="177.16536"
+             rx="177.16537"
+             cy="3272.0447"
+             cx="-3292.0667"
+             id="path51200-9"
+             style="display:inline;opacity:1;fill:url(#linearGradient7772-4);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.27843137" />
+          <circle
+             cy="3278.0447"
+             cx="-3292.0667"
+             id="circle8172-6"
+             style="display:inline;opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.27843137;filter:url(#filter8180-5)"
+             r="141.7323" />
+          <circle
+             r="141.7323"
+             style="display:inline;opacity:1;fill:url(#linearGradient8170-7);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.27843137"
+             id="ellipse6560-9"
+             cx="-3292.0667"
+             cy="3272.0447" />
+          <circle
+             r="88.582687"
+             cy="3272.0447"
+             cx="-3292.0667"
+             id="circle7752-5"
+             style="display:inline;opacity:1;fill:url(#linearGradient8210-5);fill-opacity:1;stroke:#ffffff;stroke-width:3.12519717;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter8200-5)" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.75800003;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="-3357.9023"
+             y="3311.0188"
+             id="text8449-0"><tspan
+               sodipodi:role="line"
+               id="tspan8451-1"
+               x="-3357.9023"
+               y="3311.0188"
+               style="font-size:112.50000763px;line-height:1.25">III</tspan></text>
+        </g>
+        <text
+           id="text8495-28"
+           y="3194.667"
+           x="-2732.3721"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.25000381px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             y="3194.667"
+             x="-2732.3721"
+             id="tspan8497-0"
+             sodipodi:role="line">Polymer Recycling in the Literature</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.25000381px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             y="3239.9795"
+             x="-2732.3721"
+             sodipodi:role="line"
+             id="tspan8499-12"> </tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-2701.6428"
+           y="3271.8933"
+           id="text8762-2"><tspan
+             id="tspan8766-2"
+             sodipodi:role="line"
+             x="-2701.6428"
+             y="3271.8933"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.25000381px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Methodology for Recycling in OS AM </tspan></text>
+        <text
+           id="text9583"
+           y="3421.5286"
+           x="-2378.2417"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             y="3421.5286"
+             x="-2378.2417"
+             sodipodi:role="line"
+             id="tspan9585">Chapters 3-4</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

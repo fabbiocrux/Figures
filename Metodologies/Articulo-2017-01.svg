@@ -1,0 +1,2547 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="141.52765mm"
+   height="153.8663mm"
+   viewBox="0 0 501.47591 545.19554"
+   id="svg9240"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Methodology-schematical.svg">
+  <defs
+     id="defs9242">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-73-1"
+       style="overflow:visible">
+      <path
+         id="path4448-7-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-4"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path6528-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-73-4-8"
+       style="overflow:visible">
+      <path
+         id="path4448-7-6-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9509-0-95"
+       style="overflow:visible">
+      <path
+         id="path9511-1-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9168"
+       style="overflow:visible">
+      <path
+         id="path9170"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9172"
+       style="overflow:visible">
+      <path
+         id="path9174"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9176"
+       style="overflow:visible">
+      <path
+         id="path9178"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9509-0"
+       style="overflow:visible">
+      <path
+         id="path9511-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10232"
+       style="overflow:visible">
+      <path
+         id="path10234"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10236"
+       style="overflow:visible">
+      <path
+         id="path10238"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10240"
+       style="overflow:visible">
+      <path
+         id="path10242"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path6528"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-73-4"
+       style="overflow:visible">
+      <path
+         id="path4448-7-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-73"
+       style="overflow:visible">
+      <path
+         id="path4448-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.67177826"
+     inkscape:cx="301.46075"
+     inkscape:cy="263.11808"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1436"
+     inkscape:window-height="855"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata9245">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(542.43109,-170.8482)">
+    <rect
+       inkscape:export-ydpi="250"
+       inkscape:export-xdpi="250"
+       inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+       style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:0.99999988;stroke-miterlimit:4;stroke-dasharray:2.99999998, 2.99999998;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect10704"
+       width="317.89764"
+       height="95.431488"
+       x="-1121.1395"
+       y="266.07773"
+       ry="7.4797568" />
+    <text
+       inkscape:export-ydpi="250"
+       inkscape:export-xdpi="250"
+       inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+       sodipodi:linespacing="125%"
+       id="text10706"
+       y="287.82016"
+       x="-1088.0944"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="287.82016"
+         x="-1088.0944"
+         sodipodi:role="line"
+         style="font-size:16px"
+         id="tspan10708">2.1) Reference Process </tspan></text>
+    <text
+       inkscape:export-ydpi="250"
+       inkscape:export-xdpi="250"
+       inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+       sodipodi:linespacing="100%"
+       id="text10710"
+       y="311.48764"
+       x="-1114.0648"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Franklin Gothic Book';-inkscape-font-specification:'Franklin Gothic Book, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan10714"
+         y="311.48764"
+         x="-1114.0648"
+         sodipodi:role="line">a. Identification of the reference process for characterization of the </tspan><tspan
+         id="tspan10952"
+         y="321.48764"
+         x="-1114.0648"
+         sodipodi:role="line">    material's degradation</tspan><tspan
+         id="tspan10716"
+         y="331.48764"
+         x="-1114.0648"
+         sodipodi:role="line" /><tspan
+         id="tspan10720"
+         y="341.48764"
+         x="-1114.0648"
+         sodipodi:role="line">b. Definition of the material property to be tested through </tspan><tspan
+         id="tspan10954"
+         y="351.48764"
+         x="-1114.0648"
+         sodipodi:role="line">    recycling process.</tspan><tspan
+         y="361.48764"
+         x="-1114.0648"
+         sodipodi:role="line"
+         id="tspan10722" /><tspan
+         id="tspan10724"
+         y="371.48764"
+         x="-1114.0648"
+         sodipodi:role="line" /></text>
+    <text
+       inkscape:export-ydpi="250"
+       inkscape:export-xdpi="250"
+       inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17px;line-height:100%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="-1138.1327"
+       y="262.19507"
+       id="text10692"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan10698"
+         style="line-height:100%"
+         sodipodi:role="line"
+         x="-1138.1327"
+         y="262.19507">2. <tspan
+   id="tspan10696"
+   style="font-weight:bold;line-height:100%;-inkscape-font-specification:'Georgia Bold'">Process Assignment </tspan></tspan><tspan
+         style="font-weight:bold;line-height:100%;-inkscape-font-specification:'Georgia Bold'"
+         id="tspan10702"
+         sodipodi:role="line"
+         x="-1138.1327"
+         y="279.19507" /></text>
+    <g
+       id="g12191-1-3"
+       transform="translate(2065.1549,-443.64438)"
+       inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="250">
+      <rect
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         ry="4.3149261"
+         y="568.7207"
+         x="-1819.3544"
+         height="55.052567"
+         width="326.67957"
+         id="rect3007-3-2-3"
+         style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:2.99999996, 2.99999996;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         transform="scale(0.99664102,1.0033703)"
+         sodipodi:linespacing="125%"
+         id="text2985-2-2-6"
+         y="562.94086"
+         x="-1831.0575"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9428978px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="562.94086"
+           x="-1831.0575"
+           sodipodi:role="line"
+           id="tspan7809-4-0-2">1. <tspan
+   style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'"
+   id="tspan7916-4-3-4">Material Definition</tspan></tspan></text>
+    </g>
+    <text
+       sodipodi:linespacing="100%"
+       id="text7885-7-1-7"
+       y="211.98746"
+       x="153.3335"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17px;line-height:100%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="250"><tspan
+         y="211.98746"
+         x="153.3335"
+         sodipodi:role="line"
+         id="tspan7887-3-4-1"
+         style="line-height:100%">2. <tspan
+   style="font-weight:bold;line-height:100%;-inkscape-font-specification:'Georgia Bold'"
+   id="tspan10031-1-6-9">Process </tspan></tspan><tspan
+         y="228.98746"
+         x="153.3335"
+         sodipodi:role="line"
+         style="line-height:100%"
+         id="tspan6343-2"><tspan
+           style="font-weight:bold;line-height:100%;-inkscape-font-specification:'Georgia Bold'"
+           id="tspan6345-6">    Assignment </tspan></tspan><tspan
+         y="245.98746"
+         x="153.3335"
+         sodipodi:role="line"
+         id="tspan11517-5-7-4"
+         style="font-weight:bold;line-height:100%;-inkscape-font-specification:'Georgia Bold'" /></text>
+    <g
+       id="g12594-3-8"
+       transform="translate(2110.976,-353.04328)"
+       inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="250">
+      <rect
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         ry="4.3651156"
+         y="887.49615"
+         x="-1867.5137"
+         height="55.692917"
+         width="331.35577"
+         id="rect7920-5-1-7"
+         style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         sodipodi:linespacing="125%"
+         id="text7922-2-8-5"
+         y="880.74261"
+         x="-1872.833"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="880.74261"
+           x="-1872.833"
+           sodipodi:role="line"
+           id="tspan7924-2-6-0">4. <tspan
+   style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'"
+   id="tspan10202-1-3-1">Evaluation </tspan></tspan><tspan
+           y="880.74261"
+           x="-1872.833"
+           sodipodi:role="line"
+           id="tspan8652-9"><tspan
+             style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'"
+             id="tspan8654-9" /></tspan></text>
+    </g>
+    <g
+       id="g12603-9-6"
+       transform="translate(2123.7956,-334.71578)"
+       inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="250">
+      <rect
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:2.99999999, 2.99999999;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect7949-2-5-9"
+         width="300.18109"
+         height="33.12616"
+         x="-1864.7458"
+         y="954.62103"
+         ry="2.5963719" />
+      <text
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="-1885.7356"
+         y="948.73846"
+         id="text7951-3-4-8"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan7953-6-3-5"
+           sodipodi:role="line"
+           x="-1885.7356"
+           y="948.73846">5. <tspan
+   style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'"
+   id="tspan10210-3-59-6">Recycling </tspan></tspan></text>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7906-6-8-6"
+       y="377.22311"
+       x="153.2984"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.05241394px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       transform="scale(1.0027,0.99730727)"
+       inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="250"><tspan
+         y="377.22311"
+         x="153.2984"
+         sodipodi:role="line"
+         id="tspan6347-8">3. <tspan
+   id="tspan10029-2-5-5"
+   style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'">Fabrication</tspan></tspan><tspan
+         y="398.53864"
+         x="153.2984"
+         sodipodi:role="line"
+         id="tspan6365-0"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'"
+           id="tspan6367-5">    of samples</tspan></tspan><tspan
+         y="419.85416"
+         x="153.2984"
+         sodipodi:role="line"
+         id="tspan8570-9" /></text>
+    <g
+       id="g8529-4"
+       transform="translate(1964.1385,83.5808)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text12507-0-8"
+         y="337.44116"
+         x="-1497.0975"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         inkscape:export-xdpi="250"
+         inkscape:export-ydpi="250"><tspan
+           style="font-size:16px"
+           y="337.44116"
+           x="-1497.0975"
+           sodipodi:role="line"
+           id="tspan12509-2-7">3.2) 3D Printing</tspan></text>
+      <rect
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect7904-3-9-5"
+         width="211.59842"
+         height="87.736763"
+         x="-1551.2131"
+         y="318.37262"
+         ry="6.876658" />
+    </g>
+    <g
+       id="g8540-0"
+       transform="translate(2021.5401,83.5808)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="-1768.1405"
+         y="337.44116"
+         id="text12503-9-1"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         inkscape:export-xdpi="250"
+         inkscape:export-ydpi="250"><tspan
+           style="font-size:16px"
+           id="tspan12505-4-8"
+           sodipodi:role="line"
+           x="-1768.1405"
+           y="337.44116">3.1) Standard</tspan></text>
+      <rect
+         ry="6.876658"
+         y="318.37262"
+         x="-1831.2131"
+         height="87.736763"
+         width="211.59842"
+         id="rect6069-0"
+         style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         inkscape:export-xdpi="250"
+         inkscape:export-ydpi="250" />
+    </g>
+    <path
+       inkscape:export-ydpi="250.00212"
+       inkscape:export-xdpi="250.00212"
+       inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path10041-2-0-8"
+       d="m 258.0757,637.85629 -117.536,0 0,-446.95777 265.8866,0"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000007, 2.00000003, 1.00000003, 2.00000003;stroke-dashoffset:0;stroke-opacity:1;marker-mid:none;marker-end:url(#Arrow1Lend-73-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="-473.62936"
+       y="133.86011"
+       id="text10043-5-5-0"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="250"><tspan
+         id="tspan10045-9-5-5"
+         sodipodi:role="line"
+         x="-473.62936"
+         y="133.86011"
+         style="font-size:15px">Definition of the number of cycles</tspan></text>
+    <g
+       id="g8446-4"
+       transform="translate(1953.8391,89.5808)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow1Lstart-4);marker-mid:none;marker-end:url(#Arrow1Lend-73-4-8)"
+         d="m -1663.0933,125.489 0,-16.67643 233.6881,0 0,16.67643"
+         id="path10041-2-0-3-00"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         inkscape:export-xdpi="250.00212"
+         inkscape:export-ydpi="250.00212" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8413-11"
+         d="m -1544.6989,108.7732 0,-18.552492"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g8616-9"
+       transform="translate(1953.8391,99.5808)">
+      <g
+         transform="translate(10.29931,0)"
+         id="g8480-2">
+        <text
+           sodipodi:linespacing="125%"
+           id="text7898-5-4-7"
+           y="156.03166"
+           x="-1534.5857"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           inkscape:export-xdpi="250"
+           inkscape:export-ydpi="250"><tspan
+             style="font-size:16px"
+             y="156.03166"
+             x="-1534.5857"
+             sodipodi:role="line"
+             id="tspan4417-9">2.2) 3DP Feedstock Process</tspan></text>
+        <rect
+           inkscape:export-ydpi="250"
+           inkscape:export-xdpi="250"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:3.00000003, 3.00000003;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5313-1-7"
+           width="211.59842"
+           height="112.60408"
+           x="-1551.213"
+           y="134.28923"
+           ry="8.8257151" />
+      </g>
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)"
+         d="m -1429.4052,246.87368 0,52.03183"
+         id="path8413-1-2"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g8600-8"
+       transform="translate(1953.8391,99.5808)">
+      <g
+         transform="translate(67.70089,0)"
+         id="g8496-8">
+        <rect
+           ry="8.8257151"
+           y="134.28923"
+           x="-1831.213"
+           height="112.60408"
+           width="211.59842"
+           id="rect7883-3-3-4"
+           style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:2.99999998, 2.99999998;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           inkscape:export-xdpi="250"
+           inkscape:export-ydpi="250" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="-1798.1677"
+           y="156.03166"
+           id="text7889-7-5-5"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           inkscape:export-xdpi="250"
+           inkscape:export-ydpi="250"><tspan
+             id="tspan12689-4-9"
+             style="font-size:16px"
+             sodipodi:role="line"
+             x="-1798.1677"
+             y="156.03166">2.1) Reference Process </tspan></text>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path8586-5"
+         d="m -1663.0933,246.87368 0,52.03183"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       transform="matrix(1,0,0,-1,1953.181,649.87236)"
+       id="g8446-6-0">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:none"
+         d="m -1663.0933,158.72534 0,-7.14923 233.6881,0 0,7.14923"
+         id="path10041-2-0-3-0-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         inkscape:export-xdpi="250.00212"
+         inkscape:export-ydpi="250.00212" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8413-2-9"
+         d="m -1544.6989,151.60178 0,-33.38107"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)"
+         d="m -1544.6989,59.335349 0,-25.542047"
+         id="path9178-4"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g9514"
+       transform="translate(395.964,285.8086)">
+      <path
+         inkscape:export-ydpi="250.00212"
+         inkscape:export-xdpi="250.00212"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path9433"
+         d="m 263.8991,954.81805 -87.57938,0 0,-205.61289 127.26894,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000019, 2.0000001, 1.00000005, 2.0000001;stroke-dashoffset:0;stroke-opacity:1;marker-mid:none;marker-end:url(#Arrow1Lend-73-1)" />
+      <rect
+         ry="6.9716964"
+         y="700.92731"
+         x="254.55844"
+         height="32.244095"
+         width="103.11024"
+         id="rect9400"
+         style="opacity:1;fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect9421"
+         width="103.11024"
+         height="49.960629"
+         x="194.55844"
+         y="755.21082"
+         ry="10.802298" />
+      <rect
+         ry="10.802298"
+         y="755.21082"
+         x="314.55844"
+         height="49.960629"
+         width="103.11024"
+         id="rect9423"
+         style="opacity:1;fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         ry="10.802298"
+         y="823.21082"
+         x="194.55844"
+         height="49.960629"
+         width="103.11024"
+         id="rect9425"
+         style="opacity:1;fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect9427"
+         width="103.11024"
+         height="49.960629"
+         x="314.55844"
+         y="823.21082"
+         ry="10.802298" />
+      <rect
+         style="opacity:1;fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect9429"
+         width="103.11024"
+         height="32.244095"
+         x="254.55844"
+         y="890.92731"
+         ry="6.9716964" />
+      <rect
+         ry="6.9716964"
+         y="938.92731"
+         x="254.55844"
+         height="32.244095"
+         width="103.11024"
+         id="rect9431"
+         style="opacity:1;fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="250.00212"
+         inkscape:export-xdpi="250.00212"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path9497"
+         d="m 240.02511,872.94272 0,3.79267 133.81328,0 0,-3.79267"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:none" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)"
+         d="m 308.4821,876.1992 0,13.70867"
+         id="path9499"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path9506"
+         d="m 308.4821,924.1992 0,13.70867"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path9508"
+         d="m 240.4821,806.1992 0,13.70867"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)"
+         d="m 372.4821,806.1992 0,13.70867"
+         id="path9510"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path9512"
+         d="m 308.4821,736.1992 0,13.70867"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)" />
+    </g>
+    <g
+       id="g9530"
+       transform="translate(280,0)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000012, 2.00000007, 1.00000005, 2.00000007;stroke-dashoffset:0;stroke-opacity:1;marker-mid:none;marker-end:url(#Arrow1Lend-73-1)"
+         d="m 253.8991,956.85149 -77.57938,0 0,-207.6134 127.26894,0"
+         id="path9532"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         inkscape:export-xdpi="250.00212"
+         inkscape:export-ydpi="250.00212" />
+      <rect
+         style="opacity:1;fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect9534"
+         width="103.11024"
+         height="32.244095"
+         x="254.55844"
+         y="700.92731"
+         ry="6.9716964" />
+      <rect
+         ry="10.802298"
+         y="755.21082"
+         x="194.55844"
+         height="49.960629"
+         width="103.11024"
+         id="rect9536"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect9538"
+         width="103.11024"
+         height="49.960629"
+         x="314.55844"
+         y="755.21082"
+         ry="10.802298" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect9540"
+         width="103.11024"
+         height="49.960629"
+         x="194.55844"
+         y="823.21082"
+         ry="10.802298" />
+      <rect
+         ry="10.802298"
+         y="823.21082"
+         x="314.55844"
+         height="49.960629"
+         width="103.11024"
+         id="rect9542"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         ry="6.9716964"
+         y="890.92731"
+         x="254.55844"
+         height="32.244095"
+         width="103.11024"
+         id="rect9544"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect9546"
+         width="103.11024"
+         height="32.244095"
+         x="254.55844"
+         y="938.92731"
+         ry="6.9716964" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:none"
+         d="m 240.02511,872.94272 0,3.79267 133.81328,0 0,-3.79267"
+         id="path9548"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         inkscape:export-xdpi="250.00212"
+         inkscape:export-ydpi="250.00212" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path9550"
+         d="m 308.4821,876.1992 0,13.70867"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)"
+         d="m 308.4821,924.1992 0,13.70867"
+         id="path9552"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)"
+         d="m 240.4821,806.1992 0,13.70867"
+         id="path9554"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path9556"
+         d="m 372.4821,806.1992 0,13.70867"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)"
+         d="m 308.4821,736.1992 0,13.70867"
+         id="path9558"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g4612">
+      <g
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         transform="translate(1399.1759,-381.13203)"
+         id="g12191-1"
+         style="display:inline">
+        <rect
+           style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:2.99999996, 2.99999996;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect3007-3-2"
+           width="326.67957"
+           height="55.052567"
+           x="-1819.3544"
+           y="568.7207"
+           ry="4.3149261"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           inkscape:export-xdpi="250"
+           inkscape:export-ydpi="250" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9428978px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="-1831.0575"
+           y="562.94086"
+           id="text2985-2-2"
+           sodipodi:linespacing="125%"
+           transform="scale(0.99664102,1.0033703)"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           inkscape:export-xdpi="250"
+           inkscape:export-ydpi="250"><tspan
+             id="tspan7809-4-0"
+             sodipodi:role="line"
+             x="-1831.0575"
+             y="562.94086">1. <tspan
+   id="tspan7916-4-3"
+   style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'">Material Definition</tspan></tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text10158-1-4-5"
+           y="586.2641"
+           x="-1811.0635"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Franklin Gothic Book';-inkscape-font-specification:'Franklin Gothic Book, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           inkscape:export-xdpi="250"
+           inkscape:export-ydpi="250"><tspan
+             sodipodi:role="line"
+             id="tspan6722"
+             x="-1811.0635"
+             y="586.2641">a. Initial characterization of the material.</tspan><tspan
+             sodipodi:role="line"
+             id="tspan6726"
+             x="-1811.0635"
+             y="598.7641">b. Estimation of the quantity of material needed for the complete process. </tspan><tspan
+             sodipodi:role="line"
+             id="tspan6730"
+             x="-1811.0635"
+             y="611.2641">c. Preparation of the polymer material to be recycled.</tspan></text>
+      </g>
+      <text
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17px;line-height:100%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         x="-512.6452"
+         y="274.49963"
+         id="text7885-7-1"
+         sodipodi:linespacing="100%"><tspan
+           style="line-height:100%"
+           id="tspan7887-3-4"
+           sodipodi:role="line"
+           x="-512.6452"
+           y="274.49963">2. <tspan
+   id="tspan10031-1-6"
+   style="font-weight:bold;line-height:100%;-inkscape-font-specification:'Georgia Bold'">Process </tspan></tspan><tspan
+           id="tspan6343"
+           style="line-height:100%"
+           sodipodi:role="line"
+           x="-512.6452"
+           y="291.49963"><tspan
+             id="tspan6345"
+             style="font-weight:bold;line-height:100%;-inkscape-font-specification:'Georgia Bold'">    Assignment </tspan></tspan><tspan
+           style="font-weight:bold;line-height:100%;-inkscape-font-specification:'Georgia Bold'"
+           id="tspan11517-5-7"
+           sodipodi:role="line"
+           x="-512.6452"
+           y="308.49963" /></text>
+      <g
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         transform="translate(1444.997,-290.53094)"
+         id="g12594-3"
+         style="display:inline">
+        <rect
+           style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect7920-5-1"
+           width="331.35577"
+           height="55.692917"
+           x="-1867.5137"
+           y="887.49615"
+           ry="4.3651156"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           inkscape:export-xdpi="250"
+           inkscape:export-ydpi="250" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="-1872.833"
+           y="880.74261"
+           id="text7922-2-8"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           inkscape:export-xdpi="250"
+           inkscape:export-ydpi="250"><tspan
+             id="tspan7924-2-6"
+             sodipodi:role="line"
+             x="-1872.833"
+             y="880.74261">4. <tspan
+   id="tspan10202-1-3"
+   style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'">Evaluation </tspan></tspan><tspan
+             id="tspan8652"
+             sodipodi:role="line"
+             x="-1872.833"
+             y="880.74261"><tspan
+               id="tspan8654"
+               style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'" /></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Franklin Gothic Book';-inkscape-font-specification:'Franklin Gothic Book, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="-1863.828"
+           y="906.17755"
+           id="text10154-4-7-8"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           inkscape:export-xdpi="250"
+           inkscape:export-ydpi="250"><tspan
+             sodipodi:role="line"
+             x="-1863.828"
+             y="906.17755"
+             style="font-size:10.00000095px"
+             id="tspan4231">a. Selection of the parameters that describe the recycled plastic assessment.</tspan><tspan
+             sodipodi:role="line"
+             x="-1863.828"
+             y="918.67755"
+             style="font-size:10.00000095px"
+             id="tspan4237">b. Characterization of the equipment.</tspan><tspan
+             sodipodi:role="line"
+             x="-1863.828"
+             y="931.17755"
+             id="tspan10442-8-2"
+             style="font-size:10.00000095px">c. Collection of results.</tspan></text>
+      </g>
+      <g
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         transform="translate(1457.8166,-272.20345)"
+         id="g12603-9"
+         style="display:inline">
+        <rect
+           ry="2.5963719"
+           y="954.62103"
+           x="-1864.7458"
+           height="33.12616"
+           width="300.18109"
+           id="rect7949-2-5"
+           style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:2.99999999, 2.99999999;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           inkscape:export-xdpi="250"
+           inkscape:export-ydpi="250" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text7951-3-4"
+           y="948.73846"
+           x="-1885.7356"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           inkscape:export-xdpi="250"
+           inkscape:export-ydpi="250"><tspan
+             y="948.73846"
+             x="-1885.7356"
+             sodipodi:role="line"
+             id="tspan7953-6-3">5. <tspan
+   id="tspan10210-3-59"
+   style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'">Recycling </tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Franklin Gothic Book';-inkscape-font-specification:'Franklin Gothic Book, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="-1848.0325"
+           y="969.37885"
+           id="text10154-4-8-0-2"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           inkscape:export-xdpi="250"
+           inkscape:export-ydpi="250"><tspan
+             sodipodi:role="line"
+             x="-1848.0325"
+             y="969.37885"
+             id="tspan10286-5-2-3-0">a. Operational conditions of the recycling process.</tspan><tspan
+             id="tspan12612-0"
+             sodipodi:role="line"
+             x="-1848.0325"
+             y="981.87885">b. Granulometry of the recycled material</tspan><tspan
+             sodipodi:role="line"
+             x="-1848.0325"
+             y="994.37885"
+             id="tspan10442-1-5-3" /></text>
+      </g>
+      <text
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         transform="scale(1.0027,0.99730728)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.05241394px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         x="-510.88708"
+         y="439.90417"
+         id="text7906-6-8"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan6347"
+           sodipodi:role="line"
+           x="-510.88708"
+           y="439.90417">3. <tspan
+   style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'"
+   id="tspan10029-2-5">Fabrication</tspan></tspan><tspan
+           id="tspan6365"
+           sodipodi:role="line"
+           x="-510.88708"
+           y="461.2197"><tspan
+             id="tspan6367"
+             style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'">    of samples</tspan></tspan><tspan
+           id="tspan8570"
+           sodipodi:role="line"
+           x="-510.88708"
+           y="482.53522" /></text>
+      <g
+         transform="translate(1298.1595,146.09309)"
+         id="g8529"
+         style="display:inline">
+        <text
+           inkscape:export-ydpi="250"
+           inkscape:export-xdpi="250"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="-1497.0975"
+           y="337.44116"
+           id="text12507-0"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan12509-2"
+             sodipodi:role="line"
+             x="-1497.0975"
+             y="337.44116"
+             style="font-size:16px">3.2) 3D Printing</tspan></text>
+        <rect
+           ry="6.876658"
+           y="318.37262"
+           x="-1551.2131"
+           height="87.736763"
+           width="211.59842"
+           id="rect7904-3-9"
+           style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           inkscape:export-xdpi="250"
+           inkscape:export-ydpi="250" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text10158-2-8-1"
+           y="356.00739"
+           x="-1545.5775"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Franklin Gothic Book';-inkscape-font-specification:'Franklin Gothic Book, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           inkscape:export-xdpi="250"
+           inkscape:export-ydpi="250"><tspan
+             y="356.00739"
+             x="-1545.5775"
+             sodipodi:role="line"
+             id="tspan4243">a. Characterization of the 3D printer machine</tspan><tspan
+             y="368.50739"
+             x="-1545.5775"
+             sodipodi:role="line"
+             id="tspan4226">b. Definition of 3D printing parameters. </tspan><tspan
+             id="tspan6071"
+             y="381.00739"
+             x="-1545.5775"
+             sodipodi:role="line">    for fabrication of samples taking into account</tspan><tspan
+             y="393.50739"
+             x="-1545.5775"
+             sodipodi:role="line"
+             id="tspan4247">    literature review.</tspan><tspan
+             id="tspan4415"
+             y="406.00739"
+             x="-1545.5775"
+             sodipodi:role="line" /><tspan
+             id="tspan6073"
+             y="418.50739"
+             x="-1545.5775"
+             sodipodi:role="line" /><tspan
+             y="431.00739"
+             x="-1545.5775"
+             sodipodi:role="line"
+             id="tspan12545-6" /><tspan
+             y="443.50739"
+             x="-1545.5775"
+             sodipodi:role="line"
+             id="tspan12547-4" /></text>
+      </g>
+      <g
+         transform="translate(1355.5611,146.09309)"
+         id="g8540"
+         style="display:inline">
+        <text
+           inkscape:export-ydpi="250"
+           inkscape:export-xdpi="250"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           sodipodi:linespacing="125%"
+           id="text12503-9"
+           y="337.44116"
+           x="-1768.1405"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="337.44116"
+             x="-1768.1405"
+             sodipodi:role="line"
+             id="tspan12505-4"
+             style="font-size:16px">3.1) Standard</tspan></text>
+        <text
+           inkscape:export-ydpi="250"
+           inkscape:export-xdpi="250"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Franklin Gothic Book';-inkscape-font-specification:'Franklin Gothic Book, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="-1824.2186"
+           y="355.14313"
+           id="text10502-1-3"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="-1824.2186"
+             y="355.14313"
+             id="tspan5502">a. Identification of international standards </tspan><tspan
+             sodipodi:role="line"
+             x="-1824.2186"
+             y="367.64313"
+             id="tspan8287-3">    for establishing parameters of the process.</tspan><tspan
+             sodipodi:role="line"
+             x="-1824.2186"
+             y="380.14313"
+             id="tspan4228">b. Characterization of the equipment. </tspan><tspan
+             sodipodi:role="line"
+             x="-1824.2186"
+             y="392.64313"
+             id="tspan6458">c. Definition of operating conditions.</tspan><tspan
+             sodipodi:role="line"
+             x="-1824.2186"
+             y="405.14313"
+             id="tspan6461" /></text>
+        <rect
+           inkscape:export-ydpi="250"
+           inkscape:export-xdpi="250"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6069"
+           width="211.59842"
+           height="87.736763"
+           x="-1831.2131"
+           y="318.37262"
+           ry="6.876658" />
+      </g>
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000007, 2.00000003, 1.00000003, 2.00000003;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -407.903,700.36848 -117.53603,0 0,-446.95776 265.88663,0"
+         id="path10041-2-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         inkscape:export-xdpi="250.00212"
+         inkscape:export-ydpi="250.00212" />
+      <text
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         transform="matrix(0,-1,1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text10043-5-5"
+         y="-532.11859"
+         x="-536.1416"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-size:15px"
+           y="-532.11859"
+           x="-536.1416"
+           sodipodi:role="line"
+           id="tspan10045-9-5">Definition of the number of cycles</tspan></text>
+      <g
+         transform="translate(1287.8601,152.09309)"
+         id="g8446"
+         style="display:inline">
+        <path
+           inkscape:export-ydpi="250.00212"
+           inkscape:export-xdpi="250.00212"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path10041-2-0-3"
+           d="m -1663.0933,125.489 0,-16.67643 233.6881,0 0,16.67643"
+           style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-mid:none;marker-end:url(#Arrow1Lend-73-4)" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1544.6989,108.7732 0,-18.552492"
+           id="path8413"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(1287.8601,162.09308)"
+         id="g8616"
+         style="display:inline">
+        <g
+           id="g8480"
+           transform="translate(10.29931,0)">
+          <text
+             inkscape:export-ydpi="250"
+             inkscape:export-xdpi="250"
+             inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+             x="-1534.5857"
+             y="156.03166"
+             id="text7898-5-4"
+             sodipodi:linespacing="125%"><tspan
+               id="tspan4417"
+               sodipodi:role="line"
+               x="-1534.5857"
+               y="156.03166"
+               style="font-size:16px">2.2) 3DP Feedstock Process</tspan></text>
+          <text
+             inkscape:export-ydpi="250"
+             inkscape:export-xdpi="250"
+             inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Franklin Gothic Book';-inkscape-font-specification:'Franklin Gothic Book, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+             x="-1535.4041"
+             y="179.69914"
+             id="text10158-9-3"
+             sodipodi:linespacing="100%"><tspan
+               id="tspan4385"
+               sodipodi:role="line"
+               x="-1535.4041"
+               y="179.69914">a. Manufacturing  process of the</tspan><tspan
+               id="tspan6373"
+               sodipodi:role="line"
+               x="-1535.4041"
+               y="189.69914">    3D printing feedstock material</tspan><tspan
+               id="tspan4387"
+               sodipodi:role="line"
+               x="-1535.4041"
+               y="199.69914">b. Characterization of the experimental </tspan><tspan
+               id="tspan4391"
+               sodipodi:role="line"
+               x="-1535.4041"
+               y="209.69914">    conditions.</tspan><tspan
+               id="tspan4395"
+               sodipodi:role="line"
+               x="-1535.4041"
+               y="219.69914">c. Identification of quality parameters </tspan><tspan
+               sodipodi:role="line"
+               x="-1535.4041"
+               y="229.69914"
+               id="tspan6057">    for feedstock material</tspan><tspan
+               id="tspan10375-3-0"
+               sodipodi:role="line"
+               x="-1535.4041"
+               y="239.69914" /><tspan
+               id="tspan10446-4-4"
+               sodipodi:role="line"
+               x="-1535.4041"
+               y="249.69914" /><tspan
+               id="tspan10278-6-4"
+               sodipodi:role="line"
+               x="-1535.4041"
+               y="259.69916" /></text>
+          <rect
+             ry="8.8257151"
+             y="134.28923"
+             x="-1551.213"
+             height="112.60408"
+             width="211.59842"
+             id="rect5313-1"
+             style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:3.00000003, 3.00000003;stroke-dashoffset:0;stroke-opacity:1"
+             inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+             inkscape:export-xdpi="250"
+             inkscape:export-ydpi="250" />
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           id="path8413-1"
+           d="m -1429.4052,246.87368 0,52.03183"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0)"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <rect
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:2.99999998, 2.99999998;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect7883-3-3"
+         width="211.59842"
+         height="112.60408"
+         x="-475.65201"
+         y="296.38232"
+         ry="8.8257151" />
+      <text
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         sodipodi:linespacing="125%"
+         id="text7889-7-5"
+         y="318.12476"
+         x="-442.60672"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="318.12476"
+           x="-442.60672"
+           sodipodi:role="line"
+           style="font-size:16px"
+           id="tspan12689-4">2.1) Reference Process </tspan></text>
+      <text
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         sodipodi:linespacing="100%"
+         id="text10154-5-5"
+         y="341.79224"
+         x="-468.5773"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Franklin Gothic Book';-inkscape-font-specification:'Franklin Gothic Book, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="341.79224"
+           x="-468.5773"
+           id="tspan10156-1-2"
+           sodipodi:role="line">a. Identification of the reference process for</tspan><tspan
+           id="tspan4347"
+           y="351.79224"
+           x="-468.5773"
+           sodipodi:role="line">    characterization of the material's degradation</tspan><tspan
+           id="tspan4349"
+           y="361.79224"
+           x="-468.5773"
+           sodipodi:role="line" /><tspan
+           id="tspan4345"
+           y="371.79224"
+           x="-468.5773"
+           sodipodi:role="line">b. Definition of the material property to be </tspan><tspan
+           id="tspan10321-0-9"
+           y="381.79224"
+           x="-468.5773"
+           sodipodi:role="line">    tested through recycling process. </tspan><tspan
+           y="391.79224"
+           x="-468.5773"
+           sodipodi:role="line"
+           id="tspan4232" /><tspan
+           id="tspan10286-8-1"
+           y="401.79224"
+           x="-468.5773"
+           sodipodi:role="line" /></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path8586"
+         d="m -375.2332,408.96676 0,52.03183"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0)"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g8446-6"
+         transform="matrix(0.99999982,0,0,-0.99999988,1287.202,712.38458)"
+         style="display:inline">
+        <path
+           inkscape:export-ydpi="250.00212"
+           inkscape:export-xdpi="250.00212"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path10041-2-0-3-0"
+           d="m -1663.0933,158.72534 0,-7.14923 233.6881,0 0,7.14923"
+           style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:none" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0)"
+           d="m -1544.6989,151.60178 0,-33.38107"
+           id="path8413-2"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path9178-5"
+           d="m -1544.6989,59.335349 0,-25.542047"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0)" />
+      </g>
+    </g>
+    <g
+       transform="translate(-1082.8571,-280)"
+       id="g10842">
+      <path
+         inkscape:export-ydpi="250.00212"
+         inkscape:export-xdpi="250.00212"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path10844"
+         d="m 253.8991,956.85149 -77.57938,0 0,-207.6134 127.26894,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000012, 2.00000007, 1.00000005, 2.00000007;stroke-dashoffset:0;stroke-opacity:1;marker-mid:none;marker-end:url(#Arrow1Lend-73-1)" />
+      <rect
+         ry="6.9716964"
+         y="700.92731"
+         x="254.55844"
+         height="32.244095"
+         width="103.11024"
+         id="rect10846"
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect10848"
+         width="103.11024"
+         height="49.960629"
+         x="194.55844"
+         y="755.21082"
+         ry="10.802298" />
+      <rect
+         ry="10.802298"
+         y="755.21082"
+         x="314.55844"
+         height="49.960629"
+         width="103.11024"
+         id="rect10850"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         ry="10.802298"
+         y="823.21082"
+         x="194.55844"
+         height="49.960629"
+         width="103.11024"
+         id="rect10852"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect10854"
+         width="103.11024"
+         height="49.960629"
+         x="314.55844"
+         y="823.21082"
+         ry="10.802298" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect10856"
+         width="103.11024"
+         height="32.244095"
+         x="254.55844"
+         y="890.92731"
+         ry="6.9716964" />
+      <rect
+         ry="6.9716964"
+         y="938.92731"
+         x="254.55844"
+         height="32.244095"
+         width="103.11024"
+         id="rect10858"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="250.00212"
+         inkscape:export-xdpi="250.00212"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path10860"
+         d="m 240.02511,872.94272 0,3.79267 133.81328,0 0,-3.79267"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:none" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)"
+         d="m 308.4821,876.1992 0,13.70867"
+         id="path10862"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path10864"
+         d="m 308.4821,924.1992 0,13.70867"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path10866"
+         d="m 240.4821,806.1992 0,13.70867"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)"
+         d="m 372.4821,806.1992 0,13.70867"
+         id="path10868"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path10870"
+         d="m 308.4821,736.1992 0,13.70867"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)" />
+    </g>
+    <g
+       id="g11044">
+      <text
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17px;line-height:100%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         x="-1058.1327"
+         y="822.19507"
+         id="text11017"
+         sodipodi:linespacing="100%"><tspan
+           id="tspan11019"
+           style="line-height:100%"
+           sodipodi:role="line"
+           x="-1058.1327"
+           y="822.19507">2. <tspan
+   id="tspan11021"
+   style="font-weight:bold;line-height:100%;-inkscape-font-specification:'Georgia Bold'">Process Assignment </tspan></tspan><tspan
+           style="font-weight:bold;line-height:100%;-inkscape-font-specification:'Georgia Bold'"
+           id="tspan11023"
+           sodipodi:role="line"
+           x="-1058.1327"
+           y="839.19507" /></text>
+      <g
+         style="display:inline"
+         id="g10975"
+         transform="translate(504.41026,692.45162)">
+        <g
+           transform="translate(10.29931,0)"
+           id="g10977">
+          <text
+             sodipodi:linespacing="125%"
+             id="text10979"
+             y="156.03166"
+             x="-1534.5857"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+             xml:space="preserve"
+             inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+             inkscape:export-xdpi="250"
+             inkscape:export-ydpi="250"><tspan
+               style="font-size:16px"
+               y="156.03166"
+               x="-1534.5857"
+               sodipodi:role="line"
+               id="tspan10981">2.2) 3DP Feedstock Process</tspan></text>
+          <text
+             sodipodi:linespacing="100%"
+             id="text10983"
+             y="179.69914"
+             x="-1535.4041"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:'Franklin Gothic Book';-inkscape-font-specification:'Franklin Gothic Book, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+             xml:space="preserve"
+             inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+             inkscape:export-xdpi="250"
+             inkscape:export-ydpi="250"><tspan
+               y="179.69914"
+               x="-1535.4041"
+               sodipodi:role="line"
+               id="tspan10987">a. Manufacturing  process of the 3D printing feedstock material</tspan><tspan
+               y="189.69914"
+               x="-1535.4041"
+               sodipodi:role="line"
+               id="tspan10989" /><tspan
+               y="199.69914"
+               x="-1535.4041"
+               sodipodi:role="line"
+               id="tspan10991">b. Characterization of the experimental conditions.</tspan><tspan
+               y="209.69914"
+               x="-1535.4041"
+               sodipodi:role="line"
+               id="tspan10993" /><tspan
+               id="tspan10995"
+               y="219.69914"
+               x="-1535.4041"
+               sodipodi:role="line">c. Identification of quality parameters  for feedstock material</tspan><tspan
+               y="229.69914"
+               x="-1535.4041"
+               sodipodi:role="line"
+               id="tspan10997" /><tspan
+               y="239.69914"
+               x="-1535.4041"
+               sodipodi:role="line"
+               id="tspan10999" /><tspan
+               y="249.69914"
+               x="-1535.4041"
+               sodipodi:role="line"
+               id="tspan11001" /></text>
+          <rect
+             inkscape:export-ydpi="250"
+             inkscape:export-xdpi="250"
+             inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+             style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect11003"
+             width="317.89764"
+             height="94.71006"
+             x="-1551.2129"
+             y="134.28923"
+             ry="7.4232121" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g11102"
+       transform="translate(-1223.9041,265.2414)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000012, 2.00000007, 1.00000005, 2.00000007;stroke-dashoffset:0;stroke-opacity:1;marker-mid:none;marker-end:url(#Arrow1Lend-73-1)"
+         d="m 253.8991,956.85149 -77.57938,0 0,-207.6134 127.26894,0"
+         id="path11104"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         inkscape:export-xdpi="250.00212"
+         inkscape:export-ydpi="250.00212" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11106"
+         width="103.11024"
+         height="32.244095"
+         x="254.55844"
+         y="700.92731"
+         ry="6.9716964" />
+      <rect
+         ry="10.802298"
+         y="755.21082"
+         x="194.55844"
+         height="49.960629"
+         width="103.11024"
+         id="rect11108"
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11110"
+         width="103.11024"
+         height="49.960629"
+         x="314.55844"
+         y="755.21082"
+         ry="10.802298" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11112"
+         width="103.11024"
+         height="49.960629"
+         x="194.55844"
+         y="823.21082"
+         ry="10.802298" />
+      <rect
+         ry="10.802298"
+         y="823.21082"
+         x="314.55844"
+         height="49.960629"
+         width="103.11024"
+         id="rect11114"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         ry="6.9716964"
+         y="890.92731"
+         x="254.55844"
+         height="32.244095"
+         width="103.11024"
+         id="rect11116"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11118"
+         width="103.11024"
+         height="32.244095"
+         x="254.55844"
+         y="938.92731"
+         ry="6.9716964" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:none"
+         d="m 240.02511,872.94272 0,3.79267 133.81328,0 0,-3.79267"
+         id="path11120"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         inkscape:export-xdpi="250.00212"
+         inkscape:export-ydpi="250.00212" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11122"
+         d="m 308.4821,876.1992 0,13.70867"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)"
+         d="m 308.4821,924.1992 0,13.70867"
+         id="path11124"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)"
+         d="m 240.4821,806.1992 0,13.70867"
+         id="path11126"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11128"
+         d="m 372.4821,806.1992 0,13.70867"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)"
+         d="m 308.4821,736.1992 0,13.70867"
+         id="path11130"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g11223">
+      <text
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         transform="scale(1.0027,0.99730728)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.05241394px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         x="-562.92926"
+         y="890.30579"
+         id="text7906-6-8-1"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan6365-2"
+           sodipodi:role="line"
+           x="-562.92926"
+           y="890.30579">3. <tspan
+   style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'"
+   id="tspan10029-2-5-6">Fabrication of samples</tspan></tspan><tspan
+           id="tspan8570-7"
+           sodipodi:role="line"
+           x="-562.92926"
+           y="911.62128" /></text>
+      <g
+         transform="translate(1283.3784,573.28191)"
+         id="g8540-7"
+         style="display:inline">
+        <text
+           inkscape:export-ydpi="250"
+           inkscape:export-xdpi="250"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           sodipodi:linespacing="125%"
+           id="text12503-9-19"
+           y="337.44116"
+           x="-1768.1405"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="337.44116"
+             x="-1768.1405"
+             sodipodi:role="line"
+             id="tspan12505-4-6"
+             style="font-size:16px">3.1) Standard</tspan></text>
+        <text
+           inkscape:export-ydpi="250"
+           inkscape:export-xdpi="250"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Franklin Gothic Book';-inkscape-font-specification:'Franklin Gothic Book, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="-1795.5797"
+           y="355.14313"
+           id="text10502-1-3-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="-1795.5797"
+             y="355.14313"
+             id="tspan8287-3-2">a. Identification of international standards  for establishing </tspan><tspan
+             id="tspan11213"
+             sodipodi:role="line"
+             x="-1795.5797"
+             y="367.64313">parameters of the process.</tspan><tspan
+             id="tspan11215"
+             sodipodi:role="line"
+             x="-1795.5797"
+             y="380.14313">b. Characterization of the equipment. </tspan><tspan
+             sodipodi:role="line"
+             x="-1795.5797"
+             y="392.64313"
+             id="tspan6458-7">c. Definition of operating conditions.</tspan><tspan
+             sodipodi:role="line"
+             x="-1795.5797"
+             y="405.14313"
+             id="tspan6461-6" /></text>
+        <rect
+           inkscape:export-ydpi="250"
+           inkscape:export-xdpi="250"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:0.99999988;stroke-miterlimit:4;stroke-dasharray:2.99999999, 2.99999999;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6069-8"
+           width="317.89764"
+           height="87.736763"
+           x="-1831.2131"
+           y="318.37262"
+           ry="6.876658" />
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text11333"
+         y="914.37054"
+         x="-126.10871"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.05241394px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"
+         transform="scale(1.0027,0.99730728)"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         inkscape:export-xdpi="250"
+         inkscape:export-ydpi="250"><tspan
+           y="914.37054"
+           x="-126.10871"
+           sodipodi:role="line"
+           id="tspan11335">3. <tspan
+   id="tspan11337"
+   style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'">Fabrication of samples</tspan></tspan><tspan
+           y="935.68604"
+           x="-126.10871"
+           sodipodi:role="line"
+           id="tspan11339" /></text>
+    </g>
+    <g
+       transform="translate(-703.9041,305.2414)"
+       id="g11258">
+      <path
+         inkscape:export-ydpi="250.00212"
+         inkscape:export-xdpi="250.00212"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path11260"
+         d="m 253.8991,956.85149 -77.57938,0 0,-207.6134 127.26894,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000012, 2.00000007, 1.00000005, 2.00000007;stroke-dashoffset:0;stroke-opacity:1;marker-mid:none;marker-end:url(#Arrow1Lend-73-1)" />
+      <rect
+         ry="6.9716964"
+         y="700.92731"
+         x="254.55844"
+         height="32.244095"
+         width="103.11024"
+         id="rect11262"
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11264"
+         width="103.11024"
+         height="49.960629"
+         x="194.55844"
+         y="755.21082"
+         ry="10.802298" />
+      <rect
+         ry="10.802298"
+         y="755.21082"
+         x="314.55844"
+         height="49.960629"
+         width="103.11024"
+         id="rect11266"
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         ry="10.802298"
+         y="823.21082"
+         x="194.55844"
+         height="49.960629"
+         width="103.11024"
+         id="rect11268"
+         style="opacity:1;fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11270"
+         width="103.11024"
+         height="49.960629"
+         x="314.55844"
+         y="823.21082"
+         ry="10.802298" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11272"
+         width="103.11024"
+         height="32.244095"
+         x="254.55844"
+         y="890.92731"
+         ry="6.9716964" />
+      <rect
+         ry="6.9716964"
+         y="938.92731"
+         x="254.55844"
+         height="32.244095"
+         width="103.11024"
+         id="rect11274"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="250.00212"
+         inkscape:export-xdpi="250.00212"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path11276"
+         d="m 240.02511,872.94272 0,3.79267 133.81328,0 0,-3.79267"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:none" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)"
+         d="m 308.4821,876.1992 0,13.70867"
+         id="path11278"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11280"
+         d="m 308.4821,924.1992 0,13.70867"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11282"
+         d="m 240.4821,806.1992 0,13.70867"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)"
+         d="m 372.4821,806.1992 0,13.70867"
+         id="path11284"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11286"
+         d="m 308.4821,736.1992 0,13.70867"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)" />
+    </g>
+    <g
+       id="g11347">
+      <g
+         style="display:inline"
+         id="g11307"
+         transform="translate(1438.0866,598.62337)">
+        <text
+           sodipodi:linespacing="125%"
+           id="text11309"
+           y="337.44116"
+           x="-1497.0975"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           inkscape:export-xdpi="250"
+           inkscape:export-ydpi="250"><tspan
+             style="font-size:16px"
+             y="337.44116"
+             x="-1497.0975"
+             sodipodi:role="line"
+             id="tspan11311">3.2) 3D Printing</tspan></text>
+        <rect
+           inkscape:export-ydpi="250"
+           inkscape:export-xdpi="250"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:0.99999988;stroke-miterlimit:4;stroke-dasharray:2.99999999, 2.99999999;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect11313"
+           width="317.89764"
+           height="72.850899"
+           x="-1551.2131"
+           y="318.37262"
+           ry="5.7099295" />
+        <text
+           inkscape:export-ydpi="250"
+           inkscape:export-xdpi="250"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Franklin Gothic Book';-inkscape-font-specification:'Franklin Gothic Book, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="-1528.3654"
+           y="356.00739"
+           id="text11315"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan11317"
+             sodipodi:role="line"
+             x="-1528.3654"
+             y="356.00739">a. Characterization of the 3D printer machine</tspan><tspan
+             sodipodi:role="line"
+             x="-1528.3654"
+             y="368.50739"
+             id="tspan11321">b. Definition of 3D printing parameters for fabrication of samples </tspan><tspan
+             id="tspan11323"
+             sodipodi:role="line"
+             x="-1528.3654"
+             y="381.00739">taking into account literature review.</tspan><tspan
+             sodipodi:role="line"
+             x="-1528.3654"
+             y="393.50739"
+             id="tspan11325" /><tspan
+             sodipodi:role="line"
+             x="-1528.3654"
+             y="406.00739"
+             id="tspan11327" /><tspan
+             id="tspan11329"
+             sodipodi:role="line"
+             x="-1528.3654"
+             y="418.50739" /><tspan
+             id="tspan11331"
+             sodipodi:role="line"
+             x="-1528.3654"
+             y="431.00739" /></text>
+      </g>
+    </g>
+    <g
+       id="g11380"
+       transform="translate(-303.9041,305.2414)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000012, 2.00000007, 1.00000005, 2.00000007;stroke-dashoffset:0;stroke-opacity:1;marker-mid:none;marker-end:url(#Arrow1Lend-73-1)"
+         d="m 253.8991,956.85149 -77.57938,0 0,-207.6134 127.26894,0"
+         id="path11382"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         inkscape:export-xdpi="250.00212"
+         inkscape:export-ydpi="250.00212" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11384"
+         width="103.11024"
+         height="32.244095"
+         x="254.55844"
+         y="700.92731"
+         ry="6.9716964" />
+      <rect
+         ry="10.802298"
+         y="755.21082"
+         x="194.55844"
+         height="49.960629"
+         width="103.11024"
+         id="rect11386"
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11388"
+         width="103.11024"
+         height="49.960629"
+         x="314.55844"
+         y="755.21082"
+         ry="10.802298" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11390"
+         width="103.11024"
+         height="49.960629"
+         x="194.55844"
+         y="823.21082"
+         ry="10.802298" />
+      <rect
+         ry="10.802298"
+         y="823.21082"
+         x="314.55844"
+         height="49.960629"
+         width="103.11024"
+         id="rect11392"
+         style="opacity:1;fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         ry="6.9716964"
+         y="890.92731"
+         x="254.55844"
+         height="32.244095"
+         width="103.11024"
+         id="rect11394"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11396"
+         width="103.11024"
+         height="32.244095"
+         x="254.55844"
+         y="938.92731"
+         ry="6.9716964" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:none"
+         d="m 240.02511,872.94272 0,3.79267 133.81328,0 0,-3.79267"
+         id="path11398"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         inkscape:export-xdpi="250.00212"
+         inkscape:export-ydpi="250.00212" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11400"
+         d="m 308.4821,876.1992 0,13.70867"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)"
+         d="m 308.4821,924.1992 0,13.70867"
+         id="path11402"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)"
+         d="m 240.4821,806.1992 0,13.70867"
+         id="path11404"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11406"
+         d="m 372.4821,806.1992 0,13.70867"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)"
+         d="m 308.4821,736.1992 0,13.70867"
+         id="path11408"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       inkscape:export-ydpi="250"
+       inkscape:export-xdpi="250"
+       inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+       transform="translate(1731.3014,505.22678)"
+       id="g11429"
+       style="display:inline">
+      <rect
+         style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11431"
+         width="331.35577"
+         height="55.692917"
+         x="-1867.5137"
+         y="887.49615"
+         ry="4.3651156"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         inkscape:export-xdpi="250"
+         inkscape:export-ydpi="250" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="-1872.833"
+         y="880.74261"
+         id="text11433"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         inkscape:export-xdpi="250"
+         inkscape:export-ydpi="250"><tspan
+           id="tspan11435"
+           sodipodi:role="line"
+           x="-1872.833"
+           y="880.74261">4. <tspan
+   id="tspan11437"
+   style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'">Evaluation </tspan></tspan><tspan
+           id="tspan11439"
+           sodipodi:role="line"
+           x="-1872.833"
+           y="880.74261"><tspan
+             id="tspan11441"
+             style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'" /></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Franklin Gothic Book';-inkscape-font-specification:'Franklin Gothic Book, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="-1863.828"
+         y="906.17755"
+         id="text11443"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         inkscape:export-xdpi="250"
+         inkscape:export-ydpi="250"><tspan
+           sodipodi:role="line"
+           x="-1863.828"
+           y="906.17755"
+           style="font-size:10.00000095px"
+           id="tspan11445">a. Selection of the parameters that describe the recycled plastic assessment.</tspan><tspan
+           sodipodi:role="line"
+           x="-1863.828"
+           y="918.67755"
+           style="font-size:10.00000095px"
+           id="tspan11447">b. Characterization of the equipment.</tspan><tspan
+           sodipodi:role="line"
+           x="-1863.828"
+           y="931.17755"
+           id="tspan11449"
+           style="font-size:10.00000095px">c. Collection of results.</tspan></text>
+    </g>
+    <g
+       transform="translate(-299.69374,789.43261)"
+       id="g11451">
+      <path
+         inkscape:export-ydpi="250.00212"
+         inkscape:export-xdpi="250.00212"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path11453"
+         d="m 253.8991,956.85149 -77.57938,0 0,-207.6134 127.26894,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000012, 2.00000007, 1.00000005, 2.00000007;stroke-dashoffset:0;stroke-opacity:1;marker-mid:none;marker-end:url(#Arrow1Lend-73-1)" />
+      <rect
+         ry="6.9716964"
+         y="700.92731"
+         x="254.55844"
+         height="32.244095"
+         width="103.11024"
+         id="rect11455"
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11457"
+         width="103.11024"
+         height="49.960629"
+         x="194.55844"
+         y="755.21082"
+         ry="10.802298" />
+      <rect
+         ry="10.802298"
+         y="755.21082"
+         x="314.55844"
+         height="49.960629"
+         width="103.11024"
+         id="rect11459"
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         ry="10.802298"
+         y="823.21082"
+         x="194.55844"
+         height="49.960629"
+         width="103.11024"
+         id="rect11461"
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11463"
+         width="103.11024"
+         height="49.960629"
+         x="314.55844"
+         y="823.21082"
+         ry="10.802298" />
+      <rect
+         style="opacity:1;fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11465"
+         width="103.11024"
+         height="32.244095"
+         x="254.55844"
+         y="890.92731"
+         ry="6.9716964" />
+      <rect
+         ry="6.9716964"
+         y="938.92731"
+         x="254.55844"
+         height="32.244095"
+         width="103.11024"
+         id="rect11467"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="250.00212"
+         inkscape:export-xdpi="250.00212"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path11469"
+         d="m 240.02511,872.94272 0,3.79267 133.81328,0 0,-3.79267"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:none" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)"
+         d="m 308.4821,876.1992 0,13.70867"
+         id="path11471"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11473"
+         d="m 308.4821,924.1992 0,13.70867"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11475"
+         d="m 240.4821,806.1992 0,13.70867"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)"
+         d="m 372.4821,806.1992 0,13.70867"
+         id="path11477"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11479"
+         d="m 308.4821,736.1992 0,13.70867"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)" />
+    </g>
+    <g
+       inkscape:export-ydpi="250"
+       inkscape:export-xdpi="250"
+       inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+       transform="translate(2093.5807,118.30729)"
+       id="g11527"
+       style="display:inline">
+      <rect
+         ry="2.5963719"
+         y="954.62103"
+         x="-1864.7458"
+         height="33.12616"
+         width="228.605"
+         id="rect11529"
+         style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:0.99999988;stroke-miterlimit:4;stroke-dasharray:2.99999999, 2.99999999;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         inkscape:export-xdpi="250"
+         inkscape:export-ydpi="250" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text11531"
+         y="948.73846"
+         x="-1885.7356"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         inkscape:export-xdpi="250"
+         inkscape:export-ydpi="250"><tspan
+           y="948.73846"
+           x="-1885.7356"
+           sodipodi:role="line"
+           id="tspan11533">5. <tspan
+   id="tspan11535"
+   style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'">Recycling </tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Franklin Gothic Book';-inkscape-font-specification:'Franklin Gothic Book, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="-1848.0325"
+         y="969.37885"
+         id="text11537"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         inkscape:export-xdpi="250"
+         inkscape:export-ydpi="250"><tspan
+           sodipodi:role="line"
+           x="-1848.0325"
+           y="969.37885"
+           id="tspan11539">a. Operational conditions of the recycling process.</tspan><tspan
+           id="tspan11541"
+           sodipodi:role="line"
+           x="-1848.0325"
+           y="981.87885">b. Granulometry of the recycled material</tspan><tspan
+           sodipodi:role="line"
+           x="-1848.0325"
+           y="994.37885"
+           id="tspan11543" /></text>
+    </g>
+    <g
+       transform="translate(75.02815,442.07884)"
+       id="g11545">
+      <path
+         inkscape:export-ydpi="250.00212"
+         inkscape:export-xdpi="250.00212"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path11547"
+         d="m 253.8991,956.85149 -77.57938,0 0,-207.6134 127.26894,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000012, 2.00000007, 1.00000005, 2.00000007;stroke-dashoffset:0;stroke-opacity:1;marker-mid:none;marker-end:url(#Arrow1Lend-73-1)" />
+      <rect
+         ry="6.9716964"
+         y="700.92731"
+         x="254.55844"
+         height="32.244095"
+         width="103.11024"
+         id="rect11549"
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11551"
+         width="103.11024"
+         height="49.960629"
+         x="194.55844"
+         y="755.21082"
+         ry="10.802298" />
+      <rect
+         ry="10.802298"
+         y="755.21082"
+         x="314.55844"
+         height="49.960629"
+         width="103.11024"
+         id="rect11553"
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         ry="10.802298"
+         y="823.21082"
+         x="194.55844"
+         height="49.960629"
+         width="103.11024"
+         id="rect11555"
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897653;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11557"
+         width="103.11024"
+         height="49.960629"
+         x="314.55844"
+         y="823.21082"
+         ry="10.802298" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11559"
+         width="103.11024"
+         height="32.244095"
+         x="254.55844"
+         y="890.92731"
+         ry="6.9716964" />
+      <rect
+         ry="6.9716964"
+         y="938.92731"
+         x="254.55844"
+         height="32.244095"
+         width="103.11024"
+         id="rect11561"
+         style="opacity:1;fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.18897629;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="250.00212"
+         inkscape:export-xdpi="250.00212"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path11563"
+         d="m 240.02511,872.94272 0,3.79267 133.81328,0 0,-3.79267"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-mid:none" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)"
+         d="m 308.4821,876.1992 0,13.70867"
+         id="path11565"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11567"
+         d="m 308.4821,924.1992 0,13.70867"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11569"
+         d="m 240.4821,806.1992 0,13.70867"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)"
+         d="m 372.4821,806.1992 0,13.70867"
+         id="path11571"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path11573"
+         d="m 308.4821,736.1992 0,13.70867"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-95)" />
+    </g>
+  </g>
+</svg>

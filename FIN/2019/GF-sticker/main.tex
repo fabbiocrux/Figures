@@ -1,0 +1,59 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[newdimens]{labels}
+%\LabelCols=3%             Number of columns of labels per page
+%\LabelRows=7%             Number of rows of labels per page
+%\LeftPageMargin=7mm%      These four parameters give the
+%\RightPageMargin=7mm%       page gutter sizes.  The outer edges of
+%\TopPageMargin=15mm%        the outer labels are the specified
+%\BottomPageMargin=15mm%     distances from the edge of the paper.
+%\InterLabelColumn=2mm%    Gap between columns of labels
+\LabelGridtrue
+\numberoflabels=20
+\usepackage{pgffor}
+\usepackage{graphicx}
+
+\begin{document}
+
+\foreach \i in {1,...,6}{ % Source
+\foreach \n in {1,...,9}{ % Jours
+
+
+\begin{labels}
+%	\foreach \n in {0,...,21}{
+		\centering\textbf{\large Gagnant}
+		\includegraphics[width=5cm]{../Figures/Logo-GF.png} 		
+		{\small\textbf{Venez recycler vos bouteilles!}}
+		{\small Hall B - \textbf{A-13}\\}
+		{\tiny Source: \textbf{\i}}
+		{\tiny Jour: \textbf{\n}}
+%	}	
+\end{labels}
+}
+}
+\end{document}
+
+%\documentclass[a4paper]{article}
+%\usepackage{fullpage,tikz}
+%\usepackage{framed,multicol}
+%
+%% This command just serves for the single repeated label. Of course these will not 
+%% be the same but will yield the result.
+%\newcommand{\repeatedlabel}[1]{%
+%	\foreach \x in {1,...,#1}%
+%	{%
+%		\addresslabel
+%	}%
+%}
+%
+%% Sample address 
+%\def\addresslabel{%
+%	\begin{framed}
+%		Janine Lee\par
+%		641 Caslon Place\par
+%		Hollywood, CA 9015B
+%\end{framed}}
+%\begin{document}
+%	\begin{multicols}{2}
+%		\repeatedlabel{8}
+%	\end{multicols}
+%\end{document}

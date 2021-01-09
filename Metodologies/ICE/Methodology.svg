@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="254mm"
+   height="58.491283mm"
+   viewBox="0 0 900 207.25257"
+   id="svg4881"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Methodology.svg">
+  <defs
+     id="defs4883">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9509-0"
+       style="overflow:visible">
+      <path
+         id="path9511-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9509-0-03"
+       style="overflow:visible">
+      <path
+         id="path9511-1-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9509-0-03-2-9"
+       style="overflow:visible">
+      <path
+         id="path9511-1-4-6-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9509-0-03-9"
+       style="overflow:visible">
+      <path
+         id="path9511-1-4-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.46374233"
+     inkscape:cx="146.29486"
+     inkscape:cy="103.10986"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1436"
+     inkscape:window-height="855"
+     inkscape:window-x="1280"
+     inkscape:window-y="125"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata4886">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(125.21889,-393.44384)">
+    <g
+       id="g6110"
+       transform="translate(-10.032684,-4.5930647e-5)">
+      <rect
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         ry="14.129885"
+         y="419.66837"
+         x="505.56381"
+         height="180.27803"
+         width="278.5"
+         id="rect10134"
+         style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:4.49999999, 4.49999999;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         transform="scale(0.99664102,1.0033703)"
+         sodipodi:linespacing="125%"
+         id="text10142"
+         y="411.01883"
+         x="485.6055"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9428978px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="411.01883"
+           x="485.6055"
+           sodipodi:role="line"
+           id="tspan10144"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'">Evaluation</tspan></text>
+      <g
+         transform="translate(1305.1622,-916.58812)"
+         id="g11052">
+        <g
+           transform="translate(-1598.3581,404.56993)"
+           id="g10116">
+          <rect
+             ry="7.693738"
+             y="939.32111"
+             x="818.7597"
+             height="33.5"
+             width="238.5"
+             id="rect10118"
+             style="fill:#bfbb8e;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text10120"
+             y="962.78986"
+             x="824.0946"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+             xml:space="preserve"><tspan
+               y="962.78986"
+               x="824.0946"
+               id="tspan10122"
+               sodipodi:role="line"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+                 id="tspan11218">6.</tspan><tspan
+                 style="font-size:20px"
+                 id="tspan6252"> Evaluation of the models</tspan></tspan></text>
+        </g>
+        <g
+           id="g10124"
+           transform="translate(-1598.3581,454.56993)">
+          <rect
+             style="fill:#bfbb8e;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect10126"
+             width="238.5"
+             height="33.5"
+             x="818.7597"
+             y="941.19672"
+             ry="7.693738" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+             x="825.12756"
+             y="963.01996"
+             id="text10128"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan10130"
+               x="825.12756"
+               y="963.01996"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+                 id="tspan11212">7.</tspan><tspan
+                 style="font-size:20px"
+                 id="tspan6254"> Drawing conclusions</tspan></tspan></text>
+        </g>
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path6061-3-1-5"
+           d="m -656.33265,1380.4306 0,14.3642"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-03-2-9)" />
+      </g>
+    </g>
+    <g
+       id="g6036"
+       transform="translate(0,-1.7048309e-5)">
+      <g
+         transform="translate(653.48349,-396.44453)"
+         id="g6892">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9428978px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="-782.16913"
+           y="806.13165"
+           id="text2985-2-8"
+           sodipodi:linespacing="125%"
+           transform="scale(0.99664102,1.0033703)"
+           inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+           inkscape:export-xdpi="250"
+           inkscape:export-ydpi="250"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+             id="tspan7809-4-6"
+             sodipodi:role="line"
+             x="-782.16913"
+             y="806.13165">Planning</tspan></text>
+      </g>
+      <g
+         id="g4357-3"
+         transform="translate(-812.3363,-515.92902)">
+        <rect
+           style="fill:#ccebf2;fill-opacity:1;stroke:#000000;stroke-width:1.49999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4365-6"
+           width="238.5"
+           height="33.5"
+           x="727.86743"
+           y="946.05707"
+           ry="7.693738" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           x="746.18909"
+           y="967.21246"
+           id="text4361-9"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4363-2"
+             x="746.18909"
+             y="967.21246"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+               id="tspan11206">1. </tspan><tspan
+               style="font-size:20px"
+               id="tspan6146">Definition of the goal</tspan></tspan></text>
+      </g>
+      <g
+         transform="translate(-814.64593,-475.14682)"
+         id="g6005">
+        <rect
+           ry="9.9903765"
+           y="956.38629"
+           x="730.17706"
+           height="43.5"
+           width="238.5"
+           id="rect6007"
+           style="fill:#ccebf2;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           sodipodi:linespacing="100%"
+           id="text6009"
+           y="974.9234"
+           x="748.55426"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:100%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="974.9234"
+             x="748.55426"
+             id="tspan6011"
+             sodipodi:role="line"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+               id="tspan11260">2.</tspan><tspan
+               style="font-size:20px;line-height:100%"
+               id="tspan6150"> Additive manufacturing </tspan></tspan><tspan
+             y="994.9234"
+             x="748.55426"
+             sodipodi:role="line"
+             id="tspan6152"
+             style="font-size:20px;line-height:100%">    chain</tspan></text>
+      </g>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6061"
+         d="m 34.781131,464.36468 0,14.36425"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0)" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6061-3"
+         d="m 34.781131,525.40932 0,14.36424"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9509-0-03)" />
+      <rect
+         inkscape:export-ydpi="250"
+         inkscape:export-xdpi="250"
+         inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+         ry="14.129883"
+         y="419.66837"
+         x="-104.46887"
+         height="180.27803"
+         width="278.5"
+         id="rect3007-3-16"
+         style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:4.50000002, 4.50000002;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="translate(1217.422,-417.4659)"
+         id="g4686">
+        <g
+           transform="translate(-2027.2406,7.5368849)"
+           id="g6013">
+          <text
+             sodipodi:linespacing="125%"
+             id="text6017"
+             y="962.75018"
+             x="737.29657"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+             xml:space="preserve"><tspan
+               y="962.75018"
+               x="737.29657"
+               id="tspan6019"
+               sodipodi:role="line"><tspan
+   id="tspan11254"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'">A.</tspan> CAD Model</tspan></text>
+        </g>
+        <g
+           id="g4646"
+           transform="translate(-2027.2406,27.536885)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+             x="737.29657"
+             y="962.75018"
+             id="text4648"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan4650"
+               x="737.29657"
+               y="962.75018"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+   id="tspan4652">B.</tspan> Definition of AM Technology</tspan></text>
+        </g>
+        <g
+           transform="translate(-2027.2406,47.536885)"
+           id="g4654">
+          <text
+             sodipodi:linespacing="125%"
+             id="text4656"
+             y="962.75018"
+             x="737.29657"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+             xml:space="preserve"><tspan
+               y="962.75018"
+               x="737.29657"
+               id="tspan4658"
+               sodipodi:role="line"><tspan
+   id="tspan4660"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'">C.</tspan> Material</tspan></text>
+        </g>
+        <g
+           id="g4662"
+           transform="translate(-2027.2406,67.536885)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+             x="737.29657"
+             y="962.75018"
+             id="text4664"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan4666"
+               x="0"
+               y="0"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+                 id="tspan4668" /></tspan></text>
+        </g>
+        <g
+           transform="translate(-2027.2406,87.536885)"
+           id="g4670" />
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:#f4b5cd;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5704"
+       width="100"
+       height="100"
+       x="-324.56827"
+       y="380.01535"
+       ry="0" />
+    <rect
+       ry="0"
+       y="260.01535"
+       x="-324.56827"
+       height="100"
+       width="100"
+       id="rect5706"
+       style="opacity:1;fill:#ccebf2;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#bfbb8e;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5708"
+       width="100"
+       height="100"
+       x="-324.56827"
+       y="500.01535"
+       ry="0" />
+    <text
+       inkscape:export-ydpi="250"
+       inkscape:export-xdpi="250"
+       inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+       transform="scale(0.99664102,1.0033703)"
+       sodipodi:linespacing="125%"
+       id="text10138"
+       y="411.01874"
+       x="174.52791"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9428978px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="411.01874"
+         x="174.52791"
+         sodipodi:role="line"
+         id="tspan10140"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'">Fabrication</tspan></text>
+    <g
+       id="g6021"
+       transform="translate(-602.98657,-512.01825)">
+      <rect
+         style="fill:#f4b5cd;fill-opacity:1;stroke:#000000;stroke-width:1.50000012;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6023"
+         width="238.5"
+         height="33.5"
+         x="818.5177"
+         y="942.1463"
+         ry="7.6937385" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="825.3551"
+         y="962.96674"
+         id="text6025"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="825.3551"
+           y="962.96674"
+           id="tspan3813"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+             id="tspan11248">3.</tspan><tspan
+             style="font-size:20px"
+             id="tspan6148"> Design of Experiments</tspan></tspan></text>
+    </g>
+    <g
+       id="g6037"
+       transform="translate(-607.24432,-460.47374)">
+      <rect
+         style="fill:#f4b5cd;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6039"
+         width="246.53149"
+         height="33.933071"
+         x="818.7597"
+         y="941.7132"
+         ry="7.7931986" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         x="825.87573"
+         y="962.77002"
+         id="text6041"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan6043"
+           x="825.87573"
+           y="962.77002"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25000191px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+             id="tspan11236">4.</tspan><tspan
+             style="font-size:20px"
+             id="tspan6250"> Fabrication of the models</tspan></tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:"
+       d="m 334.78113,465.96588 0,14.28984"
+       id="path6061-3-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       inkscape:export-ydpi="250"
+       inkscape:export-xdpi="250"
+       inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
+       ry="14.129883"
+       y="419.66837"
+       x="195.53113"
+       height="180.27803"
+       width="278.5"
+       id="rect3007-3-16-2"
+       style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:4.50000002, 4.50000002;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+</svg>

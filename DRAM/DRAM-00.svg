@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,11 +12,11 @@
    viewBox="0 0 1743.454 811.81458"
    id="svg17833"
    version="1.1"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="Recycling-Strategies-AM.svg"
-   inkscape:export-filename="/Users/fabio/ownCloud/3-Recherche/2019/DRAM/Figures/Recycling-Strategies-AM.png"
-   inkscape:export-xdpi="91.27327"
-   inkscape:export-ydpi="91.27327">
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   sodipodi:docname="DRAM-00.svg"
+   inkscape:export-filename="/Users/fabio/Google Drive/PPTS/Figures/DRAM/DRAM-10.png"
+   inkscape:export-xdpi="110.88333"
+   inkscape:export-ydpi="110.88333">
   <defs
      id="defs17835">
     <marker
@@ -839,21 +837,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.34401745"
-     inkscape:cx="806.83057"
+     inkscape:zoom="0.4551904"
+     inkscape:cx="120.71208"
      inkscape:cy="284.05792"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="855"
-     inkscape:window-x="1850"
-     inkscape:window-y="75"
-     inkscape:window-maximized="0"
+     inkscape:window-x="1080"
+     inkscape:window-y="995"
+     inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata17838">
     <rdf:RDF>
@@ -862,7 +861,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -939,7 +938,7 @@
              y="-152.25302"
              x="-3076.9023"
              sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75000191px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Materials</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Materials</tspan></text>
         <g
            transform="translate(-1857.1635,-1225.2581)"
            id="g6878">
@@ -1183,7 +1182,7 @@
              y="-154.62875"
              x="-2837.6628"
              sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75000191px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">AM process</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">AM process</tspan></text>
         <path
            style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker7521)"
            d="m -2937.7209,-25.2862 h -28.6473"
@@ -1220,7 +1219,7 @@
            x="-2619.6821"
            y="-154.12985"
            id="text7563"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75000191px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
              sodipodi:role="line"
              x="-2619.6821"
              y="-154.12985"
@@ -1600,7 +1599,7 @@
            y="392.94769"
            x="-116.56544"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75000191px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Materials</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Materials</tspan></text>
       <text
          id="text11865"
          y="390.57196"
@@ -1611,7 +1610,7 @@
            y="390.57196"
            x="102.69896"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75000191px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">AM process</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">AM process</tspan></text>
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -1624,7 +1623,7 @@
          x="377.14478"
          y="391.07086"
          id="text11871"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75000191px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="377.14478"
            y="391.07086"
@@ -1809,12 +1808,12 @@
            y="670.72174"
            x="-3278.6409"
            sodipodi:role="line"
-           style="font-size:11.25000095px;line-height:1.25;text-align:start;text-anchor:start"
+           style="font-size:11.25px;line-height:1.25;text-align:start;text-anchor:start"
            id="tspan13566">Printed</tspan><tspan
            y="684.78424"
            x="-3278.6409"
            sodipodi:role="line"
-           style="font-size:11.25000095px;line-height:1.25;text-align:start;text-anchor:start"
+           style="font-size:11.25px;line-height:1.25;text-align:start;text-anchor:start"
            id="tspan13568">Products</tspan></text>
       <text
          xml:space="preserve"
@@ -1823,11 +1822,11 @@
          y="672.72174"
          id="text13594"><tspan
            id="tspan13598"
-           style="font-size:11.25000095px;line-height:1.25;text-align:start;text-anchor:start"
+           style="font-size:11.25px;line-height:1.25;text-align:start;text-anchor:start"
            sodipodi:role="line"
            x="-3124.6409"
            y="672.72174">Unwanted</tspan><tspan
-           style="font-size:11.25000095px;line-height:1.25;text-align:start;text-anchor:start"
+           style="font-size:11.25px;line-height:1.25;text-align:start;text-anchor:start"
            sodipodi:role="line"
            x="-3124.6409"
            y="686.78424"
@@ -1981,7 +1980,7 @@
            y="632.72174"
            x="-2860.6409"
            sodipodi:role="line"
-           style="font-size:11.25000095px;line-height:1.25;text-align:start;text-anchor:start">No</tspan></text>
+           style="font-size:11.25px;line-height:1.25;text-align:start;text-anchor:start">No</tspan></text>
       <path
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker14933)"
          d="m -2864.3616,776.19395 v -23.2177"
@@ -1994,7 +1993,7 @@
          x="-2856.6409"
          y="764.72174"
          id="text15405"><tspan
-           style="font-size:11.25000095px;line-height:1.25;text-align:start;text-anchor:start"
+           style="font-size:11.25px;line-height:1.25;text-align:start;text-anchor:start"
            sodipodi:role="line"
            x="-2856.6409"
            y="764.72174"
@@ -2017,7 +2016,7 @@
          x="-3060.6409"
          y="954.72174"
          id="text16375"><tspan
-           style="font-size:11.25000095px;line-height:1.25;text-align:start;text-anchor:start"
+           style="font-size:11.25px;line-height:1.25;text-align:start;text-anchor:start"
            sodipodi:role="line"
            x="-3060.6409"
            y="954.72174"
@@ -2034,7 +2033,7 @@
          x="-3506.176"
          y="615.74701"
          id="text18053"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75000191px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="-3506.176"
            y="615.74701"
@@ -2045,7 +2044,7 @@
          x="-3297.6379"
          y="613.37128"
          id="text18057"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75000191px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="-3297.6379"
            y="613.37128"
@@ -2066,7 +2065,7 @@
            y="613.87018"
            x="-3043.1921"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75000191px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Recycling Process</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Recycling Process</tspan></text>
       <text
          id="text19143"
          y="866.72174"
@@ -2077,12 +2076,12 @@
            y="866.72174"
            x="-3194.6409"
            sodipodi:role="line"
-           style="font-size:11.25000095px;line-height:1.25;text-align:start;text-anchor:start">Standards</tspan><tspan
+           style="font-size:11.25px;line-height:1.25;text-align:start;text-anchor:start">Standards</tspan><tspan
            id="tspan19151"
            y="880.78424"
            x="-3194.6409"
            sodipodi:role="line"
-           style="font-size:11.25000095px;line-height:1.25;text-align:start;text-anchor:start">Filaments</tspan></text>
+           style="font-size:11.25px;line-height:1.25;text-align:start;text-anchor:start">Filaments</tspan></text>
       <text
          id="text19153"
          y="900.72174"
@@ -2093,7 +2092,7 @@
            y="900.72174"
            x="-3128.6409"
            sodipodi:role="line"
-           style="font-size:11.25000095px;line-height:1.25;text-align:start;text-anchor:start">Yes</tspan></text>
+           style="font-size:11.25px;line-height:1.25;text-align:start;text-anchor:start">Yes</tspan></text>
       <text
          id="text19423"
          y="716.72174"
@@ -2104,12 +2103,12 @@
            y="716.72174"
            x="-2764.6409"
            sodipodi:role="line"
-           style="font-size:11.25000095px;line-height:1.25;text-align:start;text-anchor:start">Collection</tspan><tspan
+           style="font-size:11.25px;line-height:1.25;text-align:start;text-anchor:start">Collection</tspan><tspan
            id="tspan19431"
            y="730.78424"
            x="-2764.6409"
            sodipodi:role="line"
-           style="font-size:11.25000095px;line-height:1.25;text-align:start;text-anchor:start">Process</tspan></text>
+           style="font-size:11.25px;line-height:1.25;text-align:start;text-anchor:start">Process</tspan></text>
     </g>
     <g
        id="g11859"
@@ -2139,7 +2138,7 @@
              y="-294.1929"
              x="-4290.4321"
              sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75000191px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Materials</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Materials</tspan></text>
         <text
            id="text7211-6-1"
            y="-296.56863"
@@ -2150,14 +2149,14 @@
              y="-296.56863"
              x="-4051.1926"
              sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75000191px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">AM process</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">AM process</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
            x="-3833.2117"
            y="-296.06973"
            id="text7563-8"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75000191px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
              sodipodi:role="line"
              x="-3833.2117"
              y="-296.06973"
@@ -2190,7 +2189,7 @@
            x="-4342.8779"
            y="147.13066"
            id="text11861-3"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75000191px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
              sodipodi:role="line"
              x="-4342.8779"
              y="147.13066"
@@ -2201,7 +2200,7 @@
            x="-4123.6133"
            y="144.75493"
            id="text11865-2"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75000191px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
              sodipodi:role="line"
              x="-4123.6133"
              y="144.75493"
@@ -2222,7 +2221,7 @@
              y="145.25383"
              x="-3849.1677"
              sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75000191px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Recycling Process</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Recycling Process</tspan></text>
       </g>
       <rect
          style="opacity:0.98999999;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.0629921;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2258,7 +2257,7 @@
            x="-5019.3271"
            y="811.60822"
            id="text18053-6"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75000191px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
              sodipodi:role="line"
              x="-5019.3271"
              y="811.60822"
@@ -2269,7 +2268,7 @@
            x="-4810.7891"
            y="809.23248"
            id="text18057-4"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75000191px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
              sodipodi:role="line"
              x="-4810.7891"
              y="809.23248"
@@ -2290,7 +2289,7 @@
              y="809.73138"
              x="-4556.3433"
              sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75000191px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Recycling Process</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Recycling Process</tspan></text>
       </g>
     </g>
     <path
@@ -2469,14 +2468,14 @@
          id="text4416"
          y="177.32635"
          x="1817.3488"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.49999619px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:0.99999994px"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1px"
            y="177.32635"
            x="1822.1095"
            id="tspan4418"
            sodipodi:role="line">Recovery </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.49999619px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:0.99999994px"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1px"
            y="214.82635"
            x="1817.3488"
            sodipodi:role="line"
@@ -2491,7 +2490,7 @@
          style="display:inline;opacity:1;fill:#e3dedb;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:23.99999757, 0.9999999;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1975.3479"
          y="830.91254"
          id="text5793"><tspan
@@ -2499,11 +2498,11 @@
            id="tspan5795"
            x="1980.1086"
            y="830.91254"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.49999619px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:0.99999994px">Feedstock </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1px">Feedstock </tspan><tspan
            sodipodi:role="line"
            x="1980.1086"
            y="868.41254"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.49999619px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:0.99999994px"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1px"
            id="tspan1708">(IV) </tspan></text>
       <rect
          ry="7.2281709"
@@ -2517,14 +2516,14 @@
          id="text4549"
          y="830.91254"
          x="1640.8105"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.49999619px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:0.99999994px"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1px"
            y="830.91254"
            x="1645.5713"
            id="tspan4551"
            sodipodi:role="line">Compounding </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.49999619px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:0.99999994px"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1px"
            y="868.41254"
            x="1640.8105"
            sodipodi:role="line"
@@ -2539,7 +2538,7 @@
          ry="12.897812" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1312.3036"
          y="755.91254"
          id="text5785"><tspan
@@ -2547,11 +2546,11 @@
            id="tspan5787"
            x="1317.0643"
            y="755.91254"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.49999619px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:0.99999994px">Preparation </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1px">Preparation </tspan><tspan
            sodipodi:role="line"
            x="1312.3036"
            y="793.41254"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.49999619px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:0.99999994px"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1px"
            id="tspan1700">(II)</tspan></text>
       <rect
          style="display:inline;opacity:1;fill:#8073cc;fill-opacity:0.19607843;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:23.99999764, 0.99999992;stroke-dashoffset:0;stroke-opacity:1"
@@ -2565,14 +2564,14 @@
          id="text591"
          y="755.91254"
          x="2350.5605"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.49999619px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:0.99999994px"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1px"
            y="755.91254"
            x="2355.3213"
            id="tspan589"
            sodipodi:role="line">Printing </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.49999619px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:0.99999994px"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1px"
            y="793.41254"
            x="2350.5605"
            sodipodi:role="line"
@@ -2818,7 +2817,7 @@
           </g>
         </g>
         <path
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000007, 4.00000007;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-6-7)"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-6-7)"
            d="M 1715.9671,694.73311 V 621.23489"
            id="path4909"
            inkscape:connector-type="polyline"
@@ -3268,7 +3267,7 @@
            inkscape:connector-type="polyline"
            id="path1866"
            d="M 1856.763,694.51332 V 621.45468"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000017, 4.00000017;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-6-7)" />
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-6-7)" />
       </g>
       <path
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker16379-8-6)"
@@ -3335,7 +3334,7 @@
          x="2326.1013"
          y="670.65997"
          id="text16375-0-0-7"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.24999809px;line-height:1.25;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:start;text-anchor:start;stroke-width:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.25px;line-height:1.25;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:start;text-anchor:start;stroke-width:1"
            sodipodi:role="line"
            x="2326.1013"
            y="670.65997"
@@ -3368,7 +3367,7 @@
            y="645.64764"
            x="2229.5527"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.24999809px;line-height:1.25;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:start;text-anchor:start;stroke-width:1">3DP feedstock characterization</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.25px;line-height:1.25;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:start;text-anchor:start;stroke-width:1">3DP feedstock characterization</tspan></text>
       <g
          id="g6090"
          transform="translate(1078.1094,-281.49069)">
@@ -3399,7 +3398,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="2725.5605"
          y="755.91254"
          id="text1864"><tspan
@@ -3407,17 +3406,17 @@
            id="tspan1860"
            x="2730.3213"
            y="755.91254"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.49999619px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:0.99999994px">Quality </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1px">Quality </tspan><tspan
            id="tspan1862"
            sodipodi:role="line"
            x="2725.5605"
            y="793.41254"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.49999619px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:0.99999994px">(VI)</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1px">(VI)</tspan></text>
     </g>
     <text
        transform="rotate(-90)"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="166.73053"
        y="660.73615"
        id="text1701"><tspan
@@ -3425,11 +3424,11 @@
          id="tspan1699"
          x="171.49127"
          y="660.73615"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.49999619px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:0.99999988px">Global Analysis </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1px">Global Analysis </tspan><tspan
          sodipodi:role="line"
          x="166.73053"
          y="698.23615"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.49999619px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:0.99999988px"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:1px"
          id="tspan1716">(VII)</tspan></text>
     <path
        sodipodi:nodetypes="cccc"

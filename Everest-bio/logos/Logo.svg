@@ -14,7 +14,7 @@
    height="100"
    viewBox="0 0 100 99.999999"
    sodipodi:docname="Logo.svg"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
    inkscape:export-filename="/Users/fabio/Universite de Lorraine/Project EVEREST BIO - General/Figures/Logos/Logo.png"
    inkscape:export-xdpi="80.5019"
    inkscape:export-ydpi="80.5019">
@@ -46,9 +46,9 @@
      inkscape:window-height="855"
      id="namedview12"
      showgrid="false"
-     inkscape:zoom="2.2897268"
-     inkscape:cx="-100.78744"
-     inkscape:cy="61.774018"
+     inkscape:zoom="2.3175232"
+     inkscape:cx="54.119317"
+     inkscape:cy="57.459067"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
@@ -57,6 +57,13 @@
      inkscape:groupmode="layer"
      inkscape:label="Image"
      id="g18">
+    <ellipse
+       style="fill:#a8cbfe;fill-opacity:0.392157;stroke:#a8cbfe;stroke-width:2.1"
+       id="path20"
+       cx="50"
+       cy="50"
+       rx="47.005608"
+       ry="48.950001" />
     <g
        inkscape:export-ydpi="99.840012"
        inkscape:export-xdpi="99.840012"

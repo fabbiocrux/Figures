@@ -212,8 +212,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.100186"
-     inkscape:cx="243.37105"
-     inkscape:cy="330.39867"
+     inkscape:cx="297.90728"
+     inkscape:cy="28.631514"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -238,7 +238,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -283,7 +283,7 @@
              y="562.94086"
              style="font-size:16.9429px;line-height:1.25">1. <tspan
    id="tspan7916-4-3"
-   style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'">Material Definition</tspan></tspan></text>
+   style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'">Définition du matériau</tspan></tspan></text>
         <text
            id="text10158-1-4-5"
            y="586.2641"

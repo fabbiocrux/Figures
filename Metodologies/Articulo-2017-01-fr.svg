@@ -7,16 +7,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="150.81464mm"
-   height="148.22186mm"
-   viewBox="0 0 534.38256 525.19556"
+   width="141.52765mm"
+   height="153.8663mm"
+   viewBox="0 0 501.47591 545.19554"
    id="svg9240"
    version="1.1"
    inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
-   sodipodi:docname="Articulo-2017-00.svg"
-   inkscape:export-filename="/Users/fabio/Dropbox/Site/Green-FabLab/assets/img/work/proj-2/Methodology.png"
-   inkscape:export-xdpi="299"
-   inkscape:export-ydpi="299">
+   sodipodi:docname="Articulo-2017-01-fr.svg"
+   inkscape:export-filename="/Users/fabio/Documents/Figures/Recycling/fr/Recycling-Methodology.jpg.png"
+   inkscape:export-xdpi="251.23622"
+   inkscape:export-ydpi="251.23622">
   <defs
      id="defs9242">
     <marker
@@ -211,9 +211,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.67993338"
-     inkscape:cx="177.39571"
-     inkscape:cy="303.58096"
+     inkscape:zoom="1.100186"
+     inkscape:cx="243.37105"
+     inkscape:cy="330.39867"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -221,12 +221,15 @@
      inkscape:window-height="855"
      inkscape:window-x="0"
      inkscape:window-y="23"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:snap-nodes="false"
+     inkscape:snap-others="false"
+     inkscape:snap-global="false" />
   <metadata
      id="metadata9245">
     <rdf:RDF>
@@ -235,7 +238,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -243,12 +246,9 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(512.6452,-190.84818)">
+     transform="translate(542.43109,-170.8482)">
     <g
-       id="g4612"
-       inkscape:export-filename="/Users/fabio/Dropbox/Site/Green-FabLab/presentation/assets/figures/Recycling-Methodology.png"
-       inkscape:export-xdpi="205.63919"
-       inkscape:export-ydpi="205.63919">
+       id="g4612">
       <g
          inkscape:export-ydpi="250"
          inkscape:export-xdpi="250"
@@ -257,21 +257,21 @@
          id="g12191-1"
          style="display:inline">
         <rect
-           style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:0.78287947;stroke-miterlimit:4;stroke-dasharray:2.34863864, 2.34863864;stroke-dashoffset:0;stroke-opacity:1"
+           style="opacity:0.5;fill:none;stroke:#1d0d0f;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:2.99999996, 2.99999996;stroke-dashoffset:0;stroke-opacity:1"
            id="rect3007-3-2"
-           width="318.11478"
-           height="34.650192"
-           x="-1819.4629"
-           y="589.23163"
-           ry="2.7158227"
+           width="326.67957"
+           height="55.052567"
+           x="-1819.3544"
+           y="568.7207"
+           ry="4.3149261"
            inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
            inkscape:export-xdpi="250"
            inkscape:export-ydpi="250" />
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-           x="-1851.1249"
-           y="582.87366"
+           x="-1831.0575"
+           y="562.94086"
            id="text2985-2-2"
            transform="scale(0.99664102,1.0033703)"
            inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
@@ -279,30 +279,35 @@
            inkscape:export-ydpi="250"><tspan
              id="tspan7809-4-0"
              sodipodi:role="line"
-             x="-1851.1249"
-             y="582.87366"
+             x="-1831.0575"
+             y="562.94086"
              style="font-size:16.9429px;line-height:1.25">1. <tspan
    id="tspan7916-4-3"
    style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'">Material Definition</tspan></tspan></text>
         <text
            id="text10158-1-4-5"
-           y="602.82379"
-           x="-1800.1864"
+           y="586.2641"
+           x="-1811.0635"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Franklin Gothic Book';-inkscape-font-specification:'Franklin Gothic Book, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
            xml:space="preserve"
            inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology.png"
            inkscape:export-xdpi="250"
            inkscape:export-ydpi="250"><tspan
              sodipodi:role="line"
+             id="tspan6722"
+             x="-1811.0635"
+             y="586.2641"
+             style="font-size:10px;line-height:1.25">a. Caractérisation initiale de la matière</tspan><tspan
+             sodipodi:role="line"
              id="tspan6726"
-             x="-1800.1864"
-             y="602.82379"
-             style="font-size:10px;line-height:1.25">a. Initial characterization of the material.</tspan><tspan
+             x="-1811.0635"
+             y="598.7641"
+             style="font-size:10px;line-height:1.25">b. Estimation de la quantité pour le processus de recyclage</tspan><tspan
              sodipodi:role="line"
              id="tspan6730"
-             x="-1800.1864"
-             y="615.32379"
-             style="font-size:10px;line-height:1.25">b. Preparation of the polymer material to be recycled.</tspan></text>
+             x="-1811.0635"
+             y="611.2641"
+             style="font-size:10px;line-height:1.25">c. Preparation du polymère pour le recyclage</tspan></text>
       </g>
       <text
          inkscape:export-ydpi="250"
@@ -311,27 +316,17 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
          x="-512.6452"
-         y="274.49963"
+         y="293.24963"
          id="text7885-7-1"><tspan
-           style="font-size:17px;line-height:100%"
-           id="tspan7887-3-4"
-           sodipodi:role="line"
-           x="-512.6452"
-           y="274.49963">2. <tspan
-   id="tspan10031-1-6"
-   style="font-weight:bold;line-height:100%;-inkscape-font-specification:'Georgia Bold'">Process </tspan></tspan><tspan
-           id="tspan6343"
-           style="font-size:17px;line-height:100%"
-           sodipodi:role="line"
-           x="-512.6452"
-           y="291.49963"><tspan
-             id="tspan6345"
-             style="font-weight:bold;line-height:100%;-inkscape-font-specification:'Georgia Bold'">    Assignment </tspan></tspan><tspan
            style="font-weight:bold;font-size:17px;line-height:100%;-inkscape-font-specification:'Georgia Bold'"
            id="tspan11517-5-7"
            sodipodi:role="line"
            x="-512.6452"
-           y="308.49963"> </tspan></text>
+           y="293.24963"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2.9204006e-08"><tspan
+   dx="0 0 0"
+   id="tspan13416"
+   style="font-weight:normal;font-size:17px;line-height:100%;-inkscape-font-specification:Georgia">2. </tspan>Definition des Procédés</tspan></text>
       <g
          inkscape:export-ydpi="250"
          inkscape:export-xdpi="250"
@@ -365,7 +360,7 @@
              y="880.74261"
              style="font-size:17px;line-height:1.25">4. <tspan
    id="tspan10202-1-3"
-   style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'">Evaluation  </tspan></tspan><tspan
+   style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'">Évaluation  </tspan></tspan><tspan
              id="tspan8652"
              sodipodi:role="line"
              x="-1872.833"
@@ -385,18 +380,18 @@
              sodipodi:role="line"
              x="-1863.828"
              y="906.17755"
-             style="font-size:10px;line-height:1.25"
-             id="tspan4231">a. Selection of the parameters that describe the recycled plastic assessment.</tspan><tspan
+             id="tspan10442-8-2"
+             style="font-size:10px;line-height:1.25">a. Selection des paramètres qui décrivent l'évaluation du polymère recyclé</tspan><tspan
              sodipodi:role="line"
              x="-1863.828"
              y="918.67755"
              style="font-size:10px;line-height:1.25"
-             id="tspan4237">b. Characterization of the equipment.</tspan><tspan
+             id="tspan14026">b. Characterisation de l'equipement d'évaluation.</tspan><tspan
              sodipodi:role="line"
              x="-1863.828"
              y="931.17755"
-             id="tspan10442-8-2"
-             style="font-size:10px;line-height:1.25">c. Collection of results.</tspan></text>
+             style="font-size:10px;line-height:1.25"
+             id="tspan14028">c. Collecte des résultats.</tspan></text>
       </g>
       <g
          inkscape:export-ydpi="250"
@@ -431,7 +426,7 @@
              id="tspan7953-6-3"
              style="font-size:17px;line-height:1.25">5. <tspan
    id="tspan10210-3-59"
-   style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'">Recycling </tspan></tspan></text>
+   style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'">Recyclage </tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Franklin Gothic Book';-inkscape-font-specification:'Franklin Gothic Book, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -444,18 +439,13 @@
              sodipodi:role="line"
              x="-1848.0325"
              y="969.37885"
-             id="tspan10286-5-2-3-0"
-             style="font-size:10px;line-height:1.25">a. Operational conditions of the recycling process.</tspan><tspan
-             id="tspan12612-0"
+             id="tspan10442-1-5-3"
+             style="font-size:10px;line-height:1.25">a. Définition des conditions opératoires pour le récyclage.</tspan><tspan
              sodipodi:role="line"
              x="-1848.0325"
              y="981.87885"
-             style="font-size:10px;line-height:1.25">b. Granulometry of the recycled material</tspan><tspan
-             sodipodi:role="line"
-             x="-1848.0325"
-             y="994.37885"
-             id="tspan10442-1-5-3"
-             style="font-size:10px;line-height:1.25"> </tspan></text>
+             style="font-size:10px;line-height:1.25"
+             id="tspan14035">b. Granulometrie du polymère recyclé.</tspan></text>
       </g>
       <text
          inkscape:export-ydpi="250"
@@ -464,28 +454,21 @@
          transform="scale(1.0027,0.99730728)"
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-         x="-510.88708"
+         x="-520.23694"
          y="439.90417"
          id="text7906-6-8"><tspan
            id="tspan6347"
-           sodipodi:role="line"
-           x="-510.88708"
+           x="-520.23694"
            y="439.90417"
-           style="font-size:17.0524px;line-height:1.25">3. <tspan
+           style="font-size:17.0524px;line-height:1.25"
+           sodipodi:role="line">3. <tspan
    style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'"
    id="tspan10029-2-5">Fabrication</tspan></tspan><tspan
-           id="tspan6365"
-           sodipodi:role="line"
-           x="-510.88708"
-           y="461.2197"
-           style="font-size:17.0524px;line-height:1.25"><tspan
-             id="tspan6367"
-             style="font-weight:bold;-inkscape-font-specification:'Georgia Bold'">    of samples</tspan></tspan><tspan
            id="tspan8570"
-           sodipodi:role="line"
-           x="-510.88708"
-           y="482.53519"
-           style="font-size:17.0524px;line-height:1.25"> </tspan></text>
+           x="-520.23694"
+           y="461.21967"
+           style="font-weight:bold;font-size:17.0524px;line-height:1.25;-inkscape-font-specification:'Georgia Bold'"
+           sodipodi:role="line">des échantillons</tspan></text>
       <g
          transform="translate(1298.1595,146.09309)"
          id="g8529"
@@ -527,43 +510,18 @@
              y="356.00739"
              x="-1545.5775"
              sodipodi:role="line"
-             id="tspan4243"
-             style="font-size:10px;line-height:1.25">a. Characterization of the 3D printer machine.</tspan><tspan
+             id="tspan12547-4"
+             style="font-size:10px;line-height:1.25">a. Characterisationdel'imprimante.</tspan><tspan
              y="368.50739"
              x="-1545.5775"
              sodipodi:role="line"
-             id="tspan4226"
-             style="font-size:10px;line-height:1.25">b. Definition of 3D printing parameters </tspan><tspan
-             id="tspan6071"
+             style="font-size:10px;line-height:1.25"
+             id="tspan14017">b. Definitiondesparamètresdefabricationpour</tspan><tspan
              y="381.00739"
              x="-1545.5775"
              sodipodi:role="line"
-             style="font-size:10px;line-height:1.25">    for manufacturing of test samples taking into </tspan><tspan
-             y="393.50739"
-             x="-1545.5775"
-             sodipodi:role="line"
-             id="tspan4247"
-             style="font-size:10px;line-height:1.25">    account literature review.</tspan><tspan
-             id="tspan4415"
-             y="406.00739"
-             x="-1545.5775"
-             sodipodi:role="line"
-             style="font-size:10px;line-height:1.25"> </tspan><tspan
-             id="tspan6073"
-             y="418.50739"
-             x="-1545.5775"
-             sodipodi:role="line"
-             style="font-size:10px;line-height:1.25"> </tspan><tspan
-             y="431.00739"
-             x="-1545.5775"
-             sodipodi:role="line"
-             id="tspan12545-6"
-             style="font-size:10px;line-height:1.25"> </tspan><tspan
-             y="443.50739"
-             x="-1545.5775"
-             sodipodi:role="line"
-             id="tspan12547-4"
-             style="font-size:10px;line-height:1.25"> </tspan></text>
+             style="font-size:10px;line-height:1.25"
+             id="tspan14019">leséchantillonsenutilisantl'impression3D.</tspan></text>
       </g>
       <g
          transform="translate(1355.5611,146.09309)"
@@ -595,28 +553,23 @@
              sodipodi:role="line"
              x="-1824.2186"
              y="355.14313"
-             id="tspan5502"
-             style="font-size:10px;line-height:1.25">a. Identification of international standards </tspan><tspan
+             id="tspan6461"
+             style="font-size:10px;line-height:1.25">a. Identification des normes internationales selon </tspan><tspan
              sodipodi:role="line"
              x="-1824.2186"
              y="367.64313"
-             id="tspan8287-3"
-             style="font-size:10px;line-height:1.25">    for establishing process parameters.</tspan><tspan
+             style="font-size:10px;line-height:1.25"
+             id="tspan13976">les propriétés à évaluer pendant le recyclage.</tspan><tspan
              sodipodi:role="line"
              x="-1824.2186"
              y="380.14313"
-             id="tspan4228"
-             style="font-size:10px;line-height:1.25">b. Characterization of the equipment. </tspan><tspan
+             style="font-size:10px;line-height:1.25"
+             id="tspan13978">b. Characterisation de l'equipement standard. </tspan><tspan
              sodipodi:role="line"
              x="-1824.2186"
              y="392.64313"
-             id="tspan6458"
-             style="font-size:10px;line-height:1.25">c. Definition of operating conditions.</tspan><tspan
-             sodipodi:role="line"
-             x="-1824.2186"
-             y="405.14313"
-             id="tspan6461"
-             style="font-size:10px;line-height:1.25"> </tspan></text>
+             style="font-size:10px;line-height:1.25"
+             id="tspan13980">c. Definition des conditions opératoires.</tspan></text>
         <rect
            inkscape:export-ydpi="250"
            inkscape:export-xdpi="250"
@@ -630,8 +583,8 @@
            ry="6.876658" />
       </g>
       <path
-         style="display:inline;fill:none;stroke:#000000;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-73-1)"
-         d="m -96.15298,700.36848 117.53603,0 0,-446.95776 -265.88663,0"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000007, 2.00000003, 1.00000003, 2.00000003;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -407.903,700.36848 -117.53603,0 0,-446.95776 265.88663,0"
          id="path10041-2-0"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc"
@@ -644,15 +597,15 @@
          inkscape:export-filename="C:\Users\cruzsanc1\Dropbox\Fabio_Cruz\Articles\Additive Manufacturing in an open-source context the polymer recycling issue\Figures\Methodology\Global_Methodology_1.png"
          transform="rotate(-90)"
          id="text10043-5-5"
-         y="13.881409"
+         y="-532.11859"
          x="-536.1416"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            style="font-size:15px;line-height:1.25"
-           y="13.881409"
+           y="-532.11859"
            x="-536.1416"
            sodipodi:role="line"
-           id="tspan10045-9-5">Definition of the number of cycles</tspan></text>
+           id="tspan10045-9-5">Définition du nombre de cycles</tspan></text>
       <g
          transform="translate(1287.8601,152.09309)"
          id="g8446"
@@ -693,7 +646,7 @@
                sodipodi:role="line"
                x="-1534.5857"
                y="156.03166"
-               style="font-size:16px;line-height:1.25">2.2) 3D Printing Feedstock</tspan></text>
+               style="font-size:16px;line-height:1.25">2.2) Matière première </tspan></text>
           <text
              inkscape:export-ydpi="250"
              inkscape:export-xdpi="250"
@@ -703,51 +656,51 @@
              x="-1535.4041"
              y="179.69914"
              id="text10158-9-3"><tspan
-               id="tspan4385"
-               sodipodi:role="line"
-               x="-1535.4041"
-               y="179.69914"
-               style="font-size:10px;line-height:120%">a.  Manufacturing  process of the</tspan><tspan
                id="tspan6373"
                sodipodi:role="line"
                x="-1535.4041"
-               y="191.69914"
-               style="font-size:10px;line-height:120%">    3D printing feedstock.</tspan><tspan
-               id="tspan4387"
+               y="179.69914"
+               style="font-size:10px;line-height:1">a. Sélection de procédé de pour la fabrication </tspan><tspan
                sodipodi:role="line"
                x="-1535.4041"
-               y="203.69914"
-               style="font-size:10px;line-height:120%">b. Characterization of the experimental </tspan><tspan
+               y="189.69914"
+               style="font-size:10px;line-height:1"
+               id="tspan13444">de la matière premère pour l'impression 3D</tspan><tspan
                id="tspan4391"
                sodipodi:role="line"
                x="-1535.4041"
-               y="215.69914"
-               style="font-size:10px;line-height:120%">    conditions.</tspan><tspan
+               y="199.69914"
+               style="font-size:10px;line-height:1">b. Définition des conditions expérimentales </tspan><tspan
                id="tspan4395"
                sodipodi:role="line"
                x="-1535.4041"
-               y="227.69914"
-               style="font-size:10px;line-height:120%">c. Identification of quality parameters </tspan><tspan
+               y="209.69914"
+               style="font-size:10px;line-height:1">pour fabrication des échantillons</tspan><tspan
                sodipodi:role="line"
                x="-1535.4041"
-               y="239.69914"
+               y="219.69914"
                id="tspan6057"
-               style="font-size:10px;line-height:120%">    for the feedstock.</tspan><tspan
+               style="font-size:10px;line-height:1">c. Identification des paramètres de qualité</tspan><tspan
+               sodipodi:role="line"
+               x="-1535.4041"
+               y="229.69914"
+               style="font-size:10px;line-height:1"
+               id="tspan13452">pour la matière première</tspan><tspan
                id="tspan10375-3-0"
                sodipodi:role="line"
                x="-1535.4041"
-               y="251.69914"
-               style="font-size:10px;line-height:120%"> </tspan><tspan
+               y="239.69914"
+               style="font-size:10px;line-height:1"> </tspan><tspan
                id="tspan10446-4-4"
                sodipodi:role="line"
                x="-1535.4041"
-               y="263.69916"
-               style="font-size:10px;line-height:120%"> </tspan><tspan
+               y="249.69914"
+               style="font-size:10px;line-height:1"> </tspan><tspan
                id="tspan10278-6-4"
                sodipodi:role="line"
                x="-1535.4041"
-               y="275.69916"
-               style="font-size:10px;line-height:120%"> </tspan></text>
+               y="259.69916"
+               style="font-size:10px;line-height:1"> </tspan></text>
           <rect
              ry="8.8257151"
              y="134.28923"
@@ -791,7 +744,7 @@
            x="-442.60672"
            sodipodi:role="line"
            style="font-size:16px;line-height:1.25"
-           id="tspan12689-4">2.1) Reference Chains</tspan></text>
+           id="tspan12689-4">2.1) Procédés de recyclage</tspan></text>
       <text
          inkscape:export-ydpi="250"
          inkscape:export-xdpi="250"
@@ -801,26 +754,47 @@
          x="-468.5773"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Franklin Gothic Book';-inkscape-font-specification:'Franklin Gothic Book, ';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
+           id="tspan4347"
            y="341.79224"
            x="-468.5773"
            sodipodi:role="line"
-           id="tspan11280"
-           style="font-size:10px;line-height:1">a. Identification of the recycling process chains.</tspan><tspan
-           id="tspan4349"
+           style="font-size:10px;line-height:1"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2.9204006e-08">a. Identification des procédés (<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Franklin Gothic Book';-inkscape-font-specification:'Franklin Gothic Book,  Italic'"
+   id="tspan13432">Référence, 3D</tspan></tspan><tspan
            y="351.79224"
+           x="-468.5773"
+           sodipodi:role="line"
+           style="font-size:10px;line-height:1"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2.9204006e-08 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2.9204006e-08"
+           id="tspan13430"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Franklin Gothic Book';-inkscape-font-specification:'Franklin Gothic Book,  Italic'"
+   id="tspan13434">printing, Feedstock et 3D Printing -Reference-</tspan>)</tspan><tspan
+           y="361.79224"
+           x="-468.5773"
+           sodipodi:role="line"
+           style="font-size:10px;line-height:1"
+           id="tspan13420">que vont dégrader la matière à recycler</tspan><tspan
+           id="tspan4349"
+           y="371.79224"
            x="-468.5773"
            sodipodi:role="line"
            style="font-size:10px;line-height:1"> </tspan><tspan
            id="tspan10321-0-9"
-           y="361.79224"
+           y="381.79224"
            x="-468.5773"
            sodipodi:role="line"
-           style="font-size:10px;line-height:1">b. Definition of the properties to be tested </tspan><tspan
+           style="font-size:10px;line-height:1">b. Definition des propriétés à évaluaer pendant </tspan><tspan
+           y="391.79224"
+           x="-468.5773"
+           sodipodi:role="line"
+           id="tspan4232"
+           style="font-size:10px;line-height:1">le test de recyclage</tspan><tspan
            id="tspan10286-8-1"
-           y="371.79224"
+           y="401.79224"
            x="-468.5773"
            sodipodi:role="line"
-           style="font-size:10px;line-height:1">    throughout the recycling process. </tspan></text>
+           style="font-size:10px;line-height:1"> </tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path8586"

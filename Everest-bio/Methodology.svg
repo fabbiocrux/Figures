@@ -126,15 +126,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.63343929"
-     inkscape:cx="1280.2215"
-     inkscape:cy="819.88058"
+     inkscape:zoom="0.57892329"
+     inkscape:cx="-55.552256"
+     inkscape:cy="716.83167"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g976"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="2048"
-     inkscape:window-height="1099"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
@@ -150,7 +150,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -170,23 +170,23 @@
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';letter-spacing:0px;stroke-width:0.264583"
-       x="27.280245"
+       x="117.23856"
        y="18.929152"
        id="text855"><tspan
          sodipodi:role="line"
          id="tspan853"
-         x="27.280245"
+         x="117.23856"
          y="18.929152"
          style="stroke-width:0.264583">Assessment</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';letter-spacing:0px;stroke-width:0.264583"
-       x="136.2589"
+       x="8.729764"
        y="18.929152"
        id="text859"><tspan
          sodipodi:role="line"
          id="tspan857"
-         x="136.2589"
+         x="8.729764"
          y="18.929152"
          style="stroke-width:0.264583">Planning</tspan></text>
     <text
@@ -218,7 +218,7 @@
        ry="10.578055" />
     <g
        id="g881"
-       transform="translate(152.0586,161.71325)">
+       transform="translate(152.0586,161.90159)">
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.793999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect869"
@@ -246,7 +246,7 @@
     </g>
     <g
        id="g891"
-       transform="translate(152.0586,202.93838)">
+       transform="translate(152.0586,193.22504)">
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.793999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect883"
@@ -364,7 +364,7 @@
        sodipodi:nodetypes="cc" />
     <g
        id="g976"
-       transform="translate(8.4666659,23.812505)">
+       transform="translate(-12.700001,23.812505)">
       <text
          xml:space="preserve"
          style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';letter-spacing:0px;stroke-width:0.264583"
@@ -393,36 +393,58 @@
         <text
            xml:space="preserve"
            style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-           x="-37.905949"
+           x="-50.574726"
            y="252.28592"
            id="text938"><tspan
              sodipodi:role="line"
-             x="-37.905949"
+             x="-50.574726"
              y="252.28592"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.264583"
              id="tspan936">Informed</tspan></text>
         <text
            xml:space="preserve"
            style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-           x="-43.2286"
-           y="131.17552"
+           x="-52.383396"
+           y="131.17551"
            id="text944"><tspan
              sodipodi:role="line"
-             x="-43.2286"
-             y="131.17552"
+             x="-52.383396"
+             y="131.17551"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.264583"
              id="tspan942">Involved</tspan></text>
         <text
            xml:space="preserve"
            style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-           x="-43.228603"
+           x="-45.156818"
            y="8.8586178"
            id="text948"><tspan
              sodipodi:role="line"
-             x="-43.228603"
+             x="-45.156818"
              y="8.8586178"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.264583"
              id="tspan946">Empowered</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="-54.059196"
+           y="191.71486"
+           id="text2270"><tspan
+             sodipodi:role="line"
+             x="-54.059196"
+             y="191.71486"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.264583"
+             id="tspan2268">Consult</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="-46.121719"
+           y="70.604446"
+           id="text2274"><tspan
+             sodipodi:role="line"
+             x="-46.121719"
+             y="70.604446"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.264583"
+             id="tspan2272">Collaborate</tspan></text>
       </g>
     </g>
     <g
@@ -624,5 +646,43 @@
        d="m 371.16061,118.93238 c 0.4257,74.04973 -145.21084,68.56369 -145.21084,68.56369"
        id="path1526"
        sodipodi:nodetypes="cc" />
+    <g
+       id="g1644"
+       transform="translate(101.25855,161.71325)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.794;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1636"
+         width="49.206001"
+         height="59.279915"
+         x="-119.1423"
+         y="42.868954"
+         ry="5.6457276" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:7.05556px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="-94.71328"
+         y="60.707935"
+         id="text1642"><tspan
+           sodipodi:role="line"
+           x="-94.71328"
+           y="60.707935"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan1640">Definition </tspan><tspan
+           sodipodi:role="line"
+           x="-94.71328"
+           y="69.795967"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan1648">of the </tspan><tspan
+           sodipodi:role="line"
+           x="-94.71328"
+           y="78.883995"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan1656">Tech- / Eco- </tspan><tspan
+           sodipodi:role="line"
+           x="-94.71328"
+           y="87.972023"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan1658">Spheres</tspan></text>
+    </g>
   </g>
 </svg>

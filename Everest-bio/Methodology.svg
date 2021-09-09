@@ -7,15 +7,58 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="511.11426mm"
-   height="362.1423mm"
-   viewBox="0 0 511.11426 362.1423"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
    sodipodi:docname="Methodology.svg">
   <defs
      id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="marker2039"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.2) rotate(180) translate(6,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2037" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.2) rotate(180) translate(6,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1672" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1666" />
+    </marker>
     <marker
        style="overflow:visible"
        id="marker1530"
@@ -126,15 +169,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.57892329"
-     inkscape:cx="-55.552256"
-     inkscape:cy="716.83167"
+     inkscape:zoom="0.81872117"
+     inkscape:cx="598.29811"
+     inkscape:cy="440.95957"
      inkscape:document-units="mm"
-     inkscape:current-layer="g976"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="847"
+     inkscape:window-width="2048"
+     inkscape:window-height="1099"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
@@ -150,7 +193,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -167,39 +210,6 @@
        x="-275.02966"
        y="-297.39407"
        ry="10.578055" />
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';letter-spacing:0px;stroke-width:0.264583"
-       x="117.23856"
-       y="18.929152"
-       id="text855"><tspan
-         sodipodi:role="line"
-         id="tspan853"
-         x="117.23856"
-         y="18.929152"
-         style="stroke-width:0.264583">Assessment</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';letter-spacing:0px;stroke-width:0.264583"
-       x="8.729764"
-       y="18.929152"
-       id="text859"><tspan
-         sodipodi:role="line"
-         id="tspan857"
-         x="8.729764"
-         y="18.929152"
-         style="stroke-width:0.264583">Planning</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';letter-spacing:0px;stroke-width:0.264583"
-       x="230.25143"
-       y="18.929152"
-       id="text863"><tspan
-         sodipodi:role="line"
-         id="tspan861"
-         x="230.25143"
-         y="18.929152"
-         style="stroke-width:0.264583">Evaluation</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.794;stroke-miterlimit:4;stroke-dasharray:4.764, 4.764;stroke-dashoffset:0;stroke-opacity:1"
        id="rect865"
@@ -217,87 +227,8 @@
        y="-296.83734"
        ry="10.578055" />
     <g
-       id="g881"
-       transform="translate(152.0586,161.90159)">
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.793999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect869"
-         width="49.206001"
-         height="29.206001"
-         x="-119.1423"
-         y="42.868958"
-         ry="2.7815344" />
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:7.05556px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-         x="-93.617737"
-         y="55.387745"
-         id="text873"><tspan
-           sodipodi:role="line"
-           id="tspan871"
-           x="-93.617737"
-           y="55.387745"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583">Territorial </tspan><tspan
-           sodipodi:role="line"
-           x="-93.617737"
-           y="64.475777"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           id="tspan875">Issues</tspan></text>
-    </g>
-    <g
-       id="g891"
-       transform="translate(152.0586,193.22504)">
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:0.793999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect883"
-         width="49.206001"
-         height="29.206001"
-         x="-119.1423"
-         y="42.868958"
-         ry="2.7815344" />
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:7.05556px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-         x="-93.617737"
-         y="55.387745"
-         id="text889"><tspan
-           sodipodi:role="line"
-           id="tspan885"
-           x="-93.617737"
-           y="55.387745"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583">Industrial</tspan><tspan
-           sodipodi:role="line"
-           x="-93.617737"
-           y="64.475777"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           id="tspan887">Issues</tspan></text>
-    </g>
-    <g
        id="g901"
        transform="translate(260.59092,123.88252)" />
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';letter-spacing:0px;stroke-width:0.264583"
-       x="334.19684"
-       y="18.929152"
-       id="text921"><tspan
-         sodipodi:role="line"
-         id="tspan919"
-         x="334.19684"
-         y="18.929152"
-         style="stroke-width:0.264583">Management</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
-       d="m 86.851396,264.73767 c 57.341984,0.008 69.592474,-59.01442 69.592474,-59.01442"
-       id="path874"
-       sodipodi:nodetypes="cc" />
-    <path
-       id="path901"
-       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       inkscape:transform-center-x="-4.4009837"
-       inkscape:transform-center-y="-4.1036413"
-       d="M -0.33494629,-47.132155 H 422.55814 v 33.871783 H -0.33494629 Z"
-       sodipodi:nodetypes="ccccc" />
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.264583"
@@ -311,303 +242,11 @@
          y="502.84518"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan1108">Factual level</tspan></text>
-    <g
-       id="g924"
-       transform="translate(-7.9375013,-7.9375002)">
-      <path
-         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 19.485889,305.38757 H 399.48588"
-         id="path915"
-         sodipodi:nodetypes="cc" />
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';letter-spacing:0px;stroke-width:0.264583"
-         x="155.66434"
-         y="320.15479"
-         id="text863-5"><tspan
-           sodipodi:role="line"
-           id="tspan861-4"
-           x="155.66434"
-           y="320.15479"
-           style="stroke-width:0.264583">Spatial scale</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-         x="37.790779"
-         y="318.49857"
-         id="text899-7"><tspan
-           sodipodi:role="line"
-           x="37.790779"
-           y="318.49857"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.264583"
-           id="tspan911-4">Regional</tspan></text>
-      <g
-         id="g934"
-         transform="translate(481.66547,263.11086)">
-        <text
-           xml:space="preserve"
-           style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-           x="-93.617737"
-           y="55.387745"
-           id="text932"><tspan
-             sodipodi:role="line"
-             x="-93.617737"
-             y="55.387745"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.264583"
-             id="tspan930">Local</tspan></text>
-      </g>
-    </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 585.69453,300.09591 904.2987,174.52808"
        id="path1085"
        sodipodi:nodetypes="cc" />
-    <g
-       id="g976"
-       transform="translate(-12.700001,23.812505)">
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';letter-spacing:0px;stroke-width:0.264583"
-         x="-173.58438"
-         y="-88.873306"
-         id="text943"
-         transform="rotate(-90)"><tspan
-           sodipodi:role="line"
-           id="tspan941"
-           x="-173.58438"
-           y="-88.873306"
-           style="stroke-width:0.264583">Stakeholder</tspan><tspan
-           sodipodi:role="line"
-           x="-173.58438"
-           y="-75.64418"
-           style="stroke-width:0.264583"
-           id="tspan945">Collaboration</tspan></text>
-      <g
-         id="g963"
-         transform="translate(5.2916667,10.583333)">
-        <path
-           style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M -13.361756,252.41292 V 1.3233081"
-           id="path917"
-           sodipodi:nodetypes="cc" />
-        <text
-           xml:space="preserve"
-           style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-           x="-50.574726"
-           y="252.28592"
-           id="text938"><tspan
-             sodipodi:role="line"
-             x="-50.574726"
-             y="252.28592"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.264583"
-             id="tspan936">Informed</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-           x="-52.383396"
-           y="131.17551"
-           id="text944"><tspan
-             sodipodi:role="line"
-             x="-52.383396"
-             y="131.17551"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.264583"
-             id="tspan942">Involved</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-           x="-45.156818"
-           y="8.8586178"
-           id="text948"><tspan
-             sodipodi:role="line"
-             x="-45.156818"
-             y="8.8586178"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.264583"
-             id="tspan946">Empowered</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-           x="-54.059196"
-           y="191.71486"
-           id="text2270"><tspan
-             sodipodi:role="line"
-             x="-54.059196"
-             y="191.71486"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.264583"
-             id="tspan2268">Consult</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-           x="-46.121719"
-           y="70.604446"
-           id="text2274"><tspan
-             sodipodi:role="line"
-             x="-46.121719"
-             y="70.604446"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.264583"
-             id="tspan2272">Collaborate</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g1248"
-       transform="translate(-7.3681182,15.875)">
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:7.05556px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-         x="-91.403961"
-         y="42.616024"
-         id="text899"
-         transform="translate(260.59093,123.88252)"><tspan
-           sodipodi:role="line"
-           x="-91.403961"
-           y="42.616024"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           id="tspan909">Opportunities and Constraints for </tspan><tspan
-           sodipodi:role="line"
-           x="-91.403961"
-           y="51.704052"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           id="tspan911">key Ecosystem Services</tspan></text>
-      <g
-         id="g1017"
-         transform="translate(232.88566,111.72747)">
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.793999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect1009"
-           width="109.206"
-           height="29.206001"
-           x="-119.1423"
-           y="42.868958"
-           ry="2.7815344" />
-      </g>
-    </g>
-    <g
-       id="g1042"
-       transform="translate(-15.875,-21.166667)">
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:7.05556px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-         x="274.07703"
-         y="158.19154"
-         id="text989"><tspan
-           sodipodi:role="line"
-           x="274.07703"
-           y="158.19154"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           id="tspan993">Techno-Ecological</tspan><tspan
-           sodipodi:role="line"
-           x="274.07703"
-           y="167.27957"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           id="tspan995">Sinergy</tspan></text>
-      <g
-         id="g1027"
-         transform="translate(358.43373,103.50488)">
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.793999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect1019"
-           width="69.206001"
-           height="29.206001"
-           x="-119.1423"
-           y="42.868958"
-           ry="2.7815344" />
-      </g>
-    </g>
-    <g
-       id="g1049"
-       transform="translate(32.003892,-61.632988)">
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:7.05556px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-         x="337.14987"
-         y="158.92535"
-         id="text1003"><tspan
-           sodipodi:role="line"
-           x="337.14987"
-           y="158.92535"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           id="tspan1001">Establishement of</tspan><tspan
-           sodipodi:role="line"
-           x="337.14987"
-           y="168.01338"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           id="tspan1007">Scenarios</tspan></text>
-      <g
-         id="g1031"
-         transform="matrix(1.4064545,0,0,1,470.35969,103.50488)"
-         style="stroke-width:0.843213">
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.66951;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect1029"
-           width="49.206001"
-           height="29.206001"
-           x="-119.1423"
-           y="42.868958"
-           ry="2.7815344" />
-      </g>
-    </g>
-    <g
-       id="g1056"
-       transform="translate(19.012635,-1.0071241)">
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:7.05556px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-         x="351.03067"
-         y="58.643269"
-         id="text892"><tspan
-           sodipodi:role="line"
-           x="351.03067"
-           y="58.643269"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           id="tspan890">Implementation</tspan><tspan
-           sodipodi:role="line"
-           x="351.03067"
-           y="67.7313"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           id="tspan899">Decision Framework</tspan></text>
-      <g
-         id="g1035"
-         transform="matrix(1.4064545,0,0,1,484.26633,3.2555249)"
-         style="stroke-width:0.843213">
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.66951;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect1033"
-           width="49.206001"
-           height="29.206001"
-           x="-119.1423"
-           y="42.868958"
-           ry="2.7815344" />
-      </g>
-    </g>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M -0.33494628,-13.260392 422.55813,-47.132175"
-       id="path1058" />
-    <g
-       id="g1064"
-       transform="translate(113.66247,-91.536267)">
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:7.05556px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-         x="-94.676071"
-         y="52.741909"
-         id="text1062"><tspan
-           sodipodi:role="line"
-           x="-94.676071"
-           y="52.741909"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.264583"
-           id="tspan1066">Factua level</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:7.05556px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-         x="278.38644"
-         y="74.966904"
-         id="text1072"><tspan
-           sodipodi:role="line"
-           x="278.38644"
-           y="74.966904"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.264583"
-           id="tspan1070">Valuation level</tspan></text>
-    </g>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.264583"
@@ -621,36 +260,468 @@
          y="514.12714"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.264583"
          id="tspan1127">Valuation level</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';letter-spacing:0px;stroke-width:0.264583"
+       x="31.890087"
+       y="-13.519898"
+       id="text855"
+       transform="scale(1.0001081,0.99989192)"><tspan
+         sodipodi:role="line"
+         id="tspan853"
+         x="31.890087"
+         y="-13.519898"
+         style="font-size:6.35px;stroke-width:0.264583">Assessment</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';letter-spacing:0px;stroke-width:0.264583"
+       x="-25.371016"
+       y="-13.519898"
+       id="text859"
+       transform="scale(1.0001081,0.99989192)"><tspan
+         sodipodi:role="line"
+         id="tspan857"
+         x="-25.371016"
+         y="-13.519898"
+         style="font-size:6.35px;stroke-width:0.264583">Planning</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';letter-spacing:0px;stroke-width:0.264583"
+       x="91.528046"
+       y="-13.519898"
+       id="text863"
+       transform="scale(1.0001081,0.99989192)"><tspan
+         sodipodi:role="line"
+         id="tspan861"
+         x="91.528046"
+         y="-13.519898"
+         style="font-size:6.35px;stroke-width:0.264583">Evaluation</tspan></text>
+    <g
+       id="g881"
+       transform="matrix(0.52776631,0,0,0.52765226,50.270375,84.146295)"
+       style="stroke-width:1.89498">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:1.50461;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect869"
+         width="49.206001"
+         height="29.206001"
+         x="-119.1423"
+         y="42.868958"
+         ry="2.7815344" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:7.35359px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.50138"
+         x="-93.617737"
+         y="55.387745"
+         id="text873"><tspan
+           sodipodi:role="line"
+           id="tspan871"
+           x="-93.617737"
+           y="55.387745"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.35359px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.50138">Territorial </tspan><tspan
+           sodipodi:role="line"
+           x="-93.617737"
+           y="64.859657"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.35359px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.50138"
+           id="tspan875">Issues</tspan></text>
+    </g>
+    <g
+       id="g891"
+       transform="matrix(0.52776631,0,0,0.52765226,50.270375,100.67419)"
+       style="stroke-width:1.89498">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:1.50461;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect883"
+         width="49.206001"
+         height="29.206001"
+         x="-119.1423"
+         y="42.868958"
+         ry="2.7815344" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:7.35359px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.50138"
+         x="-93.617737"
+         y="55.387745"
+         id="text889"><tspan
+           sodipodi:role="line"
+           id="tspan885"
+           x="-93.617737"
+           y="55.387745"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.35359px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.50138">Industrial</tspan><tspan
+           sodipodi:role="line"
+           x="-93.617737"
+           y="64.859657"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.35359px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.50138"
+           id="tspan887">Issues</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';letter-spacing:0px;stroke-width:0.264583"
+       x="146.38097"
+       y="-13.519898"
+       id="text921"
+       transform="scale(1.0001081,0.99989192)"><tspan
+         sodipodi:role="line"
+         id="tspan919"
+         x="146.38097"
+         y="-13.519898"
+         style="font-size:6.35px;stroke-width:0.264583">Management</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 15.85621,126.76632 c 30.263167,0.004 36.728563,-31.139095 36.728563,-31.139095"
+       id="path874"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g924"
+       transform="matrix(0.52776631,0,0,0.52765226,-34.170177,-17.111353)"
+       style="stroke-width:1.89498">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.84247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 19.485889,305.38757 H 399.48588"
+         id="path915"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:10.0276px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';letter-spacing:0px;stroke-width:0.50138"
+         x="155.66434"
+         y="320.15479"
+         id="text863-5"><tspan
+           sodipodi:role="line"
+           id="tspan861-4"
+           x="155.66434"
+           y="320.15479"
+           style="font-size:10.0276px;stroke-width:0.50138">Spatial scale</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:10.0276px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.50138"
+         x="37.790779"
+         y="318.49857"
+         id="text899-7"><tspan
+           sodipodi:role="line"
+           x="37.790779"
+           y="318.49857"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.0276px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.50138"
+           id="tspan911-4">Regional</tspan></text>
+      <g
+         id="g934"
+         transform="translate(481.66547,263.11086)"
+         style="stroke-width:1.89498">
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:10.0276px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.50138"
+           x="-93.617737"
+           y="55.387745"
+           id="text932"><tspan
+             sodipodi:role="line"
+             x="-93.617737"
+             y="55.387745"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.0276px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.50138"
+             id="tspan930">Local</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29166px;line-height:1.05;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';letter-spacing:0px;stroke-width:0.264583"
+       x="-91.24366"
+       y="-83.049858"
+       id="text943"
+       transform="matrix(0,-0.99989194,1.0001081,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan941"
+         x="-91.24366"
+         y="-83.049858"
+         style="font-size:5.29166px;stroke-width:0.264583">Stakeholder</tspan><tspan
+         sodipodi:role="line"
+         x="-91.24366"
+         y="-77.493614"
+         style="font-size:5.29166px;stroke-width:0.264583"
+         id="tspan945">Collaboration</tspan></text>
+    <g
+       id="g963"
+       transform="matrix(0.52776631,0,0,0.52765226,-33.361734,5.2259287)"
+       style="stroke-width:1.89498">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2.84247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -16.369715,252.41292 V 1.3233081"
+         id="path917"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:10.0276px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.50138"
+         x="-50.574726"
+         y="252.28592"
+         id="text938"><tspan
+           sodipodi:role="line"
+           x="-50.574726"
+           y="252.28592"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.0276px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.50138"
+           id="tspan936">Informed</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:10.0276px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.50138"
+         x="-52.383396"
+         y="131.17551"
+         id="text944"><tspan
+           sodipodi:role="line"
+           x="-52.383396"
+           y="131.17551"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.0276px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.50138"
+           id="tspan942">Involved</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:10.0276px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.50138"
+         x="-45.156818"
+         y="8.8586178"
+         id="text948"><tspan
+           sodipodi:role="line"
+           x="-45.156818"
+           y="8.8586178"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.0276px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.50138"
+           id="tspan946">Empowered</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.50138"
+         x="-54.059196"
+         y="191.71486"
+         id="text2270"><tspan
+           sodipodi:role="line"
+           x="-54.059196"
+           y="191.71486"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.50138"
+           id="tspan2268">Consult</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:10.0276px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.50138"
+         x="-46.121719"
+         y="70.604446"
+         id="text2274"><tspan
+           sodipodi:role="line"
+           x="-46.121719"
+           y="70.604446"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.0276px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.50138"
+           id="tspan2272">Collaborate</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29166px;line-height:1.05;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';letter-spacing:0px;stroke-width:0.264583"
+       x="-91.24366"
+       y="202.14001"
+       id="text2117"
+       transform="matrix(0,-0.99989193,1.0001081,0,0,0)"><tspan
+         sodipodi:role="line"
+         x="-91.24366"
+         y="202.14001"
+         style="font-size:5.29166px;stroke-width:0.264583"
+         id="tspan2115">Techno-Ecological</tspan><tspan
+         sodipodi:role="line"
+         x="-91.24366"
+         y="207.69626"
+         style="font-size:5.29166px;stroke-width:0.264583"
+         id="tspan2121">system</tspan></text>
+    <g
+       id="g1248"
+       transform="matrix(0.52776631,0,0,0.52765226,-33.869676,-4.5466334)"
+       style="stroke-width:1.89498">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:7.35359px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.50138"
+         x="-91.403961"
+         y="42.616024"
+         id="text899"
+         transform="translate(260.59093,123.88252)"><tspan
+           sodipodi:role="line"
+           x="-91.403961"
+           y="42.616024"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.35359px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.50138"
+           id="tspan909">Demand and Supply for </tspan><tspan
+           sodipodi:role="line"
+           x="-91.403961"
+           y="52.087936"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.35359px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.50138"
+           id="tspan911">key Ecosystem Services</tspan></text>
+      <g
+         id="g1017"
+         transform="translate(232.88566,111.72747)"
+         style="stroke-width:1.89498">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:1.50461;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1009"
+           width="109.206"
+           height="29.206001"
+           x="-119.1423"
+           y="42.868958"
+           ry="2.7815344" />
+      </g>
+    </g>
+    <g
+       id="g1042"
+       transform="matrix(0.52776631,0,0,0.52765226,-38.359321,-24.091753)"
+       style="stroke-width:1.89498">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:7.35359px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.50138"
+         x="274.07703"
+         y="158.19154"
+         id="text989"><tspan
+           sodipodi:role="line"
+           x="274.07703"
+           y="158.19154"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.35359px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.50138"
+           id="tspan993">Techno-Ecological</tspan><tspan
+           sodipodi:role="line"
+           x="274.07703"
+           y="167.66345"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.35359px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.50138"
+           id="tspan995">Sinergy</tspan></text>
+      <g
+         id="g1027"
+         transform="translate(358.43373,103.50488)"
+         style="stroke-width:1.89498">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:1.50461;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1019"
+           width="69.206001"
+           height="29.206001"
+           x="-119.1423"
+           y="42.868958"
+           ry="2.7815344" />
+      </g>
+    </g>
+    <g
+       id="g1049"
+       transform="matrix(0.52776631,0,0,0.52765226,-13.090455,-50.735565)"
+       style="stroke-width:1.89498">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:7.35359px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.50138"
+         x="337.14987"
+         y="158.92535"
+         id="text1003"><tspan
+           sodipodi:role="line"
+           x="337.14987"
+           y="158.92535"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.35359px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.50138"
+           id="tspan1612">Improvements &amp;</tspan><tspan
+           sodipodi:role="line"
+           x="337.14987"
+           y="168.39726"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.35359px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.50138"
+           id="tspan1618">Design</tspan></text>
+      <g
+         id="g1031"
+         transform="matrix(1.4064545,0,0,1,470.35969,103.50488)"
+         style="stroke-width:1.59787">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:1.26871;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1029"
+           width="49.206001"
+           height="29.206001"
+           x="-119.1423"
+           y="42.868958"
+           ry="2.7815344" />
+      </g>
+    </g>
+    <g
+       id="g1056"
+       transform="matrix(0.52776631,0,0,0.52765226,-19.946803,-18.746191)"
+       style="stroke-width:1.89498">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:7.35359px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.50138"
+         x="351.03067"
+         y="58.643269"
+         id="text892"><tspan
+           sodipodi:role="line"
+           x="351.03067"
+           y="58.643269"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.35359px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.50138"
+           id="tspan890">Implementation</tspan><tspan
+           sodipodi:role="line"
+           x="351.03067"
+           y="68.115181"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.35359px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.50138"
+           id="tspan899">Decision Framework</tspan></text>
+      <g
+         id="g1035"
+         transform="matrix(1.4064545,0,0,1,484.26633,3.2555249)"
+         style="stroke-width:1.59787">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:1.26871;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1033"
+           width="49.206001"
+           height="29.206001"
+           x="-119.1423"
+           y="42.868958"
+           ry="2.7815344" />
+      </g>
+    </g>
+    <g
+       id="g1639"
+       transform="translate(-6.8791668)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)"
+         d="M -33.332803,-37.852083 H 189.85591"
+         id="path1058"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g1064"
+         transform="matrix(0.52776631,0,0,0.52765226,26.831192,-70.218264)"
+         style="stroke-width:1.89498">
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:10.0276px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.50138"
+           x="-84.649536"
+           y="52.741909"
+           id="text1062"><tspan
+             sodipodi:role="line"
+             x="-84.649536"
+             y="52.741909"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.0276px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.50138"
+             id="tspan1066">Factual level</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:10.0276px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.50138"
+           x="268.35992"
+           y="54.9095"
+           id="text1072"><tspan
+             sodipodi:role="line"
+             x="268.35992"
+             y="54.9095"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.0276px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.50138"
+             id="tspan1070">Valuation level</tspan></text>
+      </g>
+    </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1260)"
-       d="m 161.39133,168.44607 c -0.008,-30.19192 54.41979,-28.24084 54.41979,-28.24084"
+       d="M 55.195876,75.957837 C 55.191654,60.027002 83.916807,61.056493 83.916807,61.056493"
        id="path1256"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1320)"
-       d="M 56.339298,201.23499 C 70.115176,180.23233 102.12455,182.44255 102.12455,182.44255"
+       d="M -13.476214,103.84232 C -9.1142675,79.833553 23.916866,84.401445 23.916866,84.401445"
        id="path1316"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1382)"
-       d="m 257.69974,120.29187 c -0.008,-59.430444 71.12751,-59.567832 71.12751,-59.567832"
+       d="M 106.02419,50.549164 C 106.02019,19.190556 143.5629,19.118063 143.5629,19.118063"
        id="path1378"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.50000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.00000008,3.00000008;stroke-opacity:1;marker-end:url(#marker1452);stroke-dashoffset:0"
-       d="m 371.16061,118.93238 c -0.40969,23.92654 -71.12751,22.52619 -71.12751,22.52619"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1452)"
+       d="m 165.90502,44.540159 c -0.21622,12.624893 -37.5387,17.177662 -37.5387,17.177662"
        id="path1448"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1530)"
-       d="m 371.16061,118.93238 c 0.4257,74.04973 -145.21084,68.56369 -145.21084,68.56369"
+       d="M 165.90502,44.540159 C 166.12969,83.612666 89.267645,86.009612 89.267645,86.009612"
        id="path1526"
        sodipodi:nodetypes="cc" />
     <g
        id="g1644"
-       transform="translate(101.25855,161.71325)">
+       transform="matrix(0.52776631,0,0,0.52765226,23.45982,84.046917)"
+       style="stroke-width:1.89498">
       <rect
-         style="fill:none;stroke:#000000;stroke-width:0.794;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:1.50462;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect1636"
          width="49.206001"
          height="59.279915"
@@ -659,30 +730,66 @@
          ry="5.6457276" />
       <text
          xml:space="preserve"
-         style="font-weight:bold;font-size:7.05556px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         style="font-weight:bold;font-size:7.35359px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.50138"
          x="-94.71328"
          y="60.707935"
          id="text1642"><tspan
            sodipodi:role="line"
            x="-94.71328"
            y="60.707935"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.35359px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.50138"
            id="tspan1640">Definition </tspan><tspan
            sodipodi:role="line"
            x="-94.71328"
-           y="69.795967"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           y="70.179848"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.35359px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.50138"
            id="tspan1648">of the </tspan><tspan
            sodipodi:role="line"
            x="-94.71328"
-           y="78.883995"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           y="79.651756"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.35359px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.50138"
            id="tspan1656">Tech- / Eco- </tspan><tspan
            sodipodi:role="line"
            x="-94.71328"
-           y="87.972023"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           y="89.123672"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.35359px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.50138"
            id="tspan1658">Spheres</tspan></text>
+    </g>
+    <g
+       id="g1655"
+       transform="rotate(-90,186.21148,-45.260417)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2039)"
+         d="M -1.582803,-37.852083 H 136.93924"
+         id="path1643"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g1653"
+         transform="matrix(0.52776631,0,0,0.52765226,26.831192,-70.218264)"
+         style="stroke-width:1.89498">
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:10.0276px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.50138"
+           x="-24.490328"
+           y="72.799309"
+           id="text1647"><tspan
+             sodipodi:role="line"
+             x="-24.490328"
+             y="72.799309"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.0276px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.50138"
+             id="tspan1645">Vulnerable</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:10.0276px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.50138"
+           x="188.14766"
+           y="74.966904"
+           id="text1651"><tspan
+             sodipodi:role="line"
+             x="188.14766"
+             y="74.966904"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.0276px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:center;text-anchor:middle;stroke-width:0.50138"
+             id="tspan1649">Resilient</tspan></text>
+      </g>
     </g>
   </g>
 </svg>

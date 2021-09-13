@@ -13,7 +13,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
-   sodipodi:docname="Comparison.svg">
+   sodipodi:docname="Comparison.svg"
+   inkscape:export-filename="/Users/fabio/Documents/Figures/Everest-bio/ES/Comparison.png"
+   inkscape:export-xdpi="153.69505"
+   inkscape:export-ydpi="153.69505">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -23,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1423564"
-     inkscape:cx="387.22117"
-     inkscape:cy="299.81886"
+     inkscape:zoom="0.99785714"
+     inkscape:cx="396.85039"
+     inkscape:cy="279.68504"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -43,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,16 +59,19 @@
        style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
        x="26.172144"
        y="69.02034"
-       id="text861"><tspan
+       id="text861"
+       inkscape:export-filename="/Users/fabio/Documents/4-Projects/everest-bio/00-ES/Article/Figures/cices.png"
+       inkscape:export-xdpi="153"
+       inkscape:export-ydpi="153"><tspan
          sodipodi:role="line"
          x="26.172144"
          y="69.02034"
          style="fill:#ff0000;stroke-width:0.264583"
-         id="tspan863">Image for ES conceptual definition</tspan><tspan
+         id="tspan867">Table ES presentation of structure</tspan><tspan
          sodipodi:role="line"
          x="26.172144"
          y="82.249466"
          style="fill:#ff0000;stroke-width:0.264583"
-         id="tspan867"> to do..</tspan></text>
+         id="tspan20"> to do..</tspan></text>
   </g>
 </svg>

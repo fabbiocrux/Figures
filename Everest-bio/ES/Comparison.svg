@@ -14,7 +14,7 @@
    id="svg8"
    inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
    sodipodi:docname="Comparison.svg"
-   inkscape:export-filename="/Users/fabio/Documents/Figures/Everest-bio/ES/Comparison.png"
+   inkscape:export-filename="/Users/fabio/Documents/4-Projects/everest-bio/00-ES/Article/Figures/Comparison.png"
    inkscape:export-xdpi="153.69505"
    inkscape:export-ydpi="153.69505">
   <defs
@@ -26,15 +26,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99785714"
+     inkscape:zoom="1.3794353"
      inkscape:cx="396.85039"
      inkscape:cy="279.68504"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1404"
-     inkscape:window-height="847"
+     inkscape:window-width="2048"
+     inkscape:window-height="1099"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0" />
@@ -54,9 +54,16 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.499999"
+       id="rect18"
+       width="200.82039"
+       height="132.92123"
+       x="7.864027"
+       y="9.0148611" />
     <text
        xml:space="preserve"
-       style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       style="font-weight:500;font-size:7.05556px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
        x="26.172144"
        y="69.02034"
        id="text861"
@@ -66,12 +73,12 @@
          sodipodi:role="line"
          x="26.172144"
          y="69.02034"
-         style="fill:#ff0000;stroke-width:0.264583"
-         id="tspan867">Table ES presentation of structure</tspan><tspan
+         style="font-size:7.05556px;fill:#ff0000;stroke-width:0.264583"
+         id="tspan867">Figure on ES structure</tspan><tspan
          sodipodi:role="line"
          x="26.172144"
-         y="82.249466"
-         style="fill:#ff0000;stroke-width:0.264583"
+         y="77.83979"
+         style="font-size:7.05556px;fill:#ff0000;stroke-width:0.264583"
          id="tspan20"> to do..</tspan></text>
   </g>
 </svg>

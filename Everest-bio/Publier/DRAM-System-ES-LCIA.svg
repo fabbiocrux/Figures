@@ -833,15 +833,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.56129464"
-     inkscape:cx="1122.5197"
+     inkscape:zoom="0.37148569"
+     inkscape:cx="306.38603"
      inkscape:cy="793.70079"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="2048"
+     inkscape:window-width="1024"
      inkscape:window-height="1099"
-     inkscape:window-x="0"
+     inkscape:window-x="1024"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
      fit-margin-top="0"
@@ -858,7 +858,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2379,13 +2379,13 @@
        y="518.64172"
        ry="61.495789" />
     <rect
-       style="display:inline;fill:none;stroke:#008000;stroke-width:2.81248996;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       style="display:inline;fill:none;stroke:#008000;stroke-width:2.81249;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect1866"
-       width="1968.2571"
-       height="991.48956"
-       x="43.163345"
-       y="471.87607"
-       ry="67.649605" />
+       width="2056.4824"
+       height="1050.3064"
+       x="5.6633492"
+       y="436.25107"
+       ry="71.662697" />
     <path
        id="rect1932"
        style="display:inline;fill:none;stroke:#0000ff;stroke-width:2.8125;stroke-miterlimit:4;stroke-dasharray:16.875, 16.875;stroke-dashoffset:0"
@@ -2542,6 +2542,27 @@
          sodipodi:role="line">II. <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';stroke-width:1px;font-size:31.25000026px;"
    id="tspan1920">Preparation</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-371.67844"
+       y="1135.2183"
+       id="text4416-1"><tspan
+         sodipodi:role="line"
+         id="tspan4418-8"
+         x="-371.67844"
+         y="1135.2183"
+         style="font-size:37.5px;line-height:1.25;stroke-width:1px">Energy</tspan><tspan
+         sodipodi:role="line"
+         x="-371.67844"
+         y="1182.0933"
+         style="font-size:37.5px;line-height:1.25;stroke-width:1px"
+         id="tspan1792">Fossil fuel</tspan><tspan
+         sodipodi:role="line"
+         x="-371.67844"
+         y="1198.4617"
+         style="font-size:37.5px;line-height:1.25;stroke-width:1px"
+         id="tspan1794" /></text>
   </g>
   <g
      inkscape:label="Recycling"
@@ -2554,8 +2575,8 @@
        transform="translate(135.67417,625.049)"
        id="g9424">
       <path
-         style="fill:#e32424;fill-rule:evenodd;stroke:#e42424;stroke-width:3.00000007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.50196081;fill-opacity:0.68627453"
-         d="M 2545.1882,65.286665 V 882.37684"
+         style="fill:#e32424;fill-opacity:0.686275;fill-rule:evenodd;stroke:#e42424;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.501961"
+         d="M 2545.1882,4.0191269 V 882.37685"
          id="path4805"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
@@ -2563,8 +2584,8 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path4807"
-         d="M 2153.6882,65.286665 V 882.37684"
-         style="fill:#e32424;fill-rule:evenodd;stroke:#e42424;stroke-width:3.00000007;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.50196081;fill-opacity:0.68627453" />
+         d="M 2153.6882,4.0191269 V 882.37685"
+         style="fill:#e32424;fill-opacity:0.686275;fill-rule:evenodd;stroke:#e42424;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.501961" />
       <g
          transform="translate(1071.7491,-397.72584)"
          id="g4809">
@@ -2859,26 +2880,26 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Avenir;-inkscape-font-specification:Avenir;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Avenir;-inkscape-font-specification:Avenir;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e42424;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          x="1402.0811"
-         y="929.41718"
+         y="29.417183"
          id="text4927"><tspan
            sodipodi:role="line"
            id="tspan4929"
            x="1402.0811"
-           y="929.41718"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:Avenir">Preparation of the Recycled Material</tspan></text>
+           y="29.417183"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.50000000000000000px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:Avenir;fill:#e42424;fill-opacity:1;">Preparation of the Recycled Material</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Avenir;-inkscape-font-specification:Avenir;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Avenir;-inkscape-font-specification:Avenir;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e42424;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          x="2271.2634"
-         y="929.41046"
+         y="29.410461"
          id="text4931"><tspan
            sodipodi:role="line"
            x="2271.2634"
-           y="929.41046"
+           y="29.410461"
            id="tspan4933"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:Avenir">Printing chain </tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.50000000000000000px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:Avenir;fill:#e42424;fill-opacity:1;">Printing chain </tspan></text>
       <g
          transform="translate(1454.1203,-397.72584)"
          id="g4941">
@@ -3262,13 +3283,13 @@
          style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker16379-8)" />
       <text
          id="text8553"
-         y="929.41046"
+         y="29.410461"
          x="2664.0835"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Avenir;-inkscape-font-specification:Avenir;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Avenir;-inkscape-font-specification:Avenir;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e42424;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:Avenir"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.50000000000000000px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:Avenir;fill:#e42424;fill-opacity:1;"
            id="tspan8555"
-           y="929.41046"
+           y="29.410461"
            x="2664.0835"
            sodipodi:role="line">Evaluation</tspan></text>
       <text
@@ -3460,7 +3481,7 @@
        sodipodi:nodetypes="ccccccccscccc" />
     <g
        id="g1998"
-       transform="translate(0,20.625)">
+       transform="translate(-56.25,-16.875)">
       <rect
          ry="7.5227823"
          y="521.11835"
@@ -3503,30 +3524,34 @@
        style="display:inline;fill:none;stroke:#000000;stroke-width:2.8125;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        d="m 2687.506,372.07305 v 0.002 c 18.6546,0.13801 33.7228,20.45358 33.7233,45.46692 -5e-4,25.01334 -15.0687,45.32891 -33.7233,45.46692 v 0.002 h 260.83 v -0.11901 c 0.8144,0.0792 1.6306,0.11886 2.4471,0.11901 18.7282,0 33.9104,-20.35705 33.9104,-45.46875 0,-25.1117 -15.1822,-45.46875 -33.9104,-45.46875 -0.8165,1.6e-4 -1.6327,0.0399 -2.4471,0.11902 v -0.11902 z"
        sodipodi:nodetypes="ccccccccscccc" />
-    <rect
-       ry="7.5227823"
-       y="586.63525"
-       x="2707.625"
-       height="63.625"
-       width="316.75"
-       id="rect1977"
-       style="opacity:1;fill:#e42424;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="2729.228"
-       y="629.87537"
-       id="text1854"><tspan
-         sodipodi:role="line"
-         id="tspan1852"
+    <g
+       id="g1757"
+       transform="translate(-1500)">
+      <rect
+         ry="7.5227823"
+         y="586.63525"
+         x="2707.625"
+         height="63.625"
+         width="316.75"
+         id="rect1977"
+         style="opacity:1;fill:#e42424;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="2729.228"
          y="629.87537"
-         style="font-size:37.50000000000000000px;line-height:1.25;stroke-width:1px;fill:#ffffff;"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';stroke-width:1px;fill:#ffffff;"
-           id="tspan1850">Technosphere</tspan></tspan></text>
+         id="text1854"><tspan
+           sodipodi:role="line"
+           id="tspan1852"
+           x="2729.228"
+           y="629.87537"
+           style="font-size:37.5px;line-height:1.25;fill:#ffffff;stroke-width:1px"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#ffffff;stroke-width:1px"
+             id="tspan1850">Technosphere</tspan></tspan></text>
+    </g>
     <g
        id="g1990"
-       transform="translate(-204.375,15)"
+       transform="translate(-223.125,15)"
        style="fill:#0000ff;fill-opacity:1">
       <rect
          ry="7.8349648"
@@ -3538,7 +3563,7 @@
          style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1488.7878"
          y="678.38843"
          id="text1983"><tspan
@@ -3546,7 +3571,7 @@
            id="tspan1981"
            x="1488.7878"
            y="678.38843"
-           style="font-size:37.50000000000000000px;line-height:1.25;stroke-width:1px;fill:#ffffff;fill-opacity:1;">System boundary</tspan></text>
+           style="font-size:37.5px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke-width:1px">System boundary</tspan></text>
     </g>
   </g>
 </svg>

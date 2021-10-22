@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="148mm"
+   viewBox="0 0 210 148"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   sodipodi:docname="Methodology.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0.21969864 : 570.86159 : 1"
+       inkscape:vp_y="0 : -3779.5274 : 0"
+       inkscape:vp_z="790.21971 : 570.86159 : 1"
+       inkscape:persp3d-origin="397.0701 : 383.77498 : 1"
+       id="perspective42" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="9.4974309 : 103.85552 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="221.16409 : 151.48052 : 1"
+       inkscape:persp3d-origin="109.88338 : 94.822321 : 1"
+       id="perspective12" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1263244"
+     inkscape:cx="378.69077"
+     inkscape:cy="263.02633"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:pagecheckerboard="false"
+     inkscape:window-width="2048"
+     inkscape:window-height="1099"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.499998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961"
+       id="rect1204"
+       width="44.5"
+       height="89.5"
+       x="52.811546"
+       y="-207.95917"
+       ry="3.1983955"
+       transform="rotate(90)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.499998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961"
+       id="rect174-0-4"
+       width="44.5"
+       height="89.5"
+       x="52.811546"
+       y="-94.717491"
+       ry="3.1983955"
+       transform="rotate(90)" />
+    <g
+       id="g1340"
+       transform="translate(-3.6539654)">
+      <g
+         id="g1035-1"
+         transform="translate(1.7241229,0.76022407)">
+        <rect
+           style="fill:#f2f2f2;stroke:#333333;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961"
+           id="rect1030-4"
+           width="48.137489"
+           height="9.500001"
+           x="2.179842"
+           y="45.192383"
+           ry="1.4999986" />
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:4.23333px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="12.553208"
+           y="50.9436"
+           id="text1024-1"><tspan
+             sodipodi:role="line"
+             x="12.553208"
+             y="50.9436"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.264583"
+             id="tspan1022-2">Industrial system</tspan></text>
+      </g>
+      <g
+         id="g1166"
+         transform="matrix(0.68421056,0,0,0.68421056,-15.608408,-0.06877233)"
+         style="stroke-width:1.46154">
+        <circle
+           style="fill:#f2f2f2;stroke:#333333;stroke-width:0.730768;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961"
+           id="path1157"
+           cx="35.75671"
+           cy="74"
+           r="4.7500005" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;stroke-width:0.386698"
+           x="34.383839"
+           y="76.392532"
+           id="text1161"><tspan
+             sodipodi:role="line"
+             id="tspan1159"
+             x="34.383839"
+             y="76.392532"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.386698">I</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961"
+       id="rect174"
+       width="64.5"
+       height="59.625866"
+       x="72.166672"
+       y="4.9431038"
+       ry="2.1308053" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="76.427299"
+       y="17.004841"
+       id="text178"><tspan
+         sodipodi:role="line"
+         x="76.427299"
+         y="17.004841"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
+         id="tspan180">1. Identification of the main impacts</tspan><tspan
+         sodipodi:role="line"
+         x="76.427299"
+         y="21.414566"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
+         id="tspan1357">of the value chain on the ecological</tspan><tspan
+         sodipodi:role="line"
+         x="76.427299"
+         y="25.824291"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
+         id="tspan1359">systems</tspan><tspan
+         sodipodi:role="line"
+         x="76.427299"
+         y="30.234016"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
+         id="tspan1361">2. Causal/Effect impacts?</tspan><tspan
+         sodipodi:role="line"
+         x="76.427299"
+         y="34.643742"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
+         id="tspan1353" /></text>
+    <circle
+       style="fill:#f2f2f2;stroke:#333333;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961"
+       id="path1037"
+       cx="105"
+       cy="74"
+       r="34.75" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="11.589015"
+       y="63.869663"
+       id="text178-0"><tspan
+         sodipodi:role="line"
+         x="11.589015"
+         y="63.869663"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
+         id="tspan180-8">1. Definition on the scope</tspan></text>
+    <g
+       id="g1300"
+       transform="translate(-2.3565664,2.3447387)">
+      <g
+         id="g1035-1-8"
+         transform="translate(75.816313,-47.287122)">
+        <rect
+           style="fill:#f2f2f2;stroke:#333333;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961"
+           id="rect1030-4-5"
+           width="48.137489"
+           height="9.500001"
+           x="2.179842"
+           y="45.192383"
+           ry="1.4999986" />
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:4.23333px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="12.553208"
+           y="50.9436"
+           id="text1024-1-9"><tspan
+             sodipodi:role="line"
+             x="12.553208"
+             y="50.9436"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.264583"
+             id="tspan1022-2-2">Global value chain</tspan></text>
+      </g>
+      <g
+         id="g1166-5"
+         transform="matrix(0.68421057,0,0,0.68421057,58.483783,-48.116117)"
+         style="stroke-width:1.46154">
+        <circle
+           style="fill:#f2f2f2;stroke:#333333;stroke-width:0.730768;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961"
+           id="path1157-5"
+           cx="35.75671"
+           cy="74"
+           r="4.7500005" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;stroke-width:0.386698"
+           x="32.837048"
+           y="76.392532"
+           id="text1161-9"><tspan
+             sodipodi:role="line"
+             id="tspan1159-1"
+             x="32.837048"
+             y="76.392532"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.386698">II</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1351"
+       transform="translate(15.446659)">
+      <g
+         id="g1035-1-8-1"
+         transform="translate(143.98601,-0.08688263)">
+        <rect
+           style="fill:#f2f2f2;stroke:#333333;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961"
+           id="rect1030-4-5-2"
+           width="48.137489"
+           height="9.500001"
+           x="2.179842"
+           y="45.192383"
+           ry="1.4999986" />
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:4.23333px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="12.553208"
+           y="50.9436"
+           id="text1024-1-9-5"><tspan
+             sodipodi:role="line"
+             x="12.553208"
+             y="50.9436"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.264583"
+             id="tspan1022-2-2-6">Territorial </tspan></text>
+      </g>
+      <g
+         id="g1166-5-4"
+         transform="matrix(0.68421057,0,0,0.68421057,126.65347,-0.91587763)"
+         style="stroke-width:1.46154">
+        <g
+           id="g1290">
+          <circle
+             style="fill:#f2f2f2;stroke:#333333;stroke-width:0.730768;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961"
+             id="path1157-5-8"
+             cx="35.75671"
+             cy="74"
+             r="4.7500005" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;stroke-width:0.386698"
+             x="31.62776"
+             y="76.444298"
+             id="text1161-9-0"><tspan
+               sodipodi:role="line"
+               id="tspan1159-1-1"
+               x="31.62776"
+               y="76.444298"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.386698">III</tspan></text>
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="67.520874"
+       y="120.7727"
+       id="text178-8"><tspan
+         sodipodi:role="line"
+         x="67.520874"
+         y="120.7727"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
+         id="tspan180-5">1. Identification on the priorities of ES on the </tspan><tspan
+         sodipodi:role="line"
+         x="67.520874"
+         y="125.18241"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
+         id="tspan1363">2. Estimation of the knowledge gaps and uncertainties</tspan><tspan
+         sodipodi:role="line"
+         x="67.520874"
+         y="129.59212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
+         id="tspan1365">3. Territorial impacts that industrial system will be considered</tspan></text>
+    <g
+       id="g1310"
+       transform="translate(5.4915413,-32.743975)">
+      <g
+         id="g1035-1-8-2"
+         transform="translate(73.259872,88.759924)">
+        <rect
+           style="fill:#f2f2f2;stroke:#333333;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961"
+           id="rect1030-4-5-0"
+           width="48.137489"
+           height="9.500001"
+           x="2.179842"
+           y="45.192383"
+           ry="1.4999986" />
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:4.23333px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="12.553208"
+           y="50.9436"
+           id="text1024-1-9-1"><tspan
+             sodipodi:role="line"
+             x="12.553208"
+             y="50.9436"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.264583"
+             id="tspan1022-2-2-1">Synthesis</tspan></text>
+      </g>
+      <g
+         id="g1166-5-2"
+         transform="matrix(0.68421057,0,0,0.68421057,55.927344,87.930929)"
+         style="stroke-width:1.46154">
+        <circle
+           style="fill:#f2f2f2;stroke:#333333;stroke-width:0.730768;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961"
+           id="path1157-5-4"
+           cx="35.75671"
+           cy="74"
+           r="4.7500005" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;stroke-width:0.386698"
+           x="32.063644"
+           y="76.392532"
+           id="text1161-9-5"><tspan
+             sodipodi:role="line"
+             id="tspan1159-1-5"
+             x="32.063644"
+             y="76.392532"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.386698">IV</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:4.23333px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="105.42374"
+       y="72.743141"
+       id="text1024-1-4"><tspan
+         sodipodi:role="line"
+         x="105.42374"
+         y="72.743141"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan1022-2-3">Ecosystem </tspan><tspan
+         sodipodi:role="line"
+         x="105.42374"
+         y="78.130066"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan1355">Services</tspan><tspan
+         sodipodi:role="line"
+         x="105.42374"
+         y="83.42173"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan1330" /></text>
+  </g>
+</svg>

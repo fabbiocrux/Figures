@@ -833,15 +833,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.37148569"
-     inkscape:cx="306.38603"
+     inkscape:zoom="0.40088384"
+     inkscape:cx="1122.5197"
      inkscape:cy="793.70079"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1024"
-     inkscape:window-height="1099"
-     inkscape:window-x="1024"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
      fit-margin-top="0"
@@ -2388,7 +2388,7 @@
        ry="71.662697" />
     <path
        id="rect1932"
-       style="display:inline;fill:none;stroke:#0000ff;stroke-width:2.8125;stroke-miterlimit:4;stroke-dasharray:16.875, 16.875;stroke-dashoffset:0"
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:4.68750004;stroke-miterlimit:4;stroke-dasharray:28.12500023,28.12500023;stroke-dashoffset:0"
        d="M 128.35134,584.05048 H 1376.7245 V 1192.0314 H 816.20006 V 826.09894 h -225 V 693.26406 H 128.35134 Z"
        sodipodi:nodetypes="ccccccccc" />
   </g>
@@ -2563,6 +2563,19 @@
          y="1198.4617"
          style="font-size:37.5px;line-height:1.25;stroke-width:1px"
          id="tspan1794" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1316.2625"
+       y="219.67035"
+       id="text1930-6"><tspan
+         sodipodi:role="line"
+         id="tspan1928-5"
+         x="1316.2625"
+         y="219.67035"
+         style="font-size:31.25px;line-height:1.25;stroke-width:1px">III. <tspan
+   id="tspan1926-7"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.25px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';stroke-width:1px">Quality</tspan></tspan></text>
   </g>
   <g
      inkscape:label="Recycling"
@@ -3458,20 +3471,9 @@
        id="path8037"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <text
-       id="text16375-0-0-7-3"
-       y="1418.3009"
-       x="2309.0137"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
-       xml:space="preserve"><tspan
-         id="tspan16377-8-3-9-8"
-         y="1418.3009"
-         x="2309.0137"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:start;text-anchor:start;stroke-width:1">Feedstock</tspan></text>
     <path
        id="path1886"
-       style="display:inline;fill:#e6e6e6;stroke:#000000;stroke-width:2.8125;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:2.8125;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        d="m 1541.881,372.07305 v 0.002 c 18.6546,0.13801 33.7228,20.45358 33.7233,45.46692 -5e-4,25.01334 -15.0687,45.32891 -33.7233,45.46692 v 0.002 h 260.83 v -0.11901 c 0.8144,0.0792 1.6306,0.11886 2.4471,0.11901 18.7282,0 33.9104,-20.35705 33.9104,-45.46875 0,-25.1117 -15.1822,-45.46875 -33.9104,-45.46875 -0.8165,1.6e-4 -1.6327,0.0399 -2.4471,0.11902 v -0.11902 z"
        sodipodi:nodetypes="ccccccccscccc" />
     <path
@@ -3522,7 +3524,7 @@
     <path
        id="path1918"
        style="display:inline;fill:none;stroke:#000000;stroke-width:2.8125;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       d="m 2687.506,372.07305 v 0.002 c 18.6546,0.13801 33.7228,20.45358 33.7233,45.46692 -5e-4,25.01334 -15.0687,45.32891 -33.7233,45.46692 v 0.002 h 260.83 v -0.11901 c 0.8144,0.0792 1.6306,0.11886 2.4471,0.11901 18.7282,0 33.9104,-20.35705 33.9104,-45.46875 0,-25.1117 -15.1822,-45.46875 -33.9104,-45.46875 -0.8165,1.6e-4 -1.6327,0.0399 -2.4471,0.11902 v -0.11902 z"
+       d="m 2912.506,372.07305 v 0.002 c 18.6546,0.13801 33.7228,20.45358 33.7233,45.46692 -5e-4,25.01334 -15.0687,45.32891 -33.7233,45.46692 v 0.002 h 260.83 v -0.11901 c 0.8144,0.0792 1.6306,0.11886 2.4471,0.11901 18.7282,0 33.9104,-20.35705 33.9104,-45.46875 0,-25.1117 -15.1822,-45.46875 -33.9104,-45.46875 -0.8165,1.6e-4 -1.6327,0.0399 -2.4471,0.11902 v -0.11902 z"
        sodipodi:nodetypes="ccccccccscccc" />
     <g
        id="g1757"

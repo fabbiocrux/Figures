@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="139.00562mm"
-   height="21.166672mm"
-   viewBox="0 0 139.00562 21.166672"
+   width="150mm"
+   height="30mm"
+   viewBox="0 0 150.00001 30"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
@@ -142,7 +142,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.88864813"
-     inkscape:cx="358.11533"
+     inkscape:cx="177.50391"
      inkscape:cy="132.57114"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -182,7 +182,8 @@
        id="rect9230"
        style="fill:#ffffff;fill-opacity:0.871429;stroke:none;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
-       id="g2228">
+       id="g2228"
+       transform="translate(5.4971944,4.4166637)">
       <image
          y="-360.37668"
          x="707.23505"

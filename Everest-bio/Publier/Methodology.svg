@@ -38,7 +38,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1306482"
+     inkscape:zoom="1.5630053"
      inkscape:cx="361.93446"
      inkscape:cy="268.42348"
      inkscape:document-units="mm"
@@ -46,11 +46,11 @@
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:pagecheckerboard="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="847"
+     inkscape:window-width="2048"
+     inkscape:window-height="1099"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid10" />
@@ -63,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -88,55 +88,6 @@
        y="-66.229225"
        ry="2.1803315"
        transform="rotate(90)" />
-    <g
-       id="g1340"
-       transform="translate(-3.6539654)">
-      <g
-         id="g1035-1"
-         transform="translate(1.7241229,0.76022407)">
-        <rect
-           style="fill:#f2f2f2;stroke:#333333;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961"
-           id="rect1030-4"
-           width="48.137489"
-           height="9.500001"
-           x="2.179842"
-           y="45.192383"
-           ry="1.4999986" />
-        <text
-           xml:space="preserve"
-           style="font-weight:500;font-size:4.23333px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-           x="12.553208"
-           y="50.9436"
-           id="text1024-1"><tspan
-             sodipodi:role="line"
-             x="12.553208"
-             y="50.9436"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.264583"
-             id="tspan1022-2">Industrial system</tspan></text>
-      </g>
-      <g
-         id="g1166"
-         transform="matrix(0.68421056,0,0,0.68421056,-15.608408,-0.06877233)"
-         style="stroke-width:1.46154">
-        <circle
-           style="fill:#f2f2f2;stroke:#333333;stroke-width:0.730768;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961"
-           id="path1157"
-           cx="35.75671"
-           cy="74"
-           r="4.7500005" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;stroke-width:0.386698"
-           x="34.383839"
-           y="76.392532"
-           id="text1161"><tspan
-             sodipodi:role="line"
-             id="tspan1159"
-             x="34.383839"
-             y="76.392532"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.386698">I</tspan></text>
-      </g>
-    </g>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961"
        id="rect174"
@@ -156,98 +107,98 @@
        transform="rotate(90)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="76.427299"
-       y="17.004841"
-       id="text178"><tspan
-         sodipodi:role="line"
-         x="76.427299"
-         y="17.004841"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
-         id="tspan180">1. Identification of the main impacts</tspan><tspan
-         sodipodi:role="line"
-         x="76.427299"
-         y="21.414566"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
-         id="tspan1357">of the value chain on the ecological</tspan><tspan
-         sodipodi:role="line"
-         x="76.427299"
-         y="25.824291"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
-         id="tspan1359">systems</tspan><tspan
-         sodipodi:role="line"
-         x="76.427299"
-         y="30.234016"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
-         id="tspan1361">2. Causal/Effect impacts?</tspan><tspan
-         sodipodi:role="line"
-         x="76.427299"
-         y="34.643742"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
-         id="tspan1353" /></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="11.589015"
-       y="63.869663"
+       x="77.776947"
+       y="16.979494"
        id="text178-0"><tspan
          sodipodi:role="line"
-         x="11.589015"
-         y="63.869663"
+         x="77.776947"
+         y="16.979494"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
-         id="tspan180-8">1. Definition on the scope</tspan></text>
+         id="tspan180-8">1. Definition on the technosphere</tspan><tspan
+         sodipodi:role="line"
+         x="77.776947"
+         y="21.389206"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
+         id="tspan145">2. Identification of the major impact</tspan><tspan
+         sodipodi:role="line"
+         x="77.776947"
+         y="25.79892"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
+         id="tspan147">categories</tspan><tspan
+         sodipodi:role="line"
+         x="77.776947"
+         y="30.208632"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
+         id="tspan149">3. Links of impact categories with ES</tspan></text>
+    <rect
+       style="fill:#f2f2f2;stroke:#333333;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961"
+       id="rect1030-4-5"
+       width="48.137489"
+       height="9.500001"
+       x="75.639587"
+       y="0.24999981"
+       ry="1.4999986" />
     <g
-       id="g1300"
-       transform="translate(-2.3565664,2.3447387)">
-      <g
-         id="g1035-1-8"
-         transform="translate(75.816313,-47.287122)">
-        <rect
-           style="fill:#f2f2f2;stroke:#333333;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961"
-           id="rect1030-4-5"
-           width="48.137489"
-           height="9.500001"
-           x="2.179842"
-           y="45.192383"
-           ry="1.4999986" />
-        <text
-           xml:space="preserve"
-           style="font-weight:500;font-size:4.23333px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-           x="12.553208"
-           y="50.9436"
-           id="text1024-1-9"><tspan
-             sodipodi:role="line"
-             x="12.553208"
-             y="50.9436"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.264583"
-             id="tspan1022-2-2">Global value chain</tspan></text>
-      </g>
-      <g
-         id="g1166-5"
-         transform="matrix(0.68421057,0,0,0.68421057,58.483783,-48.116117)"
-         style="stroke-width:1.46154">
-        <circle
-           style="fill:#f2f2f2;stroke:#333333;stroke-width:0.730768;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961"
-           id="path1157-5"
-           cx="35.75671"
-           cy="74"
-           r="4.7500005" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;stroke-width:0.386698"
-           x="32.837048"
-           y="76.392532"
-           id="text1161-9"><tspan
-             sodipodi:role="line"
-             id="tspan1159-1"
-             x="32.837048"
-             y="76.392532"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.386698">II</tspan></text>
-      </g>
+       id="g157"
+       transform="translate(7.9375002)">
+      <rect
+         style="fill:#f2f2f2;stroke:#333333;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961"
+         id="rect1030-4"
+         width="48.137489"
+         height="9.500001"
+         x="0.24999949"
+         y="45.952606"
+         ry="1.4999986" />
+      <circle
+         style="fill:#f2f2f2;stroke:#333333;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961"
+         id="path1157"
+         cx="5.2027454"
+         cy="50.562809"
+         r="3.2500005" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.24121px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="4.2634125"
+         y="52.199806"
+         id="text1161"><tspan
+           sodipodi:role="line"
+           id="tspan1159"
+           x="4.2634125"
+           y="52.199806"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.82749px;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.264583">I</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:4.23333px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="11.022541"
+         y="52.072517"
+         id="text1024-1-9"><tspan
+           sodipodi:role="line"
+           x="11.022541"
+           y="52.072517"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.264583"
+           id="tspan1022-2-2">Global value chain</tspan></text>
     </g>
+    <circle
+       style="fill:#f2f2f2;stroke:#333333;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.501961"
+       id="path1157-5"
+       cx="80.592339"
+       cy="4.8602042"
+       r="3.2500005" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.24121px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="78.594673"
+       y="6.4972"
+       id="text1161-9"><tspan
+         sodipodi:role="line"
+         id="tspan1159-1"
+         x="78.594673"
+         y="6.4972"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.82749px;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.264583">II</tspan></text>
     <g
        id="g1351"
-       transform="translate(15.446659)">
+       transform="translate(10.154992)">
       <g
          id="g1035-1-8-1"
          transform="translate(143.98601,-0.08688263)">
@@ -491,13 +442,12 @@
     <text
        xml:space="preserve"
        style="font-weight:500;font-size:4.23333px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="-92.002106"
-       y="71.56913"
-       id="text1024-1-2"
-       transform="rotate(-90)"><tspan
+       x="81.504456"
+       y="48.129864"
+       id="text1024-1-2"><tspan
          sodipodi:role="line"
-         x="-92.002106"
-         y="71.56913"
+         x="81.504456"
+         y="48.129864"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.264583"
          id="tspan1022-2-5">Life Cycle Analysis</tspan></text>
     <text
@@ -524,12 +474,13 @@
     <text
        xml:space="preserve"
        style="font-weight:500;font-size:4.23333px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="82.545723"
-       y="46.813118"
-       id="text1024-1-2-3"><tspan
+       x="-91.740585"
+       y="72.076073"
+       id="text1024-1-2-3"
+       transform="rotate(-90)"><tspan
          sodipodi:role="line"
-         x="82.545723"
-         y="46.813118"
+         x="-91.740585"
+         y="72.076073"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.264583"
          id="tspan1022-2-5-2">Ecological Models</tspan></text>
     <text
@@ -544,5 +495,47 @@
          y="-127.13935"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.264583"
          id="tspan1602">Urban ES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:4.23333px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="86.590332"
+       y="5.9658008"
+       id="text1024-1"><tspan
+         sodipodi:role="line"
+         x="86.590332"
+         y="5.9658008"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.264583"
+         id="tspan1022-2">Industrial system</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="6.3459644"
+       y="67.280579"
+       id="text178"><tspan
+         sodipodi:role="line"
+         x="6.3459644"
+         y="67.280579"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
+         id="tspan180">1. Identification of the main </tspan><tspan
+         sodipodi:role="line"
+         x="6.3459644"
+         y="71.6903"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
+         id="tspan1357">impacts of the value chain on the </tspan><tspan
+         sodipodi:role="line"
+         x="6.3459644"
+         y="76.100029"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
+         id="tspan141">ecological systems.</tspan><tspan
+         sodipodi:role="line"
+         x="6.3459644"
+         y="80.50975"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
+         id="tspan1361">2. Causal/Effect impacts?</tspan><tspan
+         sodipodi:role="line"
+         x="6.3459644"
+         y="84.919479"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:Helvetica;stroke-width:0.264583"
+         id="tspan1353" /></text>
   </g>
 </svg>

@@ -1,0 +1,2153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="CICES-diagram.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7405288"
+     inkscape:cx="588.65259"
+     inkscape:cy="482.04106"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1365"
+     inkscape:window-height="1099"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:snap-nodes="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       ry="3.2701523"
+       y="1.7941316"
+       x="-61.453884"
+       height="27.657778"
+       width="27.657778"
+       id="rect5767"
+       style="display:inline;opacity:1;fill:#ffdb9d;fill-opacity:1;stroke:#ffffff;stroke-width:0.564444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="display:inline;opacity:1;fill:#aaccff;fill-opacity:1;stroke:#ffffff;stroke-width:0.564444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5773"
+       width="27.657778"
+       height="27.657778"
+       x="-61.453884"
+       y="32.662189"
+       ry="3.2701523" />
+    <rect
+       style="display:inline;opacity:1;fill:#8073cc;fill-opacity:0.392157;stroke:#ffffff;stroke-width:0.564444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7383"
+       width="27.657778"
+       height="27.657778"
+       x="-61.453884"
+       y="174.65524"
+       ry="3.2701523" />
+    <text
+       id="text4879"
+       y="12.363884"
+       x="114.80824"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+       xml:space="preserve"><tspan
+         y="12.363884"
+         x="114.80824"
+         id="tspan4881"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';stroke-width:0.282223">Provisining Services</tspan></text>
+    <circle
+       style="fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1520"
+       cx="-32.72205"
+       cy="105.24953"
+       r="7.25" />
+    <text
+       id="text1503"
+       y="113.33971"
+       x="-41.726429"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+       xml:space="preserve"><tspan
+         y="113.33971"
+         x="-41.726429"
+         id="tspan1501"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';stroke-width:0.282223">1.1.1.1</tspan></text>
+    <g
+       id="g3340">
+      <rect
+         ry="1.7889878"
+         y="20.939629"
+         x="16.226257"
+         height="7.7895937"
+         width="165.56526"
+         id="rect4877"
+         style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:0.423332;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g3322"
+         transform="translate(59.880319)">
+        <text
+           id="text1682"
+           y="25.94857"
+           x="24.751896"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+           xml:space="preserve"><tspan
+             y="25.94857"
+             x="24.751896"
+             id="tspan1680"
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';stroke-width:0.282223">1.1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:4.23333px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="34.831463"
+           y="26.399187"
+           id="text2055"><tspan
+             sodipodi:role="line"
+             id="tspan2053"
+             x="34.831463"
+             y="26.399187"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Biomass</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2075"
+       width="10.384691"
+       height="3.6372774"
+       x="-1.0542834"
+       y="28.729223"
+       ry="1.8186387" />
+    <g
+       id="g2330"
+       transform="translate(2.3774946)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2.9621793,88.996254 H 0.37165731 V 54.48329"
+         id="path2092"
+         sodipodi:nodetypes="ccc" />
+      <g
+         id="g2173"
+         transform="translate(5.2916667,-31.750001)">
+        <g
+           id="g2163">
+          <rect
+             ry="1.8373104"
+             y="96.982483"
+             x="-0.1125653"
+             height="8"
+             width="18"
+             id="rect2100"
+             style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2098"
+             y="103.81074"
+             x="1.1767907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="103.81074"
+               x="1.1767907"
+               id="tspan2096"
+               sodipodi:role="line"
+               style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Food</tspan></text>
+        </g>
+        <g
+           id="g2158">
+          <rect
+             ry="0.68899149"
+             y="95.60508"
+             x="-1.8003207"
+             height="3"
+             width="15.000001"
+             id="rect2132"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2104"
+             y="98.219223"
+             x="-0.59553784"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="98.219223"
+               x="-0.59553784"
+               id="tspan2102"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2191"
+         transform="translate(5.2916667,-20.108334)">
+        <g
+           id="g2181">
+          <rect
+             ry="1.8373104"
+             y="96.982483"
+             x="-0.11256529"
+             height="8"
+             width="22"
+             id="rect2175"
+             style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2179"
+             y="103.81074"
+             x="1.1767907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="103.81074"
+               x="1.1767907"
+               id="tspan2177"
+               sodipodi:role="line"
+               style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Materials</tspan></text>
+        </g>
+        <g
+           id="g2189">
+          <rect
+             ry="0.68899149"
+             y="95.60508"
+             x="-1.8003207"
+             height="3"
+             width="15.000001"
+             id="rect2183"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2187"
+             y="98.219223"
+             x="-0.59553784"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="98.219223"
+               x="-0.59553784"
+               id="tspan2185"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2209"
+         transform="translate(5.2916667,-8.466666)">
+        <g
+           id="g2199">
+          <rect
+             ry="1.8373104"
+             y="96.982483"
+             x="-0.1125653"
+             height="8"
+             width="18"
+             id="rect2193"
+             style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2197"
+             y="103.81074"
+             x="1.1767907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="103.81074"
+               x="1.1767907"
+               id="tspan2195"
+               sodipodi:role="line"
+               style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Energy</tspan></text>
+        </g>
+        <g
+           id="g2207">
+          <rect
+             ry="0.68899149"
+             y="95.60508"
+             x="-1.8003207"
+             height="3"
+             width="15.000001"
+             id="rect2201"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2205"
+             y="98.219223"
+             x="-0.59553784"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="98.219223"
+               x="-0.59553784"
+               id="tspan2203"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+        </g>
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2.9621793,77.281605 H 0.37165731"
+         id="path2585"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2.9621793,65.667207 H 0.37165731"
+         id="path2587"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g2879"
+       transform="translate(35.715005)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2.9621793,88.996254 H 0.37165731 V 54.48329"
+         id="path2819"
+         sodipodi:nodetypes="ccc" />
+      <g
+         id="g2837"
+         transform="translate(5.2916667,-31.750001)">
+        <g
+           id="g2827">
+          <rect
+             ry="1.8373104"
+             y="96.982483"
+             x="-0.1125653"
+             height="8"
+             width="18"
+             id="rect2821"
+             style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2825"
+             y="103.81074"
+             x="1.1767907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="103.81074"
+               x="1.1767907"
+               id="tspan2823"
+               sodipodi:role="line"
+               style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Food</tspan></text>
+        </g>
+        <g
+           id="g2835">
+          <rect
+             ry="0.68899149"
+             y="95.60508"
+             x="-1.8003207"
+             height="3"
+             width="15.000001"
+             id="rect2829"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2833"
+             y="98.219223"
+             x="-0.59553784"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="98.219223"
+               x="-0.59553784"
+               id="tspan2831"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2855"
+         transform="translate(5.2916667,-20.108334)">
+        <g
+           id="g2845">
+          <rect
+             ry="1.8373104"
+             y="96.982483"
+             x="-0.11256529"
+             height="8"
+             width="22"
+             id="rect2839"
+             style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2843"
+             y="103.81074"
+             x="1.1767907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="103.81074"
+               x="1.1767907"
+               id="tspan2841"
+               sodipodi:role="line"
+               style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Materials</tspan></text>
+        </g>
+        <g
+           id="g2853">
+          <rect
+             ry="0.68899149"
+             y="95.60508"
+             x="-1.8003207"
+             height="3"
+             width="15.000001"
+             id="rect2847"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2851"
+             y="98.219223"
+             x="-0.59553784"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="98.219223"
+               x="-0.59553784"
+               id="tspan2849"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2873"
+         transform="translate(5.2916667,-8.466666)">
+        <g
+           id="g2863">
+          <rect
+             ry="1.8373104"
+             y="96.982483"
+             x="-0.1125653"
+             height="8"
+             width="18"
+             id="rect2857"
+             style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2861"
+             y="103.81074"
+             x="1.1767907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="103.81074"
+               x="1.1767907"
+               id="tspan2859"
+               sodipodi:role="line"
+               style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Energy</tspan></text>
+        </g>
+        <g
+           id="g2871">
+          <rect
+             ry="0.68899149"
+             y="95.60508"
+             x="-1.8003207"
+             height="3"
+             width="15.000001"
+             id="rect2865"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2869"
+             y="98.219223"
+             x="-0.59553784"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="98.219223"
+               x="-0.59553784"
+               id="tspan2867"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+        </g>
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2.9621793,77.281605 H 0.37165731"
+         id="path2875"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2.9621793,65.667207 H 0.37165731"
+         id="path2877"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g2941"
+       transform="translate(69.052513)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2.9621793,88.996254 H 0.37165731 V 54.48329"
+         id="path2881"
+         sodipodi:nodetypes="ccc" />
+      <g
+         id="g2899"
+         transform="translate(5.2916667,-31.750001)">
+        <g
+           id="g2889">
+          <rect
+             ry="1.8373104"
+             y="96.982483"
+             x="-0.1125653"
+             height="8"
+             width="18"
+             id="rect2883"
+             style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2887"
+             y="103.81074"
+             x="1.1767907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="103.81074"
+               x="1.1767907"
+               id="tspan2885"
+               sodipodi:role="line"
+               style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Food</tspan></text>
+        </g>
+        <g
+           id="g2897">
+          <rect
+             ry="0.68899149"
+             y="95.60508"
+             x="-1.8003207"
+             height="3"
+             width="15.000001"
+             id="rect2891"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2895"
+             y="98.219223"
+             x="-0.59553784"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="98.219223"
+               x="-0.59553784"
+               id="tspan2893"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2917"
+         transform="translate(5.2916667,-20.108334)">
+        <g
+           id="g2907">
+          <rect
+             ry="1.8373104"
+             y="96.982483"
+             x="-0.11256529"
+             height="8"
+             width="22"
+             id="rect2901"
+             style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2905"
+             y="103.81074"
+             x="1.1767907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="103.81074"
+               x="1.1767907"
+               id="tspan2903"
+               sodipodi:role="line"
+               style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Materials</tspan></text>
+        </g>
+        <g
+           id="g2915">
+          <rect
+             ry="0.68899149"
+             y="95.60508"
+             x="-1.8003207"
+             height="3"
+             width="15.000001"
+             id="rect2909"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2913"
+             y="98.219223"
+             x="-0.59553784"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="98.219223"
+               x="-0.59553784"
+               id="tspan2911"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2935"
+         transform="translate(5.2916667,-8.466666)">
+        <g
+           id="g2925">
+          <rect
+             ry="1.8373104"
+             y="96.982483"
+             x="-0.1125653"
+             height="8"
+             width="18"
+             id="rect2919"
+             style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2923"
+             y="103.81074"
+             x="1.1767907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="103.81074"
+               x="1.1767907"
+               id="tspan2921"
+               sodipodi:role="line"
+               style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Energy</tspan></text>
+        </g>
+        <g
+           id="g2933">
+          <rect
+             ry="0.68899149"
+             y="95.60508"
+             x="-1.8003207"
+             height="3"
+             width="15.000001"
+             id="rect2927"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2931"
+             y="98.219223"
+             x="-0.59553784"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="98.219223"
+               x="-0.59553784"
+               id="tspan2929"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+        </g>
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2.9621793,77.281605 H 0.37165731"
+         id="path2937"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2.9621793,65.667207 H 0.37165731"
+         id="path2939"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g3003"
+       transform="translate(102.39003)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2.9621793,88.996254 H 0.37165731 V 54.48329"
+         id="path2943"
+         sodipodi:nodetypes="ccc" />
+      <g
+         id="g2961"
+         transform="translate(5.2916667,-31.750001)">
+        <g
+           id="g2951">
+          <rect
+             ry="1.8373104"
+             y="96.982483"
+             x="-0.1125653"
+             height="8"
+             width="18"
+             id="rect2945"
+             style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2949"
+             y="103.81074"
+             x="1.1767907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="103.81074"
+               x="1.1767907"
+               id="tspan2947"
+               sodipodi:role="line"
+               style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Food</tspan></text>
+        </g>
+        <g
+           id="g2959">
+          <rect
+             ry="0.68899149"
+             y="95.60508"
+             x="-1.8003207"
+             height="3"
+             width="15.000001"
+             id="rect2953"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2957"
+             y="98.219223"
+             x="-0.59553784"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="98.219223"
+               x="-0.59553784"
+               id="tspan2955"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2979"
+         transform="translate(5.2916667,-20.108334)">
+        <g
+           id="g2969">
+          <rect
+             ry="1.8373104"
+             y="96.982483"
+             x="-0.11256529"
+             height="8"
+             width="22"
+             id="rect2963"
+             style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2967"
+             y="103.81074"
+             x="1.1767907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="103.81074"
+               x="1.1767907"
+               id="tspan2965"
+               sodipodi:role="line"
+               style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Materials</tspan></text>
+        </g>
+        <g
+           id="g2977">
+          <rect
+             ry="0.68899149"
+             y="95.60508"
+             x="-1.8003207"
+             height="3"
+             width="15.000001"
+             id="rect2971"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2975"
+             y="98.219223"
+             x="-0.59553784"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="98.219223"
+               x="-0.59553784"
+               id="tspan2973"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g2997"
+         transform="translate(5.2916667,-8.466666)">
+        <g
+           id="g2987">
+          <rect
+             ry="1.8373104"
+             y="96.982483"
+             x="-0.1125653"
+             height="8"
+             width="18"
+             id="rect2981"
+             style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2985"
+             y="103.81074"
+             x="1.1767907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="103.81074"
+               x="1.1767907"
+               id="tspan2983"
+               sodipodi:role="line"
+               style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Energy</tspan></text>
+        </g>
+        <g
+           id="g2995">
+          <rect
+             ry="0.68899149"
+             y="95.60508"
+             x="-1.8003207"
+             height="3"
+             width="15.000001"
+             id="rect2989"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2993"
+             y="98.219223"
+             x="-0.59553784"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="98.219223"
+               x="-0.59553784"
+               id="tspan2991"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+        </g>
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2.9621793,77.281605 H 0.37165731"
+         id="path2999"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2.9621793,65.667207 H 0.37165731"
+         id="path3001"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g3065"
+       transform="translate(135.72755)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2.9621793,88.996254 H 0.37165731 V 54.48329"
+         id="path3005"
+         sodipodi:nodetypes="ccc" />
+      <g
+         id="g3023"
+         transform="translate(5.2916667,-31.750001)">
+        <g
+           id="g3013">
+          <rect
+             ry="1.8373104"
+             y="96.982483"
+             x="-0.1125653"
+             height="8"
+             width="18"
+             id="rect3007"
+             style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text3011"
+             y="103.81074"
+             x="1.1767907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="103.81074"
+               x="1.1767907"
+               id="tspan3009"
+               sodipodi:role="line"
+               style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Food</tspan></text>
+        </g>
+        <g
+           id="g3021">
+          <rect
+             ry="0.68899149"
+             y="95.60508"
+             x="-1.8003207"
+             height="3"
+             width="15.000001"
+             id="rect3015"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text3019"
+             y="98.219223"
+             x="-0.59553784"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="98.219223"
+               x="-0.59553784"
+               id="tspan3017"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3041"
+         transform="translate(5.2916667,-20.108334)">
+        <g
+           id="g3031">
+          <rect
+             ry="1.8373104"
+             y="96.982483"
+             x="-0.11256529"
+             height="8"
+             width="22"
+             id="rect3025"
+             style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text3029"
+             y="103.81074"
+             x="1.1767907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="103.81074"
+               x="1.1767907"
+               id="tspan3027"
+               sodipodi:role="line"
+               style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Materials</tspan></text>
+        </g>
+        <g
+           id="g3039">
+          <rect
+             ry="0.68899149"
+             y="95.60508"
+             x="-1.8003207"
+             height="3"
+             width="15.000001"
+             id="rect3033"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text3037"
+             y="98.219223"
+             x="-0.59553784"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="98.219223"
+               x="-0.59553784"
+               id="tspan3035"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3059"
+         transform="translate(5.2916667,-8.466666)">
+        <g
+           id="g3049">
+          <rect
+             ry="1.8373104"
+             y="96.982483"
+             x="-0.1125653"
+             height="8"
+             width="18"
+             id="rect3043"
+             style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text3047"
+             y="103.81074"
+             x="1.1767907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="103.81074"
+               x="1.1767907"
+               id="tspan3045"
+               sodipodi:role="line"
+               style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Energy</tspan></text>
+        </g>
+        <g
+           id="g3057">
+          <rect
+             ry="0.68899149"
+             y="95.60508"
+             x="-1.8003207"
+             height="3"
+             width="15.000001"
+             id="rect3051"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text3055"
+             y="98.219223"
+             x="-0.59553784"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="98.219223"
+               x="-0.59553784"
+               id="tspan3053"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+        </g>
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2.9621793,77.281605 H 0.37165731"
+         id="path3061"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2.9621793,65.667207 H 0.37165731"
+         id="path3063"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g3127"
+       transform="translate(169.06505)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2.9621793,88.996254 H 0.37165731 V 54.48329"
+         id="path3067"
+         sodipodi:nodetypes="ccc" />
+      <g
+         id="g3085"
+         transform="translate(5.2916667,-31.750001)">
+        <g
+           id="g3075">
+          <rect
+             ry="1.8373104"
+             y="96.982483"
+             x="-0.1125653"
+             height="8"
+             width="18"
+             id="rect3069"
+             style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text3073"
+             y="103.81074"
+             x="1.1767907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="103.81074"
+               x="1.1767907"
+               id="tspan3071"
+               sodipodi:role="line"
+               style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Food</tspan></text>
+        </g>
+        <g
+           id="g3083">
+          <rect
+             ry="0.68899149"
+             y="95.60508"
+             x="-1.8003207"
+             height="3"
+             width="15.000001"
+             id="rect3077"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text3081"
+             y="98.219223"
+             x="-0.59553784"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="98.219223"
+               x="-0.59553784"
+               id="tspan3079"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3103"
+         transform="translate(5.2916667,-20.108334)">
+        <g
+           id="g3093">
+          <rect
+             ry="1.8373104"
+             y="96.982483"
+             x="-0.11256529"
+             height="8"
+             width="22"
+             id="rect3087"
+             style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text3091"
+             y="103.81074"
+             x="1.1767907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="103.81074"
+               x="1.1767907"
+               id="tspan3089"
+               sodipodi:role="line"
+               style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Materials</tspan></text>
+        </g>
+        <g
+           id="g3101">
+          <rect
+             ry="0.68899149"
+             y="95.60508"
+             x="-1.8003207"
+             height="3"
+             width="15.000001"
+             id="rect3095"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text3099"
+             y="98.219223"
+             x="-0.59553784"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="98.219223"
+               x="-0.59553784"
+               id="tspan3097"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3121"
+         transform="translate(5.2916667,-8.466666)">
+        <g
+           id="g3111">
+          <rect
+             ry="1.8373104"
+             y="96.982483"
+             x="-0.1125653"
+             height="8"
+             width="18"
+             id="rect3105"
+             style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text3109"
+             y="103.81074"
+             x="1.1767907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="103.81074"
+               x="1.1767907"
+               id="tspan3107"
+               sodipodi:role="line"
+               style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Energy</tspan></text>
+        </g>
+        <g
+           id="g3119">
+          <rect
+             ry="0.68899149"
+             y="95.60508"
+             x="-1.8003207"
+             height="3"
+             width="15.000001"
+             id="rect3113"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text3117"
+             y="98.219223"
+             x="-0.59553784"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="98.219223"
+               x="-0.59553784"
+               id="tspan3115"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+        </g>
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2.9621793,77.281605 H 0.37165731"
+         id="path3123"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2.9621793,65.667207 H 0.37165731"
+         id="path3125"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 205.36473,88.996254 h -2.59052 V 54.48329"
+       id="path3129"
+       sodipodi:nodetypes="ccc" />
+    <g
+       id="g3147"
+       transform="translate(207.69422,-31.750001)">
+      <g
+         id="g3137">
+        <rect
+           ry="2.9856293"
+           y="96.982483"
+           x="-0.11256529"
+           height="13"
+           width="22"
+           id="rect3131"
+           style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text3135"
+           y="103.81074"
+           x="1.1767907"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0.85;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+           xml:space="preserve"><tspan
+             y="103.81074"
+             x="1.1767907"
+             id="tspan3133"
+             sodipodi:role="line"
+             style="font-size:5.29167px;stroke-width:0.282223">Seed </tspan><tspan
+             y="108.30865"
+             x="1.1767907"
+             sodipodi:role="line"
+             style="font-size:5.29167px;stroke-width:0.282223"
+             id="tspan3415">collection</tspan></text>
+      </g>
+      <g
+         id="g3145">
+        <rect
+           ry="0.68899149"
+           y="95.60508"
+           x="-1.8003207"
+           height="3"
+           width="15.000001"
+           id="rect3139"
+           style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text3143"
+           y="98.219223"
+           x="-0.59553784"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+           xml:space="preserve"><tspan
+             y="98.219223"
+             x="-0.59553784"
+             id="tspan3141"
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3165"
+       transform="translate(207.69422,-4.2333336)">
+      <g
+         id="g3155">
+        <rect
+           ry="1.8373104"
+           y="96.982483"
+           x="-0.11256529"
+           height="8"
+           width="22"
+           id="rect3149"
+           style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text3153"
+           y="103.81074"
+           x="1.1767907"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+           xml:space="preserve"><tspan
+             y="103.81074"
+             x="1.1767907"
+             id="tspan3151"
+             sodipodi:role="line"
+             style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Materials</tspan></text>
+      </g>
+      <g
+         id="g3163">
+        <rect
+           ry="0.68899149"
+           y="95.60508"
+           x="-1.8003207"
+           height="3"
+           width="15.000001"
+           id="rect3157"
+           style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text3161"
+           y="98.219223"
+           x="-0.59553784"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+           xml:space="preserve"><tspan
+             y="98.219223"
+             x="-0.59553784"
+             id="tspan3159"
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3183"
+       transform="translate(207.69422,7.4083341)">
+      <g
+         id="g3173">
+        <rect
+           ry="1.8373104"
+           y="96.982483"
+           x="-0.1125653"
+           height="8"
+           width="18"
+           id="rect3167"
+           style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text3171"
+           y="103.81074"
+           x="1.1767907"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+           xml:space="preserve"><tspan
+             y="103.81074"
+             x="1.1767907"
+             id="tspan3169"
+             sodipodi:role="line"
+             style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Energy</tspan></text>
+      </g>
+      <g
+         id="g3181">
+        <rect
+           ry="0.68899149"
+           y="95.60508"
+           x="-1.8003207"
+           height="3"
+           width="15.000001"
+           id="rect3175"
+           style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text3179"
+           y="98.219223"
+           x="-0.59553784"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+           xml:space="preserve"><tspan
+             y="98.219223"
+             x="-0.59553784"
+             id="tspan3177"
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 205.36473,77.281605 h -2.59052"
+       id="path3185"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 205.36473,65.667207 h -2.59052"
+       id="path3187"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g3251"
+       transform="translate(235.74005)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2.9621793,88.996254 H 0.37165731 V 54.48329"
+         id="path3191"
+         sodipodi:nodetypes="ccc" />
+      <g
+         id="g3209"
+         transform="translate(5.2916667,-31.750001)">
+        <g
+           id="g3199">
+          <rect
+             ry="1.8373104"
+             y="96.982483"
+             x="-0.1125653"
+             height="8"
+             width="18"
+             id="rect3193"
+             style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text3197"
+             y="103.81074"
+             x="1.1767907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="103.81074"
+               x="1.1767907"
+               id="tspan3195"
+               sodipodi:role="line"
+               style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Food</tspan></text>
+        </g>
+        <g
+           id="g3207">
+          <rect
+             ry="0.68899149"
+             y="95.60508"
+             x="-1.8003207"
+             height="3"
+             width="15.000001"
+             id="rect3201"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text3205"
+             y="98.219223"
+             x="-0.59553784"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="98.219223"
+               x="-0.59553784"
+               id="tspan3203"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3227"
+         transform="translate(5.2916667,-20.108334)">
+        <g
+           id="g3217">
+          <rect
+             ry="1.8373104"
+             y="96.982483"
+             x="-0.11256529"
+             height="8"
+             width="22"
+             id="rect3211"
+             style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text3215"
+             y="103.81074"
+             x="1.1767907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="103.81074"
+               x="1.1767907"
+               id="tspan3213"
+               sodipodi:role="line"
+               style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Materials</tspan></text>
+        </g>
+        <g
+           id="g3225">
+          <rect
+             ry="0.68899149"
+             y="95.60508"
+             x="-1.8003207"
+             height="3"
+             width="15.000001"
+             id="rect3219"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text3223"
+             y="98.219223"
+             x="-0.59553784"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="98.219223"
+               x="-0.59553784"
+               id="tspan3221"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3245"
+         transform="translate(5.2916667,-8.466666)">
+        <g
+           id="g3235">
+          <rect
+             ry="1.8373104"
+             y="96.982483"
+             x="-0.1125653"
+             height="8"
+             width="18"
+             id="rect3229"
+             style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text3233"
+             y="103.81074"
+             x="1.1767907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="103.81074"
+               x="1.1767907"
+               id="tspan3231"
+               sodipodi:role="line"
+               style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">Energy</tspan></text>
+        </g>
+        <g
+           id="g3243">
+          <rect
+             ry="0.68899149"
+             y="95.60508"
+             x="-1.8003207"
+             height="3"
+             width="15.000001"
+             id="rect3237"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text3241"
+             y="98.219223"
+             x="-0.59553784"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="98.219223"
+               x="-0.59553784"
+               id="tspan3239"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1.1</tspan></text>
+        </g>
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2.9621793,77.281605 H 0.37165731"
+         id="path3247"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2.9621793,65.667207 H 0.37165731"
+         id="path3249"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264584px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 272.03973,65.422571 h -2.59052 V 54.528557"
+       id="path3253"
+       sodipodi:nodetypes="ccc" />
+    <g
+       id="g3271"
+       transform="translate(274.36922,-31.750001)">
+      <g
+         id="g3261">
+        <rect
+           ry="1.8373104"
+           y="96.982483"
+           x="-0.1125653"
+           height="8"
+           width="18"
+           id="rect3255"
+           style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:none;stroke-width:0.423335;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text3259"
+           y="103.81074"
+           x="1.1767907"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+           xml:space="preserve"><tspan
+             y="103.81074"
+             x="1.1767907"
+             id="tspan3257"
+             sodipodi:role="line"
+             style="font-size:5.29167px;line-height:1.25;stroke-width:0.282223">.....</tspan></text>
+      </g>
+      <g
+         id="g3269">
+        <rect
+           ry="0.68899149"
+           y="95.60508"
+           x="-1.8003207"
+           height="3"
+           width="15.000001"
+           id="rect3263"
+           style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text3267"
+           y="98.219223"
+           x="-0.59553784"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+           xml:space="preserve"><tspan
+             y="98.219223"
+             x="-0.59553784"
+             id="tspan3265"
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.3.1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g2346"
+       transform="translate(-0.52916667)">
+      <rect
+         ry="4.4960513"
+         y="38.683216"
+         x="1.0489134"
+         height="19.576668"
+         width="29.576666"
+         id="rect1614"
+         style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:0.423333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text1618"
+         y="45.645103"
+         x="15.645706"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.15;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+         xml:space="preserve"
+         transform="scale(1.0127106,0.98744893)"><tspan
+           y="45.645103"
+           x="15.645706"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.282223"
+           id="tspan1624"
+           sodipodi:role="line">Cultivated </tspan><tspan
+           y="50.604874"
+           x="15.645706"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.282223"
+           id="tspan1638"
+           sodipodi:role="line">(Terrestrial)</tspan><tspan
+           y="55.56464"
+           x="15.645706"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.282223"
+           id="tspan1626"
+           sodipodi:role="line">Plants</tspan></text>
+      <g
+         id="g2335"
+         transform="translate(19.050002,-4.2333333)">
+        <g
+           id="g2592"
+           transform="translate(0.52916667,-0.52916667)">
+          <rect
+             ry="0.68899149"
+             y="41.802948"
+             x="-18.081215"
+             height="3"
+             width="12"
+             id="rect2132-4"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2104-4"
+             y="44.417084"
+             x="-16.876432"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="44.417084"
+               x="-16.876432"
+               id="tspan2102-3"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g2614"
+       transform="translate(32.808327)">
+      <rect
+         ry="4.4960513"
+         y="38.683216"
+         x="1.0489134"
+         height="19.576668"
+         width="29.576666"
+         id="rect2594"
+         style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:0.423333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text2602"
+         y="45.645103"
+         x="15.645706"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.15;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+         xml:space="preserve"
+         transform="scale(1.0127106,0.98744893)"><tspan
+           y="45.645103"
+           x="15.645706"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.282223"
+           id="tspan2596"
+           sodipodi:role="line">Cultivated </tspan><tspan
+           y="50.604874"
+           x="15.645706"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.282223"
+           id="tspan2598"
+           sodipodi:role="line">(Aquatic)</tspan><tspan
+           y="55.56464"
+           x="15.645706"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.282223"
+           id="tspan2600"
+           sodipodi:role="line">Plants</tspan></text>
+      <g
+         id="g2612"
+         transform="translate(19.050002,-4.2333333)">
+        <g
+           id="g2610"
+           transform="translate(0.52916667,-0.52916667)">
+          <rect
+             ry="0.68899149"
+             y="41.802948"
+             x="-18.081215"
+             height="3"
+             width="12"
+             id="rect2604"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2608"
+             y="44.417084"
+             x="-16.876432"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="44.417084"
+               x="-16.876432"
+               id="tspan2606"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g2636"
+       transform="translate(66.145825)">
+      <rect
+         ry="4.4960513"
+         y="38.683216"
+         x="1.0489134"
+         height="19.576668"
+         width="29.576666"
+         id="rect2616"
+         style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:0.423333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text2624"
+         y="47.788673"
+         x="15.645706"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.15;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+         xml:space="preserve"
+         transform="scale(1.0127106,0.98744893)"><tspan
+           y="47.788673"
+           x="15.645706"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.282223"
+           id="tspan2622"
+           sodipodi:role="line">Reared</tspan><tspan
+           y="52.748444"
+           x="15.645706"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.282223"
+           sodipodi:role="line"
+           id="tspan2643">Animals</tspan></text>
+      <g
+         id="g2634"
+         transform="translate(19.050002,-4.2333333)">
+        <g
+           id="g2632"
+           transform="translate(0.52916667,-0.52916667)">
+          <rect
+             ry="0.68899149"
+             y="41.802948"
+             x="-18.081215"
+             height="3"
+             width="12"
+             id="rect2626"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2630"
+             y="44.417084"
+             x="-16.876432"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="44.417084"
+               x="-16.876432"
+               id="tspan2628"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g2685"
+       transform="translate(99.483325)">
+      <rect
+         ry="4.4960513"
+         y="38.683216"
+         x="1.0489134"
+         height="19.576668"
+         width="29.576666"
+         id="rect2665"
+         style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:0.423333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text2673"
+         y="45.645103"
+         x="15.645706"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.15;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+         xml:space="preserve"
+         transform="scale(1.0127106,0.98744893)"><tspan
+           y="45.645103"
+           x="15.645706"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.282223"
+           id="tspan2667"
+           sodipodi:role="line">Reared </tspan><tspan
+           y="50.604874"
+           x="15.645706"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.282223"
+           id="tspan2669"
+           sodipodi:role="line">(Aquatic)</tspan><tspan
+           y="55.56464"
+           x="15.645706"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.282223"
+           id="tspan2671"
+           sodipodi:role="line">Animals</tspan></text>
+      <g
+         id="g2683"
+         transform="translate(19.050002,-4.2333333)">
+        <g
+           id="g2681"
+           transform="translate(0.52916667,-0.52916667)">
+          <rect
+             ry="0.68899149"
+             y="41.802948"
+             x="-18.081215"
+             height="3"
+             width="12"
+             id="rect2675"
+             style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2679"
+             y="44.417084"
+             x="-16.876432"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+             xml:space="preserve"><tspan
+               y="44.417084"
+               x="-16.876432"
+               id="tspan2677"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g2723"
+       transform="translate(-20.637545)">
+      <g
+         id="g2707"
+         transform="translate(153.45837)">
+        <rect
+           ry="4.4960513"
+           y="38.683216"
+           x="1.0489134"
+           height="19.576668"
+           width="29.576666"
+           id="rect2687"
+           style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:0.423333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text2695"
+           y="47.788673"
+           x="15.645706"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.15;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+           xml:space="preserve"
+           transform="scale(1.0127106,0.98744893)"><tspan
+             y="47.788673"
+             x="15.645706"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.282223"
+             id="tspan2689"
+             sodipodi:role="line">Wild </tspan><tspan
+             y="52.748444"
+             x="15.645706"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.282223"
+             id="tspan2693"
+             sodipodi:role="line">Plants</tspan></text>
+        <g
+           id="g2705"
+           transform="translate(19.050002,-4.2333333)">
+          <g
+             id="g2703"
+             transform="translate(0.52916667,-0.52916667)">
+            <rect
+               ry="0.68899149"
+               y="41.802948"
+               x="-18.081215"
+               height="3"
+               width="12"
+               id="rect2697"
+               style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <text
+               id="text2701"
+               y="44.417084"
+               x="-16.876432"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+               xml:space="preserve"><tspan
+                 y="44.417084"
+                 x="-16.876432"
+                 id="tspan2699"
+                 sodipodi:role="line"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g2745"
+       transform="translate(12.699939)">
+      <g
+         id="g2743"
+         transform="translate(153.45837)">
+        <rect
+           ry="4.4960513"
+           y="38.683216"
+           x="1.0489134"
+           height="19.576668"
+           width="29.576666"
+           id="rect2725"
+           style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:0.423333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text2731"
+           y="47.788673"
+           x="15.645706"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.15;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+           xml:space="preserve"
+           transform="scale(1.0127106,0.98744893)"><tspan
+             y="47.788673"
+             x="15.645706"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.282223"
+             id="tspan2727"
+             sodipodi:role="line">Wild </tspan><tspan
+             y="52.748444"
+             x="15.645706"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.282223"
+             id="tspan2729"
+             sodipodi:role="line">Animals</tspan></text>
+        <g
+           id="g2741"
+           transform="translate(19.050002,-4.2333333)">
+          <g
+             id="g2739"
+             transform="translate(0.52916667,-0.52916667)">
+            <rect
+               ry="0.68899149"
+               y="41.802948"
+               x="-18.081215"
+               height="3"
+               width="12"
+               id="rect2733"
+               style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <text
+               id="text2737"
+               y="44.417084"
+               x="-16.876432"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+               xml:space="preserve"><tspan
+                 y="44.417084"
+                 x="-16.876432"
+                 id="tspan2735"
+                 sodipodi:role="line"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g2767"
+       transform="translate(46.037423)">
+      <g
+         id="g2765"
+         transform="translate(153.45837)">
+        <rect
+           ry="4.4960513"
+           y="38.683216"
+           x="1.0489134"
+           height="19.576668"
+           width="29.576666"
+           id="rect2747"
+           style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:0.423333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text2753"
+           y="47.788673"
+           x="15.645706"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.15;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+           xml:space="preserve"
+           transform="scale(1.0127106,0.98744893)"><tspan
+             y="47.788673"
+             x="15.645706"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.282223"
+             id="tspan2751"
+             sodipodi:role="line">From </tspan><tspan
+             y="52.748444"
+             x="15.645706"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.282223"
+             sodipodi:role="line"
+             id="tspan2771">Plants</tspan></text>
+        <g
+           id="g2763"
+           transform="translate(19.050002,-4.2333333)">
+          <g
+             id="g2761"
+             transform="translate(0.52916667,-0.52916667)">
+            <rect
+               ry="0.68899149"
+               y="41.802948"
+               x="-18.081215"
+               height="3"
+               width="12"
+               id="rect2755"
+               style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <text
+               id="text2759"
+               y="44.417084"
+               x="-16.876432"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+               xml:space="preserve"><tspan
+                 y="44.417084"
+                 x="-16.876432"
+                 id="tspan2757"
+                 sodipodi:role="line"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g2793"
+       transform="translate(79.374907)">
+      <g
+         id="g2791"
+         transform="translate(153.45837)">
+        <rect
+           ry="4.4960513"
+           y="38.683216"
+           x="1.0489134"
+           height="19.576668"
+           width="29.576666"
+           id="rect2773"
+           style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:0.423333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text2779"
+           y="47.788673"
+           x="15.645706"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.15;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+           xml:space="preserve"
+           transform="scale(1.0127106,0.98744893)"><tspan
+             y="47.788673"
+             x="15.645706"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.282223"
+             id="tspan2775"
+             sodipodi:role="line">From </tspan><tspan
+             y="52.748444"
+             x="15.645706"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.282223"
+             sodipodi:role="line"
+             id="tspan2777">Animals</tspan></text>
+        <g
+           id="g2789"
+           transform="translate(19.050002,-4.2333333)">
+          <g
+             id="g2787"
+             transform="translate(0.52916667,-0.52916667)">
+            <rect
+               ry="0.68899149"
+               y="41.802948"
+               x="-18.081215"
+               height="3"
+               width="12"
+               id="rect2781"
+               style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <text
+               id="text2785"
+               y="44.417084"
+               x="-16.876432"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+               xml:space="preserve"><tspan
+                 y="44.417084"
+                 x="-16.876432"
+                 id="tspan2783"
+                 sodipodi:role="line"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g2815"
+       transform="translate(112.71239)">
+      <g
+         id="g2813"
+         transform="translate(153.45837)">
+        <rect
+           ry="4.4960513"
+           y="38.683216"
+           x="1.0489134"
+           height="19.576668"
+           width="29.576666"
+           id="rect2795"
+           style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:0.423333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text2801"
+           y="48.860458"
+           x="15.645706"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.15;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+           xml:space="preserve"
+           transform="scale(1.0127106,0.98744893)"><tspan
+             y="48.860458"
+             x="15.645706"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.282223"
+             sodipodi:role="line"
+             id="tspan2799">.....</tspan></text>
+        <g
+           id="g2811"
+           transform="translate(19.050002,-4.2333333)">
+          <g
+             id="g2809"
+             transform="translate(0.52916667,-0.52916667)">
+            <rect
+               ry="0.68899149"
+               y="41.802948"
+               x="-18.081215"
+               height="3"
+               width="12"
+               id="rect2803"
+               style="display:inline;fill:#338000;fill-opacity:1;stroke:none;stroke-width:0.423336;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <text
+               id="text2807"
+               y="44.417084"
+               x="-16.876432"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.282223"
+               xml:space="preserve"><tspan
+                 y="44.417084"
+                 x="-16.876432"
+                 id="tspan2805"
+                 sodipodi:role="line"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#f9f9f9;stroke-width:0.282223">1.1.1</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       id="text3326"
+       y="123.48886"
+       x="46.016586"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+       xml:space="preserve"><tspan
+         y="123.48886"
+         x="46.016586"
+         id="tspan3324"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';stroke-width:0.282223">Regulation &amp; Maintenance Services</tspan></text>
+    <text
+       id="text3330"
+       y="165.82224"
+       x="46.016586"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+       xml:space="preserve"><tspan
+         y="165.82224"
+         x="46.016586"
+         id="tspan3328"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';stroke-width:0.282223">Cultural</tspan></text>
+    <g
+       id="g3354"
+       transform="translate(156.1042)">
+      <rect
+         ry="2.6587417"
+         y="20.939631"
+         x="50.13105"
+         height="11.576668"
+         width="49.576668"
+         id="rect3342"
+         style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:0.423333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g3352"
+         transform="translate(59.880319)">
+        <text
+           id="text3346"
+           y="27.844175"
+           x="-8.0564365"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+           xml:space="preserve"><tspan
+             y="27.844175"
+             x="-8.0564365"
+             id="tspan3344"
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';stroke-width:0.282223">1.2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:4.23333px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="0.9647972"
+           y="26.005026"
+           id="text3350"><tspan
+             sodipodi:role="line"
+             id="tspan3348"
+             x="0.9647972"
+             y="26.005026"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Genetic material </tspan><tspan
+             sodipodi:role="line"
+             x="0.9647972"
+             y="30.545286"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+             id="tspan3356">from all biota</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3372"
+       transform="translate(214.31254)">
+      <rect
+         ry="2.6587417"
+         y="20.939631"
+         x="50.13105"
+         height="11.576668"
+         width="31.465275"
+         id="rect3358"
+         style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:0.423333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g3370"
+         transform="translate(59.880319)">
+        <text
+           id="text3362"
+           y="27.844175"
+           x="-8.0564365"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282223"
+           xml:space="preserve"><tspan
+             y="27.844175"
+             x="-8.0564365"
+             id="tspan3360"
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';stroke-width:0.282223">1.2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:4.23333px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="0.9647972"
+           y="26.005026"
+           id="text3368"><tspan
+             sodipodi:role="line"
+             x="0.9647972"
+             y="26.005026"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+             id="tspan3376">Others </tspan><tspan
+             sodipodi:role="line"
+             x="0.9647972"
+             y="30.545286"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+             id="tspan3383">services</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,148 @@
+
+class: middle, left
+
+
+# Agenda
+
+<!-- 1. .content-box-yellow[Who am I?] -->
+1. ERPI Laboratory
+1. Green Fablab
+1. Everest Bio
+1. Proposition and Research axis
+
+
+---
+
+class: top, left
+background-image: url(`r paste0(URL, 'Fabio/vosviewer/Fabio.jpg')`)
+background-position: right
+background-size: 70%
+
+
+# Who am I?
+
+.pull-left-1[
+```{r, echo=FALSE, out.width = '60%', fig.align='center'}
+knitr::include_graphics(paste0(URL, 'Fabio/Fabio.png'))
+```
+]
+
+---
+
+class: left middle
+
+## My research questions so far...
+
+
+---
+
+class: left
+background-position: 0px 75px
+background-size: contain
+
+background-image: url(`r paste0(URL, 'DRAM/DRAM-Clean-01.jpg')`)
+
+## Are open source 3D printer good enough? 
+
+---
+
+## Are open source 3D printer good enough? 
+
+Geometrical accuracy perspective
+
+```{r , include=TRUE, echo=FALSE, fig.cap=" ", out.width = '80%', fig.align='center'}
+knitr::include_graphics(paste0(URL, 'Metodologies/Master-recherche/Master-00.png'))
+```
+
+.footnote[
+Cruz Sanchez, F.A., Boudaoud, H., Muller, L., Camargo, M., 2014. Towards a standard experimental protocol for open source additive manufacturing. Virtual Phys. Prototyp. 9, 151–167. https://doi.org/10.1080/17452759.2014.919553
+]
+
+---
+
+class: left
+background-image: url(`r paste0(URL, 'DRAM/DRAM-Clean-02.jpg')`)
+background-position: 0px 75px
+background-size: contain
+
+## Can we print recycled objects?
+
+Recycling feasibility (Lab conditions)
+
+---
+
+class: left
+background-image: url(`r paste0(URL, 'DRAM/DRAM-Clean-03.jpg')`)
+background-position: 0px 75px
+background-size: contain
+
+## What about the supply chain printed recycled objects?
+
+.pull-down[Research of Pavlo Santander. Thesis Defended Dec. 2020]
+
+
+---
+
+class: left
+background-image: url(`r paste0(URL, 'DRAM/DRAM-05.jpeg')`)
+background-position: 100px 125px
+background-size: 80%
+
+
+## How an innovation lab could could help as agent of change? 
+
+.footnote[
+Roux-Marchand, T., Cruz, F., Dupont, L., Camargo, M., Osorio, F., 2020. Connecting the strategic intent of innovation labs and projects: the case of the Green Fablab, in: 2020 IEEE International Conference on Engineering, Technology and Innovation (ICE/ITMC). IEEE, pp. 1–10. https://doi.org/10.1109/ICE/ITMC49519.2020.9198320
+
+Alexandre, A., Cruz Sanchez, F.A., Boudaoud, H., Camargo, M., Pearce, J.M., 2020. Mechanical Properties of Direct Waste Printing of Polylactic Acid with Universal Pellets Extruder: Comparison to Fused Filament Fabrication on Open-Source Desktop Three-Dimensional Printers. 3D Print. Addit. Manuf. 3dp.2019.0195. https://doi.org/10.1089/3dp.2019.0195
+]
+
+
+
+
+---
+
+## What if distributed recycling could be aligned with Circular Economy priorities?
+
+```{r, out.width = '80%', fig.align='center'}
+knitr::include_graphics(paste0(URL, 'DRAM/DRAM-10.png'))
+```
+
+Cruz Sanchez, F.A., Boudaoud, H., Camargo, M., Pearce, J.M., 2020. Plastic recycling in additive manufacturing: A systematic literature review and opportunities for the circular economy. J. Clean. Prod. 264, 121602. https://doi.org/10.1016/j.jclepro.2020.121602
+
+---
+
+class: middle
+
+# However...
+
+.left-column[
+```{r, out.width = '80%', fig.align='center'}
+knitr::include_graphics(paste0(URL, 'Various/Signos/attention-00.png'))
+```
+]
+
+.right-column[
+
+- Technical and economic criteria alone do not (yet) allow for informed decisions. 
+
+
+- Where is the environment in the techno-centrical approaches?
+
+-  The root of the plastic waste problem needs to be addressed: the extraction and production.
+-  Responsibility to act in the plastics economy
+
+- **Adaptive injustice**: *those who find ways to adapt to changing social realities, whether forced or voluntary, are not those who are responsible for the negative changes to which they are adapting. Specifically, it is an adaptive injustice to expect communities to figure out what to do with continual flow of plastics into the economy.*
+
+.content-box-red[**It’s time to retire this ‘privatizing profits, socializing costs’ model.**]
+
+]
+
+
+
+.footnote[
+Conlon, K., 2020. Adaptive injustice: Responsibility to act in the plastics economy. Resour. Conserv. Recycl. 153, 104563. https://doi.org/10.1016/j.resconrec.2019.104563
+]
+
+
+---

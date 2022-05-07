@@ -21,6 +21,16 @@
      id="defs17835">
     <inkscape:path-effect
        effect="spiro"
+       id="path-effect2223"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2219"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
        id="path-effect12009"
        is_visible="true"
        lpeversion="1" />
@@ -855,16 +865,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.40377591"
-     inkscape:cx="885.39211"
-     inkscape:cy="1638.285"
+     inkscape:zoom="0.20824177"
+     inkscape:cx="1015.6464"
+     inkscape:cy="2192.1635"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1440"
+     inkscape:window-width="1280"
      inkscape:window-height="847"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-x="221"
+     inkscape:window-y="134"
      inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -3696,6 +3706,1208 @@
            inkscape:export-ydpi="100.01324"><tspan
              sodipodi:role="line"
              id="tspan1795"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:37.5px;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';fill:#000000;stroke-width:0.9375"
+             x="1176.7107"
+             y="952.49048">Technical system</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g2215">
+      <g
+         id="g1838"
+         transform="translate(1110.4342,37.184048)"
+         inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+         inkscape:export-xdpi="100.01324"
+         inkscape:export-ydpi="100.01324"
+         style="display:inline">
+        <rect
+           style="display:inline;opacity:1;fill:#e9afaf;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1828"
+           width="654.24994"
+           height="466.74997"
+           x="1166.0311"
+           y="-68.374947"
+           ry="21.033155" />
+        <rect
+           style="display:inline;opacity:1;fill:#e5ffd5;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1830"
+           width="654.24994"
+           height="466.74997"
+           x="-67.555878"
+           y="-66.968689"
+           ry="21.033155" />
+        <rect
+           style="display:inline;opacity:1;fill:#6699ff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1832"
+           width="654.24994"
+           height="466.74997"
+           x="566.0293"
+           y="-65.562439"
+           ry="21.033155" />
+        <rect
+           style="display:inline;opacity:1;fill:#ffeeaa;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1834"
+           width="982.37494"
+           height="466.74997"
+           x="-67.555878"
+           y="401.78314"
+           ry="21.033155" />
+        <rect
+           style="display:inline;opacity:1;fill:#d5f6ff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1836"
+           width="982.37494"
+           height="466.74997"
+           x="837.90613"
+           y="399.36212"
+           ry="21.033155" />
+      </g>
+      <rect
+         style="display:inline;fill:#ffeeaa;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1840"
+         width="1052.6875"
+         height="466.74997"
+         x="583.87891"
+         y="282.21683"
+         ry="21.033155"
+         inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+         inkscape:export-xdpi="100.01324"
+         inkscape:export-ydpi="100.01324"
+         transform="translate(1115.0699,62.60383)" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:41.25px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.9375"
+         x="782.68109"
+         y="-47.379303"
+         id="text1844"
+         inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+         inkscape:export-xdpi="100.01324"
+         inkscape:export-ydpi="100.01324"
+         transform="translate(1115.0699,62.60383)"><tspan
+           sodipodi:role="line"
+           id="tspan1842"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.25px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#333333;stroke-width:0.9375"
+           x="782.68109"
+           y="-47.379303">Social</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:41.25px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.9375"
+         x="51.431091"
+         y="-47.379303"
+         id="text1848"
+         inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+         inkscape:export-xdpi="100.01324"
+         inkscape:export-ydpi="100.01324"
+         transform="translate(1115.0699,62.60383)"><tspan
+           sodipodi:role="line"
+           id="tspan1846"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.25px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#333333;stroke-width:0.9375"
+           x="51.431091"
+           y="-47.379303">Environmental</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:41.25px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.9375"
+         x="1438.931"
+         y="-47.379303"
+         id="text1852"
+         inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+         inkscape:export-xdpi="100.01324"
+         inkscape:export-ydpi="100.01324"
+         transform="translate(1115.0699,62.60383)"><tspan
+           sodipodi:role="line"
+           id="tspan1850"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.25px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#333333;stroke-width:0.9375"
+           x="1438.931"
+           y="-47.379303">Economical</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:41.25px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.9375"
+         x="1438.931"
+         y="-47.379303"
+         id="text1856"
+         inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+         inkscape:export-xdpi="100.01324"
+         inkscape:export-ydpi="100.01324"
+         transform="translate(1115.0699,62.60383)"><tspan
+           sodipodi:role="line"
+           id="tspan1854"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.25px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#333333;stroke-width:0.9375"
+           x="1438.931"
+           y="-47.379303">Economical</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:41.25px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.9375"
+         x="70.18103"
+         y="828.24567"
+         id="text1860"
+         inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+         inkscape:export-xdpi="100.01324"
+         inkscape:export-ydpi="100.01324"
+         transform="translate(1115.0699,62.60383)"><tspan
+           sodipodi:role="line"
+           id="tspan1858"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.25px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#333333;stroke-width:0.9375"
+           x="70.18103"
+           y="828.24567">Political</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:41.25px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.9375"
+         x="1438.931"
+         y="828.24567"
+         id="text1865"
+         inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+         inkscape:export-xdpi="100.01324"
+         inkscape:export-ydpi="100.01324"
+         transform="translate(1115.0699,62.60383)"><tspan
+           sodipodi:role="line"
+           id="tspan1863"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.25px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#333333;stroke-width:0.9375"
+           x="1438.931"
+           y="828.24567">Technological</tspan></text>
+      <rect
+         style="display:inline;opacity:0.8;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:2.8125;stroke-miterlimit:4;stroke-dasharray:22.5, 22.5;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1867"
+         width="1887.8369"
+         height="933.08075"
+         x="-72.191498"
+         y="-92.388474"
+         ry="16.283472"
+         inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+         inkscape:export-xdpi="100.01324"
+         inkscape:export-ydpi="100.01324"
+         transform="translate(1115.0699,62.60383)" />
+      <text
+         xml:space="preserve"
+         style="font-weight:500;font-size:37.5px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.9375"
+         x="513.51569"
+         y="894.16162"
+         id="text1871"
+         inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+         inkscape:export-xdpi="100.01324"
+         inkscape:export-ydpi="100.01324"
+         transform="translate(1115.0699,62.60383)"><tspan
+           sodipodi:role="line"
+           id="tspan1869"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';fill:#0000ff;stroke-width:0.9375"
+           x="513.51569"
+           y="894.16162">Local context</tspan></text>
+      <path
+         style="display:inline;fill:none;stroke:#0000ff;stroke-width:4.6875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:14.0625, 14.0625;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 416.8745,880.90245 80.4209,-1.5806"
+         id="path1873"
+         inkscape:path-effect="#path-effect2219"
+         inkscape:original-d="m 416.8745,880.90245 c 30.5579,-1.0527 49.8649,-1.0527 80.4209,-1.5806"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+         inkscape:export-xdpi="100.01324"
+         inkscape:export-ydpi="100.01324"
+         transform="translate(1115.0699,62.60383)" />
+      <path
+         style="display:inline;fill:#222222;fill-opacity:1;stroke:#000000;stroke-width:4.6875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -33.125529,881.00195 80.420969,-1.5806"
+         id="path1875"
+         inkscape:path-effect="#path-effect2223"
+         inkscape:original-d="m -33.125529,881.00195 c 30.5579295,-1.0527 49.864919,-1.0527 80.420969,-1.5806"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+         inkscape:export-xdpi="100.01324"
+         inkscape:export-ydpi="100.01324"
+         transform="translate(1115.0699,62.60383)" />
+      <g
+         id="g2213">
+        <rect
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.77165"
+           id="rect1877"
+           width="1779.4783"
+           height="779.48236"
+           x="1097.0577"
+           y="47.52195"
+           ry="10.096242"
+           inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+           inkscape:export-xdpi="100.01324"
+           inkscape:export-ydpi="100.01324" />
+        <g
+           id="g2207"
+           inkscape:export-xdpi="100.01324"
+           inkscape:export-ydpi="100.01324"
+           transform="matrix(0.99999792,0,0,1.0000005,0.00377105,-3.0677332e-5)"
+           style="stroke-width:1"
+           inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png">
+          <rect
+             ry="4.3265872"
+             y="179.96867"
+             x="1497.1736"
+             height="167.75"
+             width="642.27307"
+             id="rect1879"
+             style="display:inline;opacity:1;fill:#f4d7d7;fill-opacity:0.392157;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 1;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text1883"
+             y="164.20135"
+             x="1817.3488"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:28.75px;line-height:0%;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:28.75px;line-height:1;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';text-align:center;text-anchor:middle;stroke-width:1px"
+               y="164.20135"
+               x="1817.3488"
+               sodipodi:role="line"
+               id="tspan1881">Recovery (I)</tspan></text>
+          <rect
+             ry="9.7777796"
+             y="223.27751"
+             x="2169.5552"
+             height="379.10315"
+             width="363.27423"
+             id="rect1885"
+             style="display:inline;opacity:1;fill:#e3dedb;fill-opacity:0.392157;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 1;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:28.75px;line-height:0%;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="2012.8479"
+             y="709.03754"
+             id="text1891"><tspan
+               sodipodi:role="line"
+               id="tspan1887"
+               x="2012.8479"
+               y="709.03754"
+               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:28.75px;line-height:1;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';text-align:center;text-anchor:middle;stroke-width:1px">Feedstock </tspan><tspan
+               sodipodi:role="line"
+               x="2017.1155"
+               y="737.78754"
+               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:28.75px;line-height:1;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';text-align:center;text-anchor:middle;stroke-width:1px"
+               id="tspan1889">(IV) </tspan></text>
+          <rect
+             ry="7.2281709"
+             y="402.58456"
+             x="1500.0189"
+             height="280.25"
+             width="282.88318"
+             id="rect1893"
+             style="display:inline;opacity:1;fill:#82ccdd;fill-opacity:0.392157;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 1;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text1899"
+             y="709.03754"
+             x="1605.1855"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:28.75px;line-height:0%;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:28.75px;line-height:1;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';text-align:center;text-anchor:middle;stroke-width:1px"
+               y="709.03754"
+               x="1605.1855"
+               id="tspan1895"
+               sodipodi:role="line">Compounding </tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:28.75px;line-height:1;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';text-align:center;text-anchor:middle;stroke-width:1px"
+               y="737.78754"
+               x="1605.1855"
+               sodipodi:role="line"
+               id="tspan1897">(III)</tspan></text>
+          <rect
+             style="display:inline;opacity:1;fill:#f4ce5e;fill-opacity:0.392157;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 1;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect1901"
+             width="359"
+             height="500.07266"
+             x="1133.4353"
+             y="178.59947"
+             ry="12.897812" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:28.75px;line-height:0%;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="1293.5536"
+             y="705.28754"
+             id="text1905"><tspan
+               sodipodi:role="line"
+               x="1293.5536"
+               y="705.28754"
+               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:28.75px;line-height:1;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';text-align:center;text-anchor:middle;stroke-width:1px"
+               id="tspan1903">Preparation (II)</tspan></text>
+          <rect
+             style="display:inline;opacity:1;fill:#8073cc;fill-opacity:0.196078;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 1;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect1907"
+             width="360.24542"
+             height="278.57617"
+             x="1796.2689"
+             y="402.58456"
+             ry="7.1850014" />
+          <text
+             id="text1911"
+             y="718.41254"
+             x="2331.8105"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:28.75px;line-height:0%;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:28.75px;line-height:1;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';text-align:center;text-anchor:middle;stroke-width:1px"
+               y="718.41254"
+               x="2331.8105"
+               sodipodi:role="line"
+               id="tspan1909">Printing (V)</tspan></text>
+          <g
+             id="g2157"
+             transform="translate(3.992539e-6)"
+             style="display:inline;stroke-width:1">
+            <path
+               sodipodi:nodetypes="cc"
+               inkscape:connector-curvature="0"
+               id="path1913"
+               d="M 2545.1882,62.603833 V 793.8538"
+               style="fill:none;fill-rule:evenodd;stroke:#1774e9;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:36.0001, 36.0001;stroke-dashoffset:0;stroke-opacity:1" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#1774e9;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:36.0001, 36.0001;stroke-dashoffset:0;stroke-opacity:1"
+               d="M 2153.6882,62.603833 V 382.59634 h -656.25 V 793.8538"
+               id="path1915"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cccc" />
+            <g
+               id="g1925"
+               transform="translate(1071.7491,-397.72584)"
+               style="stroke-width:1">
+              <rect
+                 style="fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 id="rect1917"
+                 width="157.07591"
+                 height="92.25"
+                 x="730.17712"
+                 y="912.55469"
+                 ry="21.186487" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+                 x="741.63989"
+                 y="949.90527"
+                 id="text1923"><tspan
+                   style="font-size:30px;line-height:1.25;stroke-width:1"
+                   sodipodi:role="line"
+                   id="tspan1919"
+                   x="741.63989"
+                   y="949.90527">Feedstock</tspan><tspan
+                   id="tspan1921"
+                   style="font-size:30px;line-height:1.25;stroke-width:1"
+                   sodipodi:role="line"
+                   x="741.63989"
+                   y="987.40527">Fabrication</tspan></text>
+            </g>
+            <g
+               transform="translate(1681.7917,-397.72584)"
+               id="g1935"
+               style="stroke-width:1">
+              <rect
+                 ry="14.303353"
+                 y="927.53998"
+                 x="684.56976"
+                 height="62.279526"
+                 width="157.94882"
+                 id="rect1927"
+                 style="fill:#aaccff;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+              <text
+                 id="text1933"
+                 y="953.71393"
+                 x="715.41675"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+                 xml:space="preserve"><tspan
+                   style="font-size:30px;line-height:100%;stroke-width:1"
+                   y="953.71393"
+                   x="715.41675"
+                   id="tspan1929"
+                   sodipodi:role="line">Printed </tspan><tspan
+                   style="font-size:30px;line-height:100%;stroke-width:1"
+                   id="tspan1931"
+                   y="983.71393"
+                   x="715.41675"
+                   sodipodi:role="line">Product</tspan></text>
+            </g>
+            <g
+               id="g1937"
+               transform="translate(846.14061,-297.72584)"
+               style="stroke-width:1" />
+            <g
+               transform="translate(1046.866,-610.49887)"
+               id="g1959"
+               style="stroke-width:1">
+              <g
+                 transform="translate(-447.59731,212.77303)"
+                 id="g1945"
+                 style="stroke-width:1">
+                <rect
+                   ry="14.303353"
+                   y="927.53998"
+                   x="757.48114"
+                   height="62.279526"
+                   width="140.23228"
+                   id="rect1939"
+                   style="fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+                <text
+                   id="text1943"
+                   y="968.83844"
+                   x="774.94427"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+                   xml:space="preserve"><tspan
+                     style="font-size:30px;line-height:1.25;stroke-width:1"
+                     y="968.83844"
+                     x="774.94427"
+                     id="tspan1941"
+                     sodipodi:role="line">Cleaning</tspan></text>
+              </g>
+              <g
+                 id="g1955"
+                 transform="translate(-429.10413,52.773)"
+                 style="stroke-width:1">
+                <g
+                   id="g1953"
+                   style="stroke-width:1">
+                  <text
+                     id="text1949"
+                     y="1028.714"
+                     x="771.29651"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+                     xml:space="preserve"><tspan
+                       style="font-size:30px;line-height:1.25;stroke-width:1"
+                       y="1028.714"
+                       x="771.29651"
+                       id="tspan1947"
+                       sodipodi:role="line">Water</tspan></text>
+                  <rect
+                     ry="14.240965"
+                     y="987.84436"
+                     x="749.74261"
+                     height="62.007874"
+                     width="118.72297"
+                     id="rect1951"
+                     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:6.00001, 6.00001;stroke-dashoffset:0;stroke-opacity:1" />
+                </g>
+              </g>
+              <path
+                 inkscape:connector-curvature="0"
+                 inkscape:connector-type="polyline"
+                 id="path1957"
+                 d="m 377.99997,1101.0554 v 32.6016"
+                 style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00001, 4.00001;stroke-dashoffset:0;stroke-opacity:1;marker-mid:none;marker-end:url(#Arrow1Lend-0)" />
+            </g>
+            <path
+               style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-0)"
+               d="m 1333.2723,561.5021 h 19.4864"
+               id="path1961"
+               inkscape:connector-type="polyline"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-0)"
+               d="m 1765.8384,561.5021 h 33.8976"
+               id="path1963"
+               inkscape:connector-type="polyline"
+               inkscape:connector-curvature="0" />
+            <g
+               transform="translate(-935.4289,600.7486)"
+               id="g1999"
+               style="stroke-width:1">
+              <g
+                 id="g1971"
+                 transform="translate(1769.8361,-998.47447)"
+                 style="stroke-width:1">
+                <rect
+                   style="fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                   id="rect1965"
+                   width="246.53149"
+                   height="62.279526"
+                   x="684.56976"
+                   y="927.53998"
+                   ry="14.303353" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+                   x="729.19537"
+                   y="966.28961"
+                   id="text1969"><tspan
+                     style="font-size:30px;line-height:1.25;stroke-width:1"
+                     sodipodi:role="line"
+                     id="tspan1967"
+                     x="729.19537"
+                     y="966.28961">Agglutination</tspan></text>
+              </g>
+              <g
+                 id="g1983"
+                 style="stroke-width:1">
+                <g
+                   id="g1979"
+                   transform="translate(1715.7202,-1160.9354)"
+                   style="stroke-width:1">
+                  <text
+                     xml:space="preserve"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+                     x="739.89087"
+                     y="1028.8823"
+                     id="text1975"><tspan
+                       style="font-size:30px;line-height:1.25;stroke-width:1"
+                       sodipodi:role="line"
+                       id="tspan1973"
+                       x="739.89087"
+                       y="1028.8823">Pigments</tspan></text>
+                  <rect
+                     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:6.00001, 6.00001;stroke-dashoffset:0;stroke-opacity:1"
+                     id="rect1977"
+                     width="122.24409"
+                     height="62.007874"
+                     x="732.82153"
+                     y="990.30524"
+                     ry="14.240965" />
+                </g>
+                <path
+                   style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00001, 4.00001;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-6)"
+                   d="m 2509.6638,-108.92261 v 32.54913"
+                   id="path1981"
+                   inkscape:connector-type="polyline"
+                   inkscape:connector-curvature="0" />
+              </g>
+              <g
+                 id="g1997"
+                 style="stroke-width:1">
+                <g
+                   transform="translate(1849.8359,-1158.4745)"
+                   id="g1993"
+                   style="stroke-width:1">
+                  <g
+                     id="g1991"
+                     style="stroke-width:1">
+                    <text
+                       xml:space="preserve"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+                       x="740.98218"
+                       y="1028.8823"
+                       id="text1987"><tspan
+                         style="font-size:30px;line-height:1.25;stroke-width:1"
+                         sodipodi:role="line"
+                         id="tspan1985"
+                         x="740.98218"
+                         y="1028.8823">Additives</tspan></text>
+                    <rect
+                       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:6.00001, 6.00001;stroke-dashoffset:0;stroke-opacity:1"
+                       id="rect1989"
+                       width="122.24409"
+                       height="62.007874"
+                       x="734.66724"
+                       y="987.84436"
+                       ry="14.240965" />
+                  </g>
+                </g>
+                <path
+                   inkscape:connector-curvature="0"
+                   inkscape:connector-type="polyline"
+                   id="path1995"
+                   d="m 2645.6252,-108.92261 v 32.701489"
+                   style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00001, 4.00001;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-6)" />
+              </g>
+            </g>
+            <path
+               style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00001, 4.00001;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-6-7)"
+               d="M 1715.9671,694.73311 V 621.23489"
+               id="path2001"
+               inkscape:connector-type="polyline"
+               inkscape:connector-curvature="0" />
+            <g
+               transform="translate(-948.3846,600.7486)"
+               id="g2007"
+               style="stroke-width:1">
+              <g
+                 id="g2005"
+                 style="stroke-width:1">
+                <g
+                   transform="translate(1782.7918,-798.47447)"
+                   id="g2003"
+                   style="stroke-width:1" />
+              </g>
+            </g>
+            <text
+               id="text2011"
+               y="85.66716"
+               x="1402.0811"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35px;line-height:0%;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';stroke-width:1px"
+                 y="85.66716"
+                 x="1402.0811"
+                 id="tspan2009"
+                 sodipodi:role="line">Pre-treatment of the Recycled Material</tspan></text>
+            <text
+               id="text2015"
+               y="85.660454"
+               x="2271.2634"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35px;line-height:0%;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';stroke-width:1px"
+                 id="tspan2013"
+                 y="85.660454"
+                 x="2271.2634"
+                 sodipodi:role="line">Printing chain </tspan></text>
+            <g
+               id="g2023"
+               transform="translate(1454.1203,-397.72584)"
+               style="stroke-width:1">
+              <rect
+                 style="fill:#aaccff;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 id="rect2017"
+                 width="157.07591"
+                 height="62.279526"
+                 x="730.17712"
+                 y="927.53998"
+                 ry="14.303353" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+                 x="738.35132"
+                 y="966.25299"
+                 id="text2021"><tspan
+                   style="font-size:30px;line-height:1.25;stroke-width:1"
+                   sodipodi:role="line"
+                   id="tspan2019"
+                   x="738.35132"
+                   y="966.25299">3D Printing</tspan></text>
+            </g>
+            <g
+               id="g2031"
+               transform="translate(1636.1844,-617.72584)"
+               style="stroke-width:1">
+              <rect
+                 style="fill:#aaccff;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 id="rect2025"
+                 width="157.94882"
+                 height="62.279526"
+                 x="730.17712"
+                 y="852.53998"
+                 ry="14.303353" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+                 x="785.65845"
+                 y="893.42828"
+                 id="text2029"><tspan
+                   style="font-size:30px;line-height:1.25;stroke-width:1"
+                   sodipodi:role="line"
+                   id="tspan2027"
+                   x="785.65845"
+                   y="893.42828">Use</tspan></text>
+            </g>
+            <path
+               inkscape:connector-curvature="0"
+               inkscape:connector-type="polyline"
+               id="path2033"
+               d="m 2154.2134,561.50222 h 27.8462"
+               style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-0)" />
+            <g
+               transform="translate(454.86278,-398.05215)"
+               id="g2043"
+               style="stroke-width:1">
+              <rect
+                 style="fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 id="rect2035"
+                 width="157.94882"
+                 height="62.279526"
+                 x="719.85376"
+                 y="925.73053"
+                 ry="14.303353" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+                 x="737.2608"
+                 y="951.88983"
+                 id="text2041"><tspan
+                   style="font-size:30px;line-height:100%;stroke-width:1"
+                   sodipodi:role="line"
+                   id="tspan2037"
+                   x="737.2608"
+                   y="951.88983">Size </tspan><tspan
+                   style="font-size:30px;line-height:100%;stroke-width:1"
+                   id="tspan2039"
+                   sodipodi:role="line"
+                   x="737.2608"
+                   y="981.88983">Reduction</tspan></text>
+            </g>
+            <g
+               id="g2069"
+               transform="translate(456.58875,-654.30857)"
+               style="stroke-width:1">
+              <rect
+                 ry="14.303353"
+                 y="925.70123"
+                 x="691.55298"
+                 height="62.279526"
+                 width="211.09843"
+                 id="rect2045"
+                 style="fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+              <text
+                 id="text2051"
+                 y="951.70673"
+                 x="796.74329"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+                 xml:space="preserve"><tspan
+                   style="font-size:30px;line-height:100%;text-align:center;text-anchor:middle;stroke-width:1"
+                   y="951.70673"
+                   x="796.74329"
+                   id="tspan2047"
+                   sodipodi:role="line">Post-consumer</tspan><tspan
+                   style="font-size:30px;line-height:100%;text-align:center;text-anchor:middle;stroke-width:1"
+                   id="tspan2049"
+                   y="981.70673"
+                   x="796.74329"
+                   sodipodi:role="line">Plastic</tspan></text>
+              <rect
+                 style="fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 id="rect2053"
+                 width="211.09843"
+                 height="62.279526"
+                 x="691.55298"
+                 y="925.70123"
+                 ry="14.303353" />
+              <rect
+                 ry="14.303353"
+                 y="839.45123"
+                 x="691.55298"
+                 height="62.279526"
+                 width="211.09843"
+                 id="rect2055"
+                 style="fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+              <text
+                 id="text2063"
+                 y="865.45673"
+                 x="796.74329"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+                 xml:space="preserve"><tspan
+                   style="font-size:30px;line-height:100%;text-align:center;text-anchor:middle;stroke-width:1"
+                   id="tspan2059"
+                   y="865.45673"
+                   x="796.74329"
+                   sodipodi:role="line"><tspan
+                     style="font-size:30px;line-height:100%;text-align:center;text-anchor:middle;stroke-width:1"
+                     id="tspan2057">Identification /</tspan></tspan><tspan
+                   id="tspan2061"
+                   style="font-size:30px;line-height:100%;text-align:center;text-anchor:middle;stroke-width:1"
+                   y="895.45673"
+                   x="796.74329"
+                   sodipodi:role="line">Separation</tspan></text>
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+                 x="796.19397"
+                 y="964.41425"
+                 id="text2067"><tspan
+                   sodipodi:role="line"
+                   x="796.19397"
+                   y="964.41425"
+                   id="tspan2065"
+                   style="font-size:30px;line-height:100%;text-align:center;text-anchor:middle;stroke-width:1">Sorting</tspan></text>
+            </g>
+            <path
+               style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-0-40)"
+               d="m 1253.6909,334.64256 v 19.99845"
+               id="path2071"
+               inkscape:connector-type="polyline"
+               inkscape:connector-curvature="0" />
+            <path
+               inkscape:connector-curvature="0"
+               inkscape:connector-type="polyline"
+               id="path2073"
+               d="m 1253.6909,504.64253 v 19.9985"
+               style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-0-40)" />
+            <path
+               inkscape:connector-curvature="0"
+               inkscape:connector-type="polyline"
+               id="path2075"
+               d="m 1497.2723,561.5021 h 19.4864"
+               style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-0)" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-0)"
+               d="m 2341.8383,561.5022 h 22.1115"
+               id="path2077"
+               inkscape:connector-type="polyline"
+               inkscape:connector-curvature="0" />
+            <path
+               sodipodi:nodetypes="cc"
+               style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-0-5)"
+               d="M 2447.7066,526.0392 V 317.7851"
+               id="path2079"
+               inkscape:connector-type="polyline"
+               inkscape:connector-curvature="0" />
+            <path
+               inkscape:connector-curvature="0"
+               inkscape:connector-type="polyline"
+               id="path2081"
+               d="M 2363.7699,266.50223 H 2110.5094"
+               style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-0)" />
+            <g
+               transform="translate(1453.6838,-617.72584)"
+               id="g2089"
+               style="stroke-width:1">
+              <rect
+                 ry="14.303353"
+                 y="852.53998"
+                 x="467.67712"
+                 height="62.279526"
+                 width="157.94882"
+                 id="rect2083"
+                 style="fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+              <text
+                 id="text2087"
+                 y="893.71393"
+                 x="499.82349"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+                 xml:space="preserve"><tspan
+                   style="font-size:30px;line-height:1.25;stroke-width:1"
+                   y="893.71393"
+                   x="499.82349"
+                   id="tspan2085"
+                   sodipodi:role="line">Discard</tspan></text>
+            </g>
+            <path
+               sodipodi:nodetypes="cc"
+               style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-0)"
+               d="M 1910.5875,265.39738 1367.4972,227.92555"
+               id="path2091"
+               inkscape:connector-type="polyline"
+               inkscape:connector-curvature="0" />
+            <path
+               inkscape:connector-curvature="0"
+               inkscape:connector-type="polyline"
+               id="path2093"
+               d="m 2523.8382,561.5022 h 137.2636"
+               style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-0)" />
+            <g
+               id="g2103"
+               transform="translate(558.57143,-414.61196)"
+               style="stroke-width:1">
+              <rect
+                 ry="16.880289"
+                 y="931.06982"
+                 x="2113.2024"
+                 height="73.5"
+                 width="186"
+                 id="rect2095"
+                 style="display:inline;fill:#aaccff;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+              <text
+                 id="text2101"
+                 y="962.97852"
+                 x="2137.0178"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+                 xml:space="preserve"><tspan
+                   y="962.97852"
+                   x="2137.0178"
+                   id="tspan2097"
+                   sodipodi:role="line"
+                   style="font-size:30px;line-height:100%;stroke-width:1">Quality</tspan><tspan
+                   y="992.97852"
+                   x="2137.0178"
+                   sodipodi:role="line"
+                   id="tspan2099"
+                   style="font-size:30px;line-height:100%;stroke-width:1">Assessment</tspan></text>
+            </g>
+            <g
+               id="g2105"
+               transform="translate(558.57143,-412.47616)"
+               style="stroke-width:1" />
+            <g
+               id="g2119"
+               transform="translate(121.53398,338.43886)"
+               style="stroke-width:1">
+              <path
+                 transform="matrix(0.93684902,0.33210587,-0.33211098,0.93683461,242.73942,-539.85507)"
+                 d="m 1940.1241,203.83406 -79.4779,29.38415 -65.1864,-54.13786 14.2915,-83.522016 79.478,-29.38415 65.1864,54.137866 z"
+                 inkscape:randomized="0"
+                 inkscape:rounded="0"
+                 inkscape:flatsided="false"
+                 sodipodi:arg2="1.7402664"
+                 sodipodi:arg1="0.69306883"
+                 sodipodi:r2="84.735916"
+                 sodipodi:r1="84.735916"
+                 sodipodi:cy="149.6962"
+                 sodipodi:cx="1874.9377"
+                 sodipodi:sides="3"
+                 id="path2107"
+                 style="opacity:1;fill:#ffdb9d;fill-opacity:1;stroke:#000000;stroke-width:1.50912;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 sodipodi:type="star" />
+              <text
+                 id="text2117"
+                 y="188.40147"
+                 x="1949.2881"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+                 xml:space="preserve"><tspan
+                   id="tspan2109"
+                   y="188.40147"
+                   x="1949.2881"
+                   sodipodi:role="line"
+                   style="font-size:22.5px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1">Meeting the </tspan><tspan
+                   y="216.52647"
+                   x="1949.2881"
+                   sodipodi:role="line"
+                   style="font-size:22.5px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1"
+                   id="tspan2111">Quality and </tspan><tspan
+                   y="244.65147"
+                   x="1949.2881"
+                   sodipodi:role="line"
+                   style="font-size:22.5px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1"
+                   id="tspan2113">Ethical </tspan><tspan
+                   id="tspan2115"
+                   y="272.77649"
+                   x="1949.2881"
+                   sodipodi:role="line"
+                   style="font-size:22.5px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1">Standards?</tspan></text>
+            </g>
+            <g
+               id="g2131"
+               transform="translate(-495.86631,205.03968)"
+               style="stroke-width:1">
+              <path
+                 sodipodi:type="star"
+                 style="opacity:1;fill:#ffdb9d;fill-opacity:1;stroke:#000000;stroke-width:1.50912;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 id="path2121"
+                 sodipodi:sides="3"
+                 sodipodi:cx="1874.9377"
+                 sodipodi:cy="149.6962"
+                 sodipodi:r1="84.735916"
+                 sodipodi:r2="84.735916"
+                 sodipodi:arg1="0.69306883"
+                 sodipodi:arg2="1.7402664"
+                 inkscape:flatsided="false"
+                 inkscape:rounded="0"
+                 inkscape:randomized="0"
+                 d="m 1940.1241,203.83406 -79.4779,29.38415 -65.1864,-54.13786 14.2915,-83.522016 79.478,-29.38415 65.1864,54.137866 z"
+                 transform="matrix(0.93684902,0.33210587,-0.33211098,0.93683461,42.73942,-539.85507)" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+                 x="1749.1453"
+                 y="202.45299"
+                 id="text2129"><tspan
+                   id="tspan2123"
+                   style="font-size:22.5px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1"
+                   sodipodi:role="line"
+                   x="1749.1453"
+                   y="202.45299">According to </tspan><tspan
+                   style="font-size:22.5px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1"
+                   sodipodi:role="line"
+                   x="1749.1453"
+                   y="230.57799"
+                   id="tspan2125">Plastic Recycling</tspan><tspan
+                   style="font-size:22.5px;line-height:1.25;text-align:center;text-anchor:middle;stroke-width:1"
+                   sodipodi:role="line"
+                   x="1749.1453"
+                   y="258.703"
+                   id="tspan2127">Code?</tspan></text>
+            </g>
+            <path
+               style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-0)"
+               d="m 1959.8383,561.5022 h 22.1116"
+               id="path2133"
+               inkscape:connector-type="polyline"
+               inkscape:connector-curvature="0" />
+            <path
+               style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker16379-8)"
+               d="m 1873.8718,515.10947 v -61.79818 h 207.4633 v 22.99363"
+               id="path2135"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cccc" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35px;line-height:0%;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               x="2664.0835"
+               y="85.660454"
+               id="text2139"><tspan
+                 sodipodi:role="line"
+                 x="2664.0835"
+                 y="85.660454"
+                 id="tspan2137"
+                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';stroke-width:1px">Evaluation</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+               x="2043.6631"
+               y="474.31183"
+               id="text2143"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:start;text-anchor:start;stroke-width:1"
+                 sodipodi:role="line"
+                 x="2043.6631"
+                 y="474.31183"
+                 id="tspan2141">No</tspan></text>
+            <g
+               transform="translate(901.91356,-655.95432)"
+               id="g2151"
+               style="stroke-width:1">
+              <rect
+                 style="fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 id="rect2145"
+                 width="157.94882"
+                 height="62.279526"
+                 x="691.55298"
+                 y="867.46307"
+                 ry="14.303353" />
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+                 x="708.79156"
+                 y="908.64435"
+                 id="text2149"><tspan
+                   style="font-size:30px;line-height:1.25;stroke-width:1"
+                   sodipodi:role="line"
+                   id="tspan2147"
+                   x="708.79156"
+                   y="908.64435">Collection</tspan></text>
+            </g>
+            <path
+               inkscape:connector-curvature="0"
+               inkscape:connector-type="polyline"
+               id="path2153"
+               d="m 1253.6909,248.39256 v 19.99845"
+               style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-0-40)" />
+            <path
+               sodipodi:nodetypes="cccc"
+               inkscape:connector-curvature="0"
+               inkscape:connector-type="polyline"
+               id="path2155"
+               d="M 1856.763,694.51332 V 621.45468"
+               style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00001, 4.00001;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend-6-7)" />
+          </g>
+          <path
+             style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker16379-8-6)"
+             d="m 1141.2535,303.48293 h -25.6836 v 125.67175 h 47.0562"
+             id="path2159"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccc" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+             x="1120.9689"
+             y="423.7532"
+             id="text2163"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:start;text-anchor:start;stroke-width:1"
+               sodipodi:role="line"
+               x="1120.9689"
+               y="423.7532"
+               id="tspan2161">No</tspan></text>
+          <rect
+             ry="14.303353"
+             y="104.60495"
+             x="1150.8748"
+             height="62.279526"
+             width="211.09845"
+             id="rect2165"
+             style="display:inline;fill:#e5ffd5;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text2171"
+             y="130.61044"
+             x="1256.0651"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+             xml:space="preserve"><tspan
+               style="font-size:30px;line-height:100%;text-align:center;text-anchor:middle;stroke-width:1"
+               y="130.61044"
+               x="1256.0651"
+               id="tspan2167"
+               sodipodi:role="line">Post-consumer</tspan><tspan
+               style="font-size:30px;line-height:100%;text-align:center;text-anchor:middle;stroke-width:1"
+               id="tspan2169"
+               y="160.61044"
+               x="1256.0651"
+               sodipodi:role="line">Plastic</tspan></text>
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path2173"
+             d="m 1252.829,166.28242 v 16.96541"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.937501px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+          <path
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.87501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:7.50001, 7.50001;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker10024-1)"
+             d="m 2160.2647,560.54741 v 91.161 h 587.0126 v -64.96038"
+             id="path2175"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccc" />
+          <path
+             sodipodi:nodetypes="cccc"
+             inkscape:connector-curvature="0"
+             id="path2177"
+             d="m 1773.9502,561.26876 v 112.79862 h 973.1661 v -27.51169"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.87501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:7.50001, 7.50001;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+             x="2326.1013"
+             y="670.65997"
+             id="text2181"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.25px;line-height:1.25;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:start;text-anchor:start;stroke-width:1"
+               sodipodi:role="line"
+               x="2326.1013"
+               y="670.65997"
+               id="tspan2179">Raw characterization</tspan></text>
+          <text
+             id="text2187"
+             y="533.50409"
+             x="2556.6072"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+             xml:space="preserve"><tspan
+               id="tspan2183"
+               y="533.50409"
+               x="2556.6072"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:1.25;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:start;text-anchor:start;stroke-width:1">Printed part </tspan><tspan
+               id="tspan2185"
+               dx="2.0817637e-08"
+               y="553.81659"
+               x="2556.6072"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:1.25;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:start;text-anchor:start;stroke-width:1">characterization</tspan></text>
+          <text
+             id="text2191"
+             y="645.64764"
+             x="2229.5527"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+             xml:space="preserve"><tspan
+               dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 2.0817637e-08"
+               id="tspan2189"
+               y="645.64764"
+               x="2229.5527"
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.25px;line-height:1.25;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro';text-align:start;text-anchor:start;stroke-width:1">3DP feedstock characterization</tspan></text>
+          <g
+             id="g2201"
+             transform="translate(1078.1094,-281.49069)"
+             style="stroke-width:1">
+            <rect
+               style="fill:#d3f8bb;fill-opacity:1;stroke:#000000;stroke-width:1.82369;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="rect2193"
+               width="158.1763"
+               height="78.176308"
+               x="637.85767"
+               y="981.53778"
+               ry="17.954271" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Gurmukhi MN';-inkscape-font-specification:'Gurmukhi MN';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+               x="652.93677"
+               y="1014.0729"
+               id="text2199"><tspan
+                 style="font-size:18.75px;line-height:1.25;stroke-width:1"
+                 sodipodi:role="line"
+                 x="652.93677"
+                 y="1014.0729"
+                 id="tspan2195">Other wastes /</tspan><tspan
+                 style="font-size:18.75px;line-height:1.25;stroke-width:1"
+                 id="tspan2197"
+                 sodipodi:role="line"
+                 x="652.93677"
+                 y="1037.5104">by products</tspan></text>
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:28.75px;line-height:0%;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="2725.5605"
+             y="755.91254"
+             id="text2205"><tspan
+               id="tspan2203"
+               sodipodi:role="line"
+               x="2725.5605"
+               y="755.91254"
+               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:28.75px;line-height:1;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';text-align:center;text-anchor:middle;stroke-width:1px">Quality (VI)</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:37.5px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;stroke-width:0.9375"
+           x="1176.7107"
+           y="952.49048"
+           id="text2211"
+           inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+           inkscape:export-xdpi="100.01324"
+           inkscape:export-ydpi="100.01324"><tspan
+             sodipodi:role="line"
+             id="tspan2209"
              style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:37.5px;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';fill:#000000;stroke-width:0.9375"
              x="1176.7107"
              y="952.49048">Technical system</tspan></text>

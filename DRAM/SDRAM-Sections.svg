@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="533.58331mm"
+   height="280.43896mm"
+   viewBox="0 0 533.58331 280.43896"
+   version="1.1"
+   id="svg2786"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   sodipodi:docname="SDRAM-Sections.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2788"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.41366584"
+     inkscape:cx="147.46202"
+     inkscape:cy="844.88485"
+     inkscape:window-width="1280"
+     inkscape:window-height="969"
+     inkscape:window-x="60"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2783">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect30548"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect12009"
+       is_visible="true"
+       lpeversion="1" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0"
+       style="overflow:visible">
+      <path
+         id="path4448-01"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2237"
+       style="overflow:visible">
+      <path
+         id="path2235"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2241"
+       style="overflow:visible">
+      <path
+         id="path2239"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-6"
+       style="overflow:visible">
+      <path
+         id="path4448-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2247"
+       style="overflow:visible">
+      <path
+         id="path2245"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-6-7"
+       style="overflow:visible">
+      <path
+         id="path4448-0-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2253"
+       style="overflow:visible">
+      <path
+         id="path2251"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0-40"
+       style="overflow:visible">
+      <path
+         id="path4448-01-50"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2259"
+       style="overflow:visible">
+      <path
+         id="path2257"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2263"
+       style="overflow:visible">
+      <path
+         id="path2261"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2267"
+       style="overflow:visible">
+      <path
+         id="path2265"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0-5"
+       style="overflow:visible">
+      <path
+         id="path4448-01-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2273"
+       style="overflow:visible">
+      <path
+         id="path2271"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2277"
+       style="overflow:visible">
+      <path
+         id="path2275"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2281"
+       style="overflow:visible">
+      <path
+         id="path2279"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2285"
+       style="overflow:visible">
+      <path
+         id="path2283"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker16379-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path16381-0"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2291"
+       style="overflow:visible">
+      <path
+         id="path2289"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2295"
+       style="overflow:visible">
+      <path
+         id="path2293"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker16379-8-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path16381-0-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path8042"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10024-1"
+       style="overflow:visible">
+      <path
+         id="path10026-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2219"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2223"
+       is_visible="true"
+       lpeversion="1" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2307"
+       style="overflow:visible">
+      <path
+         id="path2305"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2311"
+       style="overflow:visible">
+      <path
+         id="path2309"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2315"
+       style="overflow:visible">
+      <path
+         id="path2313"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2319"
+       style="overflow:visible">
+      <path
+         id="path2317"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2323"
+       style="overflow:visible">
+      <path
+         id="path2321"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2327"
+       style="overflow:visible">
+      <path
+         id="path2325"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2331"
+       style="overflow:visible">
+      <path
+         id="path2329"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2335"
+       style="overflow:visible">
+      <path
+         id="path2333"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2339"
+       style="overflow:visible">
+      <path
+         id="path2337"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2343"
+       style="overflow:visible">
+      <path
+         id="path2341"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2347"
+       style="overflow:visible">
+      <path
+         id="path2345"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2351"
+       style="overflow:visible">
+      <path
+         id="path2349"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2355"
+       style="overflow:visible">
+      <path
+         id="path2353"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2359"
+       style="overflow:visible">
+      <path
+         id="path2357"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2363"
+       style="overflow:visible">
+      <path
+         id="path2361"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2367"
+       style="overflow:visible">
+      <path
+         id="path2365"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2371"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2369"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2375"
+       style="overflow:visible">
+      <path
+         id="path2373"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2379"
+       style="overflow:visible">
+      <path
+         id="path2377"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2383"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2381"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2387"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2385"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2391"
+       style="overflow:visible">
+      <path
+         id="path2389"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(103.46447,-41.812771)">
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:11.6417px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.264583"
+       x="138.19649"
+       y="55.194458"
+       id="text1790"
+       inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+       inkscape:export-xdpi="100.01324"
+       inkscape:export-ydpi="100.01324"><tspan
+         sodipodi:role="line"
+         id="tspan1788"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.6417px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#333333;stroke-width:0.264583"
+         x="138.19649"
+         y="55.194458">Social</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:11.6417px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.264583"
+       x="-68.17852"
+       y="55.194458"
+       id="text24852"
+       inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+       inkscape:export-xdpi="100.01324"
+       inkscape:export-ydpi="100.01324"><tspan
+         sodipodi:role="line"
+         id="tspan24850"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.6417px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#333333;stroke-width:0.264583"
+         x="-68.17852"
+         y="55.194458">Environmental</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:11.6417px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.264583"
+       x="323.40482"
+       y="55.194458"
+       id="text28196"
+       inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+       inkscape:export-xdpi="100.01324"
+       inkscape:export-ydpi="100.01324"><tspan
+         sodipodi:role="line"
+         id="tspan28194"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.6417px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#333333;stroke-width:0.264583"
+         x="323.40482"
+         y="55.194458">Economical</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:11.6417px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.264583"
+       x="323.40482"
+       y="55.194458"
+       id="text28222"
+       inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+       inkscape:export-xdpi="100.01324"
+       inkscape:export-ydpi="100.01324"><tspan
+         sodipodi:role="line"
+         id="tspan28220"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.6417px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#333333;stroke-width:0.264583"
+         x="323.40482"
+         y="55.194458">Economical</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:11.6417px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.264583"
+       x="-62.886868"
+       y="302.31528"
+       id="text28898"
+       inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+       inkscape:export-xdpi="100.01324"
+       inkscape:export-ydpi="100.01324"><tspan
+         sodipodi:role="line"
+         id="tspan28896"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.6417px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#333333;stroke-width:0.264583"
+         x="-62.886868"
+         y="302.31528">Political</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:11.6417px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.264583"
+       x="323.40482"
+       y="302.31528"
+       id="text28306"
+       inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+       inkscape:export-xdpi="100.01324"
+       inkscape:export-ydpi="100.01324"><tspan
+         sodipodi:role="line"
+         id="tspan28304"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.6417px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#333333;stroke-width:0.264583"
+         x="323.40482"
+         y="302.31528">Technological</tspan></text>
+    <rect
+       style="display:inline;opacity:0.8;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:6.35, 6.35;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect29024"
+       width="532.78955"
+       height="263.33612"
+       x="-103.06756"
+       y="42.491871"
+       ry="4.5955577"
+       inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+       inkscape:export-xdpi="100.01324"
+       inkscape:export-ydpi="100.01324" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:10.5833px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.264583"
+       x="62.232025"
+       y="320.91824"
+       id="text29639"
+       inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+       inkscape:export-xdpi="100.01324"
+       inkscape:export-ydpi="100.01324"><tspan
+         sodipodi:role="line"
+         id="tspan29637"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';fill:#0000ff;stroke-width:0.264583"
+         x="62.232025"
+         y="320.91824">Local context</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.96875, 3.96875;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 34.957735,317.1762 22.696566,-0.44608"
+       id="path30546"
+       inkscape:path-effect="#path-effect30548"
+       inkscape:original-d="m 34.957735,317.1762 c 8.624119,-0.29709 14.072983,-0.29709 22.696566,-0.44608"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+       inkscape:export-xdpi="100.01324"
+       inkscape:export-ydpi="100.01324" />
+    <path
+       style="display:inline;fill:#222222;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -92.042277,317.20429 22.696586,-0.44608"
+       id="path12005"
+       inkscape:path-effect="#path-effect12009"
+       inkscape:original-d="m -92.042277,317.20429 c 8.624127,-0.2971 14.072989,-0.2971 22.696586,-0.44608"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+       inkscape:export-xdpi="100.01324"
+       inkscape:export-ydpi="100.01324" />
+    <g
+       id="g1838"
+       transform="matrix(0.28222223,0,0,0.28222223,-84.001814,61.391923)"
+       inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+       inkscape:export-xdpi="100.01324"
+       inkscape:export-ydpi="100.01324"
+       style="display:inline">
+      <path
+         id="rect1834"
+         style="display:inline;opacity:1;fill:#ffeeaa;fill-opacity:1;stroke:#ffffff;stroke-width:2.13333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 23.935547 502.56836 C 11.506354 502.56836 1.5 512.57471 1.5 525.00391 L 1.5 978 C 1.5 990.42919 11.506354 1000.4355 23.935547 1000.4355 L 1026.9316 1000.4355 C 1039.3608 1000.4355 1049.3672 990.42919 1049.3672 978 L 1049.3672 916.47461 L 68.060547 916.47461 C 62.094341 916.47461 57.291016 911.67128 57.291016 905.70508 L 57.291016 502.56836 L 23.935547 502.56836 z "
+         transform="matrix(0.93749997,0,0,0.93749997,-68.962165,-69.374946)"
+         inkscape:export-filename="/Users/fabio/Documents/Figures/DRAM/Secciones/SDRAM-Political.png"
+         inkscape:export-xdpi="150.03419"
+         inkscape:export-ydpi="150.03419" />
+      <path
+         id="rect1836"
+         style="display:inline;opacity:1;fill:#d5f6ff;fill-opacity:1;stroke:#ffffff;stroke-width:2.13333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 1955.4023 499.98633 L 1955.4023 905.70508 C 1955.4023 911.67128 1950.599 916.47461 1944.6328 916.47461 L 967.32617 916.47461 L 967.32617 975.41797 C 967.32617 987.84716 977.33253 997.85352 989.76172 997.85352 L 1992.7578 997.85352 C 2005.187 997.85352 2015.1934 987.84716 2015.1934 975.41797 L 2015.1934 522.42188 C 2015.1934 509.99268 2005.187 499.98633 1992.7578 499.98633 L 1955.4023 499.98633 z "
+         transform="matrix(0.93749997,0,0,0.93749997,-68.962165,-69.374946)"
+         inkscape:export-filename="/Users/fabio/Documents/Figures/DRAM/Secciones/SDRAM-Technological.png.png"
+         inkscape:export-xdpi="100.01324"
+         inkscape:export-ydpi="100.01324" />
+      <path
+         id="rect1830"
+         style="display:inline;opacity:1;fill:#e5ffd5;fill-opacity:1;stroke:#ffffff;stroke-width:2.13333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 23.935547 2.5664062 C 11.506354 2.5664063 1.5 12.57276 1.5 25.001953 L 1.5 477.99805 C 1.5 490.42724 11.506354 500.43359 23.935547 500.43359 L 57.291016 500.43359 L 57.291016 95.796875 C 57.291016 89.830669 62.094341 85.027344 68.060547 85.027344 L 699.36719 85.027344 L 699.36719 25.001953 C 699.36719 12.57276 689.36083 2.5664062 676.93164 2.5664062 L 23.935547 2.5664062 z "
+         transform="matrix(0.93749997,0,0,0.93749997,-68.962165,-69.374946)"
+         inkscape:export-filename="/Users/fabio/Documents/Figures/DRAM/Secciones/SDRAM-Environmental.png"
+         inkscape:export-xdpi="150.03418"
+         inkscape:export-ydpi="150.03418" />
+      <path
+         id="rect1832"
+         style="display:inline;opacity:1;fill:#6699ff;fill-opacity:1;stroke:#ffffff;stroke-width:2.13333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 699.75977 4.0664062 C 687.33057 4.0664062 677.32422 14.07276 677.32422 26.501953 L 677.32422 85.027344 L 1375.1914 85.027344 L 1375.1914 26.501953 C 1375.1914 14.07276 1365.1851 4.0664062 1352.7559 4.0664062 L 699.75977 4.0664062 z "
+         transform="matrix(0.93749997,0,0,0.93749997,-68.962165,-69.374946)"
+         inkscape:export-filename="/Users/fabio/Documents/Figures/DRAM/Secciones/SDRAM-Social.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+      <path
+         id="rect1828"
+         style="display:inline;opacity:1;fill:#e9afaf;fill-opacity:1;stroke:#ffffff;stroke-width:2.13333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 1339.7617 1.0664062 C 1327.3325 1.0664063 1317.3262 11.07276 1317.3262 23.501953 L 1317.3262 85.027344 L 1944.6328 85.027344 C 1950.599 85.027344 1955.4023 89.830669 1955.4023 95.796875 L 1955.4023 498.93359 L 1992.7578 498.93359 C 2005.187 498.93359 2015.1934 488.92724 2015.1934 476.49805 L 2015.1934 23.501953 C 2015.1934 11.07276 2005.187 1.0664062 1992.7578 1.0664062 L 1339.7617 1.0664062 z "
+         transform="matrix(0.93749997,0,0,0.93749997,-68.962165,-69.374946)"
+         inkscape:export-filename="/Users/fabio/Documents/Figures/DRAM/Secciones/SDRAM-Economical.png"
+         inkscape:export-xdpi="150"
+         inkscape:export-ydpi="150" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:11.6417px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.264583"
+       x="138.19649"
+       y="55.194458"
+       id="text1844"
+       inkscape:export-filename="/Users/fabio/Documents/Figures/DRAM/Secciones/SDRAM-Social.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan1842"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.6417px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#333333;stroke-width:0.264583"
+         x="138.19649"
+         y="55.194458">Social</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:11.6417px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.264583"
+       x="-68.17852"
+       y="55.194458"
+       id="text1848"
+       inkscape:export-filename="/Users/fabio/Documents/Figures/DRAM/Secciones/SDRAM-Environmental.png"
+       inkscape:export-xdpi="150.03418"
+       inkscape:export-ydpi="150.03418"><tspan
+         sodipodi:role="line"
+         id="tspan1846"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.6417px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#333333;stroke-width:0.264583"
+         x="-68.17852"
+         y="55.194458">Environmental</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:11.6417px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.264583"
+       x="323.40482"
+       y="55.194458"
+       id="text1852"
+       inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+       inkscape:export-xdpi="100.01324"
+       inkscape:export-ydpi="100.01324"><tspan
+         sodipodi:role="line"
+         id="tspan1850"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.6417px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#333333;stroke-width:0.264583"
+         x="323.40482"
+         y="55.194458">Economical</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:11.6417px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.264583"
+       x="323.40482"
+       y="55.194458"
+       id="text1856"
+       inkscape:export-filename="/Users/fabio/Documents/Figures/DRAM/Secciones/SDRAM-Economical.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan1854"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.6417px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#333333;stroke-width:0.264583"
+         x="323.40482"
+         y="55.194458">Economical</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:11.6417px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.264583"
+       x="-62.886868"
+       y="302.31528"
+       id="text1860"
+       inkscape:export-filename="/Users/fabio/Documents/Figures/DRAM/Secciones/SDRAM-Political.png"
+       inkscape:export-xdpi="150.03419"
+       inkscape:export-ydpi="150.03419"><tspan
+         sodipodi:role="line"
+         id="tspan1858"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.6417px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#333333;stroke-width:0.264583"
+         x="-62.886868"
+         y="302.31528">Political</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:11.6417px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.264583"
+       x="323.40482"
+       y="302.31528"
+       id="text1865"
+       inkscape:export-filename="/Users/fabio/Documents/Figures/DRAM/Secciones/SDRAM-Technological.png.png"
+       inkscape:export-xdpi="100.01324"
+       inkscape:export-ydpi="100.01324"><tspan
+         sodipodi:role="line"
+         id="tspan1863"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.6417px;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';fill:#333333;stroke-width:0.264583"
+         x="323.40482"
+         y="302.31528">Technological</tspan></text>
+    <rect
+       style="display:inline;opacity:0.8;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:6.35, 6.35;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1867"
+       width="532.78955"
+       height="263.33612"
+       x="-103.06756"
+       y="42.491871"
+       ry="4.5955577"
+       inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+       inkscape:export-xdpi="100.01324"
+       inkscape:export-ydpi="100.01324" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:10.5833px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.264583"
+       x="62.232025"
+       y="320.91824"
+       id="text1871"
+       inkscape:export-filename="/Users/fabio/Documents/Figures/DRAM/Secciones/SDRAM-Local.png"
+       inkscape:export-xdpi="100.01324"
+       inkscape:export-ydpi="100.01324"><tspan
+         sodipodi:role="line"
+         id="tspan1869"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';fill:#0000ff;stroke-width:0.264583"
+         x="62.232025"
+         y="320.91824">Local context</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.96875, 3.96875;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 34.957735,317.1762 22.696566,-0.44608"
+       id="path1873"
+       inkscape:path-effect="#path-effect2219"
+       inkscape:original-d="m 34.957735,317.1762 c 8.624119,-0.29709 14.072983,-0.29709 22.696566,-0.44608"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/fabio/Documents/Figures/DRAM/Secciones/SDRAM-Local.png"
+       inkscape:export-xdpi="100.01324"
+       inkscape:export-ydpi="100.01324" />
+    <path
+       style="display:inline;fill:#222222;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -92.042277,317.20429 22.696586,-0.44608"
+       id="path1875"
+       inkscape:path-effect="#path-effect2223"
+       inkscape:original-d="m -92.042277,317.20429 c 8.624127,-0.2971 14.072989,-0.2971 22.696586,-0.44608"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+       inkscape:export-xdpi="100.01324"
+       inkscape:export-ydpi="100.01324" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:10.5833px;line-height:1.05;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;stroke-width:0.264583"
+       x="-65.826286"
+       y="319.71173"
+       id="text2211"
+       inkscape:export-filename="/Users/fabio/Documents/4-Projects/Pavlo/SDRAM/figures/Fig-1.png"
+       inkscape:export-xdpi="100.01324"
+       inkscape:export-ydpi="100.01324"><tspan
+         sodipodi:role="line"
+         id="tspan2209"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:10.5833px;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';fill:#000000;stroke-width:0.264583"
+         x="-65.826286"
+         y="319.71173">Technical system</tspan></text>
+  </g>
+</svg>

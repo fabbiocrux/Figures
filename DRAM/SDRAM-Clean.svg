@@ -3921,14 +3921,6 @@
          x="1817.3511"
          sodipodi:role="line"
          id="tspan1881">Recovery (I)</tspan></text>
-    <rect
-       ry="9.7777843"
-       y="223.27759"
-       x="2169.5544"
-       height="379.10333"
-       width="363.27347"
-       id="rect1885"
-       style="display:inline;fill:#e3dedb;fill-opacity:0.392157;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 1;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:28.75px;line-height:0%;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4019,6 +4011,14 @@
        id="path1915"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
+    <rect
+       ry="9.7777843"
+       y="223.27759"
+       x="2169.5544"
+       height="379.10333"
+       width="363.27347"
+       id="rect1885"
+       style="display:inline;fill:#e3dedb;fill-opacity:0.392157;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:24, 1;stroke-dashoffset:0;stroke-opacity:1" />
     <g
        transform="matrix(0.99999792,0,0,1.0000005,1681.792,-397.72607)"
        id="g1935"
@@ -4267,6 +4267,22 @@
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:37.5px;font-family:Avenir;-inkscape-font-specification:'Avenir Ultra-Bold';fill:#000000;stroke-width:0.9375"
          x="1176.7107"
          y="952.49048">Technical system</tspan></text>
+    <text
+       id="text2171"
+       y="130.61047"
+       x="1256.0662"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         style="font-size:30px;line-height:100%;text-align:center;text-anchor:middle;stroke-width:1"
+         y="130.61047"
+         x="1256.0662"
+         id="tspan2167"
+         sodipodi:role="line">Post-consumer</tspan><tspan
+         style="font-size:30px;line-height:100%;text-align:center;text-anchor:middle;stroke-width:1"
+         id="tspan2169"
+         y="160.61047"
+         x="1256.0662"
+         sodipodi:role="line">Plastic</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

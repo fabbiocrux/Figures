@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg22876"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   sodipodi:docname="Methodology.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview22878"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.53350939"
+     inkscape:cx="180.87779"
+     inkscape:cy="211.80508"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs22873">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path8042"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect22719"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       ry="3.2701523"
+       y="-50.368813"
+       x="-196.21252"
+       height="27.657778"
+       width="27.657778"
+       id="rect7385"
+       style="display:inline;fill:#b8e994;fill-opacity:0.392157;stroke:#ffffff;stroke-width:0.564444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="display:inline;fill:#f8c291;fill-opacity:1;stroke:#ffffff;stroke-width:0.564444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7387"
+       width="27.657778"
+       height="27.657778"
+       x="-196.21252"
+       y="-19.500757"
+       ry="3.2701523" />
+    <g
+       id="g26299"
+       transform="translate(-129.43774,-35.211033)">
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:0.392157;stroke:#000000;stroke-width:0.282222;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:6.77331, 0.282222;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15067"
+         width="149.71671"
+         height="81.745422"
+         x="-20.666071"
+         y="13.398493"
+         ry="2.1083677" />
+      <rect
+         style="display:inline;fill:#f4ce5e;fill-opacity:0.392157;stroke:#000000;stroke-width:0.282222;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:6.77333, 0.282222;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4413"
+         width="149.71671"
+         height="15.147346"
+         x="-20.666071"
+         y="13.398528"
+         ry="0.39067844" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="32.131741"
+         y="23.841267"
+         id="text1701"><tspan
+           sodipodi:role="line"
+           x="32.131741"
+           y="23.841267"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:0.282222px"
+           id="tspan1716">Urban  analysis</tspan></text>
+      <text
+         id="text4927-1"
+         y="44.851803"
+         x="-17.873236"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:0%;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';stroke-width:0.282222px"
+           y="44.851803"
+           x="-17.873236"
+           id="tspan4929-4"
+           sodipodi:role="line">- Close thedata gap: in terms of </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';stroke-width:0.282222px"
+           y="54.553188"
+           x="-17.873236"
+           sodipodi:role="line"
+           id="tspan18015">plastic waste stock at the neighbourhood</tspan></text>
+      <text
+         id="text18101"
+         y="76.601807"
+         x="-17.873236"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:0%;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';stroke-width:0.282222px"
+           y="76.601807"
+           x="-17.873236"
+           sodipodi:role="line"
+           id="tspan18099">- Priorities in the Urban </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';stroke-width:0.282222px"
+           y="86.303192"
+           x="-17.873236"
+           sodipodi:role="line"
+           id="tspan18127"
+           dx="0.52855611">Ecosystem services </tspan></text>
+    </g>
+    <g
+       id="g26391"
+       transform="translate(-115.05577,-101.16973)">
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:0.392157;stroke:#000000;stroke-width:0.282222;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:6.77331, 0.282222;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect18929"
+         width="149.71671"
+         height="81.745422"
+         x="129.38945"
+         y="99.347084"
+         ry="2.1083677" />
+      <rect
+         style="display:inline;fill:#f4ce5e;fill-opacity:0.392157;stroke:#000000;stroke-width:0.282222;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:6.77333, 0.282222;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect18931"
+         width="149.71671"
+         height="15.147346"
+         x="129.38945"
+         y="99.347115"
+         ry="0.39067844" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="187.47893"
+         y="109.78986"
+         id="text18935"><tspan
+           sodipodi:role="line"
+           x="187.47893"
+           y="109.78986"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:0.282222px"
+           id="tspan18933">OS Technodiversity</tspan></text>
+      <text
+         id="text18941"
+         y="130.80038"
+         x="132.18228"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:0%;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';stroke-width:0.282222px"
+           y="130.80038"
+           x="132.18228"
+           id="tspan18937"
+           sodipodi:role="line">- Close thedata gap: in terms of </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';stroke-width:0.282222px"
+           y="140.50177"
+           x="132.18228"
+           sodipodi:role="line"
+           id="tspan18939">plastic waste stock at the neighbourhood</tspan></text>
+      <text
+         id="text18947"
+         y="162.5504"
+         x="132.18228"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:0%;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';stroke-width:0.282222px"
+           y="162.5504"
+           x="132.18228"
+           sodipodi:role="line"
+           id="tspan18943">- Priorities in the Urban </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';stroke-width:0.282222px"
+           y="172.25179"
+           x="132.18228"
+           sodipodi:role="line"
+           id="tspan18945"
+           dx="0.52855611">Ecosystem services </tspan></text>
+    </g>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:0.392157;stroke:#000000;stroke-width:0.282222;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:6.77331, 0.282222;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect21529"
+       width="149.71671"
+       height="81.745422"
+       x="-10.564485"
+       y="96.996101"
+       ry="2.1083677" />
+    <rect
+       style="display:inline;fill:#f4ce5e;fill-opacity:0.392157;stroke:#000000;stroke-width:0.282222;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:6.77333, 0.282222;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect21531"
+       width="149.71671"
+       height="15.147346"
+       x="-10.564485"
+       y="96.996132"
+       ry="0.39067844" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="63.399998"
+       y="107.43888"
+       id="text21535"><tspan
+         sodipodi:role="line"
+         x="63.399998"
+         y="107.43888"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:0.282222px"
+         id="tspan21533">Techno-Ecological Sinergy</tspan></text>
+    <text
+       id="text21541"
+       y="128.44943"
+       x="-7.771647"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:0%;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';stroke-width:0.282222px"
+         y="128.44943"
+         x="-7.771647"
+         id="tspan21537"
+         sodipodi:role="line">- Close thedata gap: in terms of </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';stroke-width:0.282222px"
+         y="138.15082"
+         x="-7.771647"
+         sodipodi:role="line"
+         id="tspan21539">plastic waste stock at the neighbourhood</tspan></text>
+    <text
+       id="text21547"
+       y="160.19945"
+       x="-7.771647"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:0%;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';stroke-width:0.282222px"
+         y="160.19945"
+         x="-7.771647"
+         sodipodi:role="line"
+         id="tspan21543">- Priorities in the Urban </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';stroke-width:0.282222px"
+         y="169.90085"
+         x="-7.771647"
+         sodipodi:role="line"
+         id="tspan21545"
+         dx="0.52855611">Ecosystem services </tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:0.392157;stroke:#000000;stroke-width:0.282222;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:6.77331, 0.282222;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect21927"
+       width="149.71671"
+       height="81.745422"
+       x="-178.10565"
+       y="75.808472"
+       ry="2.1083677" />
+    <rect
+       style="display:inline;fill:#f4ce5e;fill-opacity:0.392157;stroke:#000000;stroke-width:0.282222;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:6.77333, 0.282222;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect21929"
+       width="149.71671"
+       height="15.147346"
+       x="-178.10565"
+       y="75.808502"
+       ry="0.39067844" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.38667px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-104.14122"
+       y="86.251259"
+       id="text21933"><tspan
+         sodipodi:role="line"
+         x="-104.14122"
+         y="86.251259"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:center;text-anchor:middle;stroke-width:0.282222px"
+         id="tspan21931">Experimentation</tspan></text>
+    <text
+       id="text21939"
+       y="107.26183"
+       x="-175.31281"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:0%;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';stroke-width:0.282222px"
+         y="107.26183"
+         x="-175.31281"
+         id="tspan21935"
+         sodipodi:role="line">- Close thedata gap: in terms of </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';stroke-width:0.282222px"
+         y="116.96321"
+         x="-175.31281"
+         sodipodi:role="line"
+         id="tspan21937">plastic waste stock at the neighbourhood</tspan></text>
+    <text
+       id="text21945"
+       y="139.01183"
+       x="-175.31281"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:0%;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';stroke-width:0.282222px"
+         y="139.01183"
+         x="-175.31281"
+         sodipodi:role="line"
+         id="tspan21941">- Priorities in the Urban </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';stroke-width:0.282222px"
+         y="148.71321"
+         x="-175.31281"
+         sodipodi:role="line"
+         id="tspan21943"
+         dx="0.52855611">Ecosystem services </tspan></text>
+  </g>
+</svg>

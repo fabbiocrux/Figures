@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="397.0975mm"
    height="270.41803mm"
    viewBox="0 0 397.0975 270.41803"
    version="1.1"
    id="svg2210"
-   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
    sodipodi:docname="AM-fr.svg"
    inkscape:export-filename="/Users/fabio/Documents/Figures/AM/AM-Processes-00-fr.png"
    inkscape:export-xdpi="99.08445"
-   inkscape:export-ydpi="99.08445">
+   inkscape:export-ydpi="99.08445"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2204">
     <marker
@@ -716,7 +716,11 @@
     <filter
        id="filter4772-1-9-9-9"
        inkscape:collect="always"
-       style="color-interpolation-filters:sRGB">
+       style="color-interpolation-filters:sRGB"
+       x="-inf"
+       y="-inf"
+       width="inf"
+       height="inf">
       <feGaussianBlur
          id="feGaussianBlur4774-4-1-4-0"
          stdDeviation="0.16451305"
@@ -1125,11 +1129,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.63303995"
-     inkscape:cx="389.4638"
-     inkscape:cy="511.0262"
+     inkscape:zoom="0.44993906"
+     inkscape:cx="605.63757"
+     inkscape:cy="944.57235"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g8449"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -1137,13 +1141,14 @@
      fit-margin-bottom="0"
      inkscape:snap-others="false"
      inkscape:document-rotation="0"
-     inkscape:window-width="1440"
-     inkscape:window-height="855"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:window-width="1706"
+     inkscape:window-height="1387"
+     inkscape:window-x="2534"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:object-nodes="false"
-     inkscape:snap-nodes="false" />
+     inkscape:snap-nodes="false"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata2207">
     <rdf:RDF>
@@ -1152,7 +1157,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1333,7 +1337,7 @@
              id="tspan3242"
              x="10.398316"
              y="125.13734"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';stroke-width:0.282222px">Liasion par réaction thermique</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';stroke-width:0.282222px">Liaison par réaction thermique</tspan></text>
       </g>
       <g
          transform="translate(85.849673)"
@@ -1859,19 +1863,22 @@
         <text
            id="text3393"
            y="288.02744"
-           x="40.685181"
+           x="36.981014"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
+           xml:space="preserve"
+           inkscape:export-filename="/Users/fabio/Documents/Figures/AM/AM-fr.png"
+           inkscape:export-xdpi="99.08445"
+           inkscape:export-ydpi="99.08445"><tspan
              id="tspan3391"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';stroke-width:0.282222px"
              y="288.02744"
-             x="40.685181"
-             sodipodi:role="line">Material</tspan><tspan
+             x="36.981014"
+             sodipodi:role="line">Projection</tspan><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';stroke-width:0.282222px"
              y="295.96494"
-             x="40.685181"
+             x="36.981014"
              sodipodi:role="line"
-             id="tspan3424">jetting</tspan></text>
+             id="tspan3424">de matière</tspan></text>
       </g>
       <g
          transform="translate(1.1559007,-46.288653)"
@@ -1894,7 +1901,7 @@
              x="102.71206"
              y="288.56696"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';stroke-width:0.282222px"
-             id="tspan3431">PFritage à poudre</tspan></text>
+             id="tspan3431">Frittage à poudre</tspan></text>
       </g>
       <g
          transform="translate(-2.1754821,-46.288653)"
@@ -1981,7 +1988,7 @@
              x="201.51384"
              y="295.96494"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';stroke-width:0.282222px"
-             id="tspan1411">matériau</tspan></text>
+             id="tspan1411">matériaux</tspan></text>
       </g>
       <g
          transform="translate(-1.2822311,-46.288653)"
@@ -2413,7 +2420,7 @@
                  x="-1116.9619"
                  y="-3117.0366"
                  style="font-size:12.5px;line-height:1.25"
-                 id="tspan13688">rojection de </tspan><tspan
+                 id="tspan13688">Projection de </tspan><tspan
                  sodipodi:role="line"
                  x="-1116.9619"
                  y="-3101.4116"
@@ -3398,18 +3405,23 @@
              sodipodi:role="line"
              x="44.631447"
              y="317.62436"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.282222px">Binder jetting</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.282222px">Projection de </tspan><tspan
+             sodipodi:role="line"
+             x="44.631447"
+             y="324.23895"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.282222px"
+             id="tspan56838">liant</tspan><tspan
              id="tspan10240"
              sodipodi:role="line"
              x="44.631447"
-             y="320.40353" /><tspan
+             y="327.01813" /><tspan
              sodipodi:role="line"
              x="44.631447"
-             y="320.40353"
+             y="327.01813"
              id="tspan10244" /><tspan
              sodipodi:role="line"
              x="44.631447"
-             y="320.40353"
+             y="327.01813"
              id="tspan10246" /></text>
         <rect
            y="306.43964"
@@ -3478,16 +3490,11 @@
          x="-28.490305"
          y="312.00363"
          id="text20531-0"><tspan
-           id="tspan20941"
-           sodipodi:role="line"
-           x="-28.490305"
-           y="312.00363"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.282222px">Technique</tspan><tspan
            id="tspan20961"
            sodipodi:role="line"
            x="-28.490305"
-           y="314.53745"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.282222px" /></text>
+           y="312.00363"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.282222px">Procédé</tspan></text>
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 88.435768,108.78565 h 50.693142 v -2.10977 2.10977 h 68.89983"
@@ -3521,76 +3528,81 @@
       <text
          id="text2172"
          y="334.27734"
-         x="-0.001610597"
+         x="-5.2932773"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0.6;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           dx="0 0 0 0 0.41624478"
-           style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
-           y="334.27734"
-           x="-0.001610597"
-           id="tspan2170"
-           sodipodi:role="line">FFF:Fused filament </tspan><tspan
            id="tspan2365"
            style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
-           y="338.93402"
-           x="-0.001610597"
-           sodipodi:role="line">        fabrication</tspan><tspan
+           y="334.27734"
+           x="-5.2932773"
+           sodipodi:role="line">Dépôt de filament <tspan
+   dx="0 0 0 0 0 0"
+   id="tspan17255"
+   style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px">Fondu </tspan></tspan><tspan
            id="tspan2174"
            style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
+           y="338.93402"
+           x="-5.2932773"
+           sodipodi:role="line"></tspan><tspan
+           style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
            y="343.59067"
-           x="-0.001610597"
-           sodipodi:role="line">FGF: Fused granular  </tspan><tspan
+           x="-5.2932773"
+           sodipodi:role="line"
+           id="tspan53866">Fabrication par extrusion</tspan><tspan
            id="tspan2367"
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
            style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
            y="348.24734"
-           x="-0.001610597"
-           sodipodi:role="line">         fabricationg  </tspan></text>
+           x="-5.2932773"
+           sodipodi:role="line"
+           dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">directe des granulés </tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0.6;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="44.413727"
+         x="60.288731"
          y="334.24426"
          id="text2180"><tspan
            sodipodi:role="line"
            id="tspan2176"
-           x="44.413727"
+           x="60.288731"
            y="334.24426"
-           style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
-           dx="0 0 0 0">MJM: Multijet modelling</tspan><tspan
+           style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px">Modelage à jets </tspan><tspan
            sodipodi:role="line"
-           x="44.413727"
+           x="60.288731"
            y="338.90094"
            style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
-           id="tspan2178"><tspan
-             style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
-             id="tspan2188">BPM: Ballistic particle </tspan></tspan><tspan
+           id="tspan46530">multiples</tspan><tspan
            id="tspan2190"
            sodipodi:role="line"
-           x="44.413727"
+           x="60.288731"
            y="343.55759"
+           style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px">Fabrication par tire </tspan><tspan
+           sodipodi:role="line"
+           x="60.288731"
+           y="348.21426"
            style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"><tspan
-             id="tspan2192"
-             style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
-             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">          manufacturing </tspan></tspan></text>
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
+           id="tspan51909"><tspan
+   dx="0 0 0 0 0 0 0 0.41624478"
+   id="tspan55130"
+   style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px">de </tspan>particules</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0.6;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="99.868034"
+         x="112.03886"
          y="334.31042"
          id="text2180-5"><tspan
-           id="tspan2236"
-           sodipodi:role="line"
-           x="99.868034"
-           y="334.31042"
-           style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px">SLS: Selective laser </tspan><tspan
            id="tspan2363"
            sodipodi:role="line"
-           x="99.868034"
+           x="112.03886"
+           y="334.31042"
+           style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px">Frittage de poudre </tspan><tspan
+           sodipodi:role="line"
+           x="112.03886"
            y="338.9671"
            style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478">         sintering</tspan></text>
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
+           id="tspan53972">par laser</tspan></text>
       <text
          id="text2232"
          y="334.23395"
@@ -3598,60 +3610,67 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0.6;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan2234"
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
            style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
            y="334.23395"
            x="157.38301"
            sodipodi:role="line"><tspan
              style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
              id="tspan2357"
-             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478">3DP: 3D printing</tspan></tspan></text>
+             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478">3DP: Impression 3D</tspan></tspan></text>
       <text
          id="text2232-4"
          y="333.25208"
-         x="211.76013"
+         x="201.17679"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0.6;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
            style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
            y="333.25208"
-           x="211.76013"
+           x="201.17679"
            sodipodi:role="line"
-           id="tspan2230-3">SLA: Stereolitography</tspan><tspan
-           id="tspan2259"
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
+           id="tspan2230-3">SLA:  Stéréolithographie</tspan><tspan
+           id="tspan2261"
            style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
            y="337.90875"
-           x="211.76013"
-           sodipodi:role="line">DLP: Digital light processing</tspan><tspan
-           id="tspan2261"
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
+           x="201.17679"
+           sodipodi:role="line"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
+             id="tspan66840"
+             style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px">DLP:  Trairement numérique de la lumière</tspan></tspan><tspan
+           id="tspan2263"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
            style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
            y="342.5654"
-           x="211.76013"
-           sodipodi:role="line">CLIP: Continous liquid interface</tspan><tspan
-           id="tspan2263"
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
+           x="201.17679"
+           sodipodi:role="line"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
+             id="tspan68154"
+             style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px">CLIP: Production continue par interface </tspan></tspan><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
            style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
            y="347.22208"
-           x="211.76013"
-           sodipodi:role="line">          production</tspan><tspan
-           id="tspan2265"
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
+           x="201.17679"
+           sodipodi:role="line"
+           id="tspan68156">          liquide</tspan><tspan
+           id="tspan2267"
            style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
            y="351.87872"
-           x="211.76013"
-           sodipodi:role="line">MPP: Multiphoton polymerization</tspan><tspan
-           id="tspan2267"
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
+           x="201.17679"
+           sodipodi:role="line"><tspan
+   dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
+   id="tspan69900"
+   style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px">MPP: Polymérisation multiphotonique</tspan></tspan><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
            style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
            y="356.5354"
-           x="211.76013"
-           sodipodi:role="line">2PP: Two photon </tspan><tspan
+           x="201.17679"
+           sodipodi:role="line"
+           id="tspan69902">2PP: Impression à deux photons </tspan><tspan
            id="tspan2234-5"
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
            y="360.13373"
-           x="211.76013"
+           x="201.17679"
            sodipodi:role="line" /></text>
       <g
          id="g2291"
@@ -3697,28 +3716,33 @@
          x="281.07187"
          y="334.31662"
          id="text2320"><tspan
-           id="tspan2349"
+           id="tspan2359"
            sodipodi:role="line"
            x="281.07187"
            y="334.31662"
            style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"><tspan
              style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
-             id="tspan2355">LOM: Laminated object </tspan></tspan><tspan
-           id="tspan2359"
+             id="tspan2355">LOM: Stratification de </tspan></tspan><tspan
            sodipodi:role="line"
            x="281.07187"
            y="338.9733"
            style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"><tspan
-   id="tspan2361"
-   style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
-   dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478">          m</tspan>anufacturing</tspan><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
+           id="tspan73256"><tspan
+             style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
+             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
+             id="tspan73258">          couches</tspan></tspan><tspan
            id="tspan2351"
            sodipodi:role="line"
            x="281.07187"
            y="343.62994"
+           style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px">SFP: Polymérisation en </tspan><tspan
+           sodipodi:role="line"
+           x="281.07187"
+           y="348.28662"
            style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478">SFP: Solid foil polymerization</tspan></text>
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.41624478"
+           id="tspan74936">         feuille solide</tspan></text>
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -3769,50 +3793,74 @@
          sodipodi:nodetypes="ccccccccccccc" />
       <g
          transform="translate(50.143319,-12.322066)"
-         id="g7961">
-        <rect
-           style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect21393-6"
-           width="14.300536"
-           height="4.5680141"
-           x="-69.056145"
-           y="148.46851"
-           ry="1.1686311" />
-        <text
-           id="text21385-3"
-           y="151.64479"
-           x="-68.283386"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';stroke-width:0.282222px"
-             y="151.64479"
-             x="-68.283386"
-             sodipodi:role="line"
-             id="tspan21383-4">Bonding</tspan></text>
-      </g>
+         id="g7961" />
       <g
          transform="translate(50.171508,12.565021)"
-         id="g7961-7">
-        <rect
-           style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect21393-6-4"
-           width="14.300536"
-           height="4.5680141"
-           x="-69.056145"
-           y="148.46851"
-           ry="1.1686311" />
-        <text
-           id="text21385-3-0"
-           y="151.64479"
-           x="-68.283386"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';stroke-width:0.282222px"
-             y="151.64479"
-             x="-68.283386"
-             sodipodi:role="line"
-             id="tspan21383-4-7">Bonding</tspan></text>
-      </g>
+         id="g7961-7" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0.6;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="46.001228"
+         y="334.24426"
+         id="text48650"><tspan
+           sodipodi:role="line"
+           x="46.001228"
+           y="334.24426"
+           style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
+           id="tspan48640"><tspan
+             dx="0 0 0 0"
+             id="tspan52016"
+             style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px">MJM: </tspan></tspan><tspan
+           sodipodi:role="line"
+           x="46.001228"
+           y="338.90094"
+           style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
+           id="tspan52120" /><tspan
+           id="tspan48648"
+           sodipodi:role="line"
+           x="46.001228"
+           y="343.55759"
+           style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
+           dx="0 0 0 0 0 0 0 0 0 0.41624478">BPM: </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0.6;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-17.498774"
+         y="334.24426"
+         id="text52210"><tspan
+           sodipodi:role="line"
+           x="-17.498774"
+           y="334.24426"
+           style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
+           id="tspan52204"><tspan
+             id="tspan52202"
+             style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px">FFF: </tspan></tspan><tspan
+           sodipodi:role="line"
+           x="-17.498774"
+           y="338.90094"
+           style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
+           id="tspan52206" /><tspan
+           id="tspan52208"
+           sodipodi:role="line"
+           x="-17.498774"
+           y="343.55759"
+           style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
+           dx="0 0 0 0 0 0 0 0 0.41624478">FGF:</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:0.6;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="101.03457"
+         y="334.24426"
+         id="text54062"><tspan
+           id="tspan54060"
+           sodipodi:role="line"
+           x="101.03457"
+           y="334.24426"
+           style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px"
+           dx="0 0 0 0 0 0 0 0 0 0.41624478"><tspan
+             dx="0 0 0 0"
+             id="tspan54054"
+             style="font-size:4.23333px;line-height:1.1;stroke-width:0.264583px">SLS: </tspan></tspan></text>
     </g>
   </g>
 </svg>

@@ -2,21 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="155"
    height="70"
    viewBox="0 0 155 69.999998"
    id="svg4935"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="logo-ERPI.svg">
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="ERPI.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4937">
     <linearGradient
@@ -123,9 +123,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="32.602744"
-     inkscape:cy="16.500481"
+     inkscape:zoom="30.136814"
+     inkscape:cx="20.871483"
+     inkscape:cy="31.937683"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -133,12 +133,15 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1436"
-     inkscape:window-height="855"
-     inkscape:window-x="1280"
-     inkscape:window-y="125"
-     inkscape:window-maximized="1"
-     units="px" />
+     inkscape:window-width="1728"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     units="px"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata4940">
     <rdf:RDF>
@@ -147,7 +150,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -456,5 +459,19 @@
        id="path5662"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssscccccscsccccsscccsccscscsssccccccccssccccccccssssccssssccccsssscssccsssscssccscssscccssscc" />
+    <rect
+       style="fill:#005798;stroke:#005798;stroke-width:1.51181;fill-opacity:1;stroke-opacity:1"
+       id="rect1"
+       width="8.5880518"
+       height="6.6694446"
+       x="-17.469156"
+       y="1080.4813" />
+    <rect
+       style="fill:#009242;fill-opacity:1;stroke:#005798;stroke-width:1.51181;stroke-opacity:1"
+       id="rect2"
+       width="8.5880518"
+       height="6.6694446"
+       x="-3.4691563"
+       y="1080.4813" />
   </g>
 </svg>
